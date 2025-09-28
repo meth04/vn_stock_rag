@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+python-dotenv
+mistralai
+vnstock
+pandas
+numpy
+langchain-google-genai 

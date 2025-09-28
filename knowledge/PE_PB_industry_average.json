@@ -1,0 +1,17 @@
+{
+    "description": "Tỷ lệ P/E, P/B trung bình của từng ngành tính đến quý 2 năm 2025",
+    "data": {
+        "Tài chính ngân hàng": { "PE": 7.93, "PB": 1.32 },
+        "Chứng khoán và ngân hàng đầu tư": { "PE": 18.33, "PB": 1.61 },
+        "Bảo hiểm": { "PE": 10.97, "PB": 1.14 },
+        "Bất động sản": { "PE": 19.94, "PB": 1.90 },
+        "Phần mềm và dịch vụ công nghệ thông tin": { "PE": 20.60, "PB": 5.16 },
+        "Kim loại và khai khoáng": { "PE": 15.37, "PB": 2.82 },
+        "Hóa chất": { "PE": 11.27, "PB": 2.10 },
+        "Bán lẻ chuyên dụng": { "PE": 18.10, "PB": 2.76 },
+        "Dệt may": { "PE": 8.14, "PB": 1.15 },
+        "Dầu và khí đốt": { "PE": 15.53, "PB": 2.10 },
+        "Ngành điện": { "PE": 12.94, "PB": 1.80 },
+        "Dược phẩm": { "PE": 15.45, "PB": 2.46 }
+    }
+}

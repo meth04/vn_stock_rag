@@ -1,0 +1,1972 @@
+--- TRANG 0 ---
+|  CÔNG TY | Digitally signed by  |
+| --- | --- |
+|  CỔ PHÂN | CÔNG TY CỔ PHẦN  |
+|  FPT | FPT  |
+|   | Date: 2025.04.22  |
+|  FPT | 20.20.11 +07'00'  |
+
+CÔNG TY CỔ PHẦN FPT FPT CORPORATION
+
+Số: 44/FPT-FCC No.: 44/FPT-FCC
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc THE SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness
+
+Hà Nội, ngày 22 tháng 04 năm 2025 Hanoi, April 22nd 2025
+
+# CÔNG BÓ THÔNG TIN ĐỊNH KỲ PERIODIC INFORMATION DISCLOSURE
+
+## Kính gửi: Ủy ban Chứng khoán Nhà nước Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh
+
+### To: The State Securities Commission Hochiminh Stock Exchange
+
+1. Tên tổ chức/Name of organization: Công ty Cổ phần FPT/ FPT Corporation
+2. Mã chứng khoán/Mã thành viên/ Stock code/ Broker code: FPT/ FPT
+3. Địa chỉ/Address: Số 10, phố Phạm Văn Bạch, Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam/ 10 Pham Van Bach Street, Dịch Vọng Ward, Cau Giay District, Hanoi, Vietnam
+4. Điện thoại liên hệ/Tel.: 024. 7300 7300 Fax: 024. 3768 7410
+5. E-mail: ir@fpt.com website: https://fpt.com
+6. Nội dung thông tin công bố / Contents of disclosure:
+
+Báo cáo tài chính công ty mẹ quý 1 năm 2025 và Báo cáo tài chính hợp nhất quý 1 năm 2025 / Separate Financial Statements for 1st quarter of 2025 and Consolidated Financial Statements for 1st quarter of 2025
+
+1. Thông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày 22/04/2025 tại đường dẫn https://fpt.com.vn/vi/nha-dau-tu/thong-tin-cong-bo/ This information was published on the company's website on 22/04/2025, as in the link https://fpt.com.vn/en/ir/information-disclosures
+
+--- TRANG 1 ---
+Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố/ We hereby certify that the information provided is true and correct and we bear the full responsibility to the law.
+
+Tài liệu dinh kèm/Attached documents: Báo cáo tài chính công ty mẹ quý 1 năm 2025 và Báo cáo tài chính họp nhất quý 1 năm 2025 / Separate Financial Statements for 1st quarter of 2025 and Consolidated Financial Statements for 1st quarter of 2025
+
+## Đại diện tổ chức <br> Organization representative <br> Người được UQ CBTT <br> Person informed to disclose information <br> Mai Thị Lan Anh
+
+![img-0.jpeg](img-0.jpeg)
+
+--- TRANG 2 ---
+# ![img-1.jpeg](img-1.jpeg) 
+
+CÔNG TY CỔ PHẦN FPT
+
+## BÁO CÁO TÀI CHÍNH HỢP NHẤT CÔNG TY CỔ PHẦN FPT
+
+QUÝ I NĂM 2025
+
+--- TRANG 3 ---
+# BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+## Tại ngày 31 tháng 03 năm 2025
+
+**MẪU SỐ B 01-DN/HN**
+
+**Đơn vị: VND**
+
+|  TÀI SẢN | Mã số | Thuyết
+minh | 31/03/2025 | 31/12/2024  |
+| --- | --- | --- | --- | --- |
+|  **A. TÀI SẢN NGẪN HẠN** | 100 |  | 46.075.510.989.597 | 45.535.942.846.453  |
+|  **I. Tiền và các khoản tương đương tiền** | 110 | 5 | 6.755.645.214.252 | 9.315.440.438.884  |
+|  1. Tiền | 111 |  | 5.342.746.710.936 | 6.725.619.929.289  |
+|  2. Các khoản tương đương tiền | 112 |  | 1.412.898.503.316 | 2.589.820.509.595  |
+|  **II. Các khoản đầu tư tài chính ngắn hạn** | 120 | 6 | 23.768.377.985.785 | 21.785.213.686.808  |
+|  1. Đầu tư nắm giữ đến ngày đào hạn | 123 |  | 23.768.377.985.785 | 21.785.213.686.808  |
+|  **III. Các khoản phải thu ngắn hạn** | 130 |  | 11.997.831.491.115 | 11.381.523.992.803  |
+|  1. Phải thu ngắn hạn của khách hàng | 131 | 7 | 10.855.474.371.546 | 10.537.019.113.380  |
+|  2. Trả trước cho người bán ngắn hạn | 132 |  | 654.479.702.711 | 610.379.845.664  |
+|  3. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng | 134 |  | 153.811.104.201 | 136.097.256.629  |
+|  4. Phải thu về cho vay ngắn hạn | 135 |  | 9.757.907.901 | 9.808.117.590  |
+|  5. Phải thu ngắn hạn khác | 136 | 8 | 894.960.947.874 | 707.751.585.399  |
+|  6. Dự phòng phải thu ngắn hạn khó đòi | 137 | 9 | (570.652.543.118) | (619.531.925.859)  |
+|  **IV. Hàng tồn kho** | 140 | 10 | 2.107.939.084.995 | 1.856.756.949.030  |
+|  1. Hàng tồn kho | 141 |  | 2.238.873.166.859 | 1.990.224.486.513  |
+|  2. Dự phòng giảm giá hàng tồn kho | 149 |  | (130.934.081.864) | (133.467.537.483)  |
+|  **V. Tài sản ngắn hạn khác** | 150 |  | 1.445.717.213.450 | 1.197.007.778.928  |
+|  1. Chi phí trả trước ngắn hạn | 151 | 14 | 664.880.944.825 | 479.707.218.558  |
+|  2. Thuế giá trị gia tăng được khấu trừ | 152 |  | 641.338.640.115 | 648.697.117.785  |
+|  3. Thuế và các khoản khác phải thu Nhà nước | 153 | 19 | 139.497.628.510 | 68.603.442.585  |
+
+--- TRANG 4 ---
+# BÁNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+Tại ngày 31 tháng 03 năm 2025
+
+|   | Mẫu Sổ B 01-DN/HN  |
+| --- | --- |
+|   | Đơn vị: VND  |
+|  TÀI SẢN | Mã số  |
+|  B. TÀI SẢN DÀI HẠN | 200  |
+|  I. Các khoản phải thu dài hạn | 210  |
+|  1. Phải thu về cho vay dài hạn | 215  |
+|  2. Phải thu dài hạn khác | 216  |
+|  3. Dự phòng phải thu dài hạn khó đòi | 219  |
+|  II. Tài sản cố định | 220  |
+|  1. Tài sản cố định hữu hình | 221  |
+|  - Nguyên giả | 222  |
+|  - Giá trị hao mòn lũy kế | 223  |
+|  2. Tài sản cố định thuê tài chính | 224  |
+|  - Nguyên giả | 225  |
+|  - Giá trị hao mòn lũy kế | 226  |
+|  3. Tài sản cố định vô hình | 227  |
+|  - Nguyên giả | 228  |
+|  - Giá trị hao mòn lũy kế | 229  |
+|  III. Tài sản dở dang dài hạn | 240  |
+|  1. Chi phí xây dựng cơ bản dở dang | 242  |
+|  IV. Các khoản đầu tư tài chính dài hạn | 250  |
+|  1. Đầu tư vào công ty liên doanh, liên kết | 252  |
+|  2. Đầu tư góp vốn vào đơn vị khác | 253  |
+|  3. Dự phòng đầu tư tài chính dài hạn | 254  |
+|  4. Đầu tư nắm giữ đến ngày đáo hạn | 255  |
+|  V. Tài sản dài hạn khác | 260  |
+|  1. Chi phí trả trước dài hạn | 261  |
+|  2. Tài sản thuế thu nhập hoãn lại | 262  |
+|  3. Lợi thế thương mại | 269  |
+|  TỔNG CỘNG TÀI SẢN (270 = 100 + 200) | 270  |
+
+|  Mẫu Sổ B 01-DN/HN |   |
+| --- | --- |
+|  Đơn vị: VND |   |
+|  31/03/2025 | 31/12/2024  |
+|  27.922.162.132.192 | 26.464.052.832.167  |
+|  433.719.282.180 | 331.646.166.008  |
+|  3.234.647.419 | 2.509.722.351  |
+|  482.857.117.398 | 381.508.926.294  |
+|  (52.372.482.637) | (52.372.482.637)  |
+|  15.548.353.983.782 | 14.816.131.186.204  |
+|  13.567.762.652.609 | 12.774.567.961.718  |
+|  25.711.539.128.956 | 24.457.733.666.511  |
+|  (12.143.776.476.347) | (11.683.165.704.793)  |
+|  1.950.397.239 | 2.042.708.364  |
+|  5.982.014.084 | 5.716.034.788  |
+|  (4.031.616.845) | (3.673.326.424)  |
+|  1.978.640.933.934 | 2.039.520.516.122  |
+|  3.676.618.000.169 | 3.656.302.027.788  |
+|  (1.697.977.066.235) | (1.616.781.511.666)  |
+|  2.812.693.461.694 | 2.559.766.724.411  |
+|  2.812.693.461.694 | 2.559.766.724.411  |
+|  3.526.503.466.795 | 3.318.095.237.260  |
+|  2.496.646.180.033 | 2.281.222.436.752  |
+|  3.422.494.535.673 | 3.393.737.969.842  |
+|  (2.392.837.248.911) | (2.357.065.169.334)  |
+|  200.000.000 | 200.000.000  |
+|  5.600.891.937.741 | 5.438.413.518.284  |
+|  3.785.638.253.320 | 3.765.187.625.417  |
+|  749.151.566.547 | 575.767.686.189  |
+|  1.066.102.117.874 | 1.097.458.206.678  |
+|  73.997.673.121.789 | 71.999.995.678.620  |
+
+--- TRANG 5 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## BÁNG CÂN ĐỔI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+Tại ngày 31 tháng 03 năm 2025
+
+|  NGUỒN VỐN | Mã số | Thuyết
+minh | 31/03/2025 | MẪU SỐ B 01-DN/HN
+Đơn vị: VND  |
+| --- | --- | --- | --- | --- |
+|   |  |  | 31/03/2025 | 31/12/2024  |
+|  C. NƠ PHẢI TRẢ | 300 |  | 36.101.018.424.847 | 36.272.455.573.820  |
+|  I. Nợ ngắn hạn | 310 |  | 33.917.117.422.503 | 34.836.184.067.740  |
+|  1. Phải trả người bán ngắn hạn | 311 | 18 | 3.244.393.302.947 | 4.423.912.840.298  |
+|  2. Người mua trả tiền trước ngắn hạn | 312 |  | 601.277.867.861 | 562.066.755.666  |
+|  3. Thuế và các khoản phải nộp Nhà nước | 313 | 19 | 1.121.444.348.802 | 2.298.821.801.748  |
+|  4. Phải trả người lao động | 314 |  | 3.131.535.196.468 | 4.341.013.546.853  |
+|  5. Chi phí phải trả ngắn hạn | 315 | 20 | 1.333.924.968.064 | 1.241.089.122.260  |
+|  6. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng | 317 |  | 101.890.782.709 | 92.738.882.375  |
+|  7. Doanh thu chưa thực hiện ngắn hạn | 318 | 21 | 2.690.354.669.032 | 4.224.649.366.399  |
+|  8. Phải trả ngắn hạn khác | 319 | 22 | 1.251.531.665.774 | 874.015.837.328  |
+|  9. Vay và nợ thuê tài chính ngắn hạn | 320 | 23 | 18.320.209.599.285 | 14.446.238.451.323  |
+|  10. Dự phòng phải trả ngắn hạn | 321 |  | 469.541.169.378 | 496.600.145.127  |
+|  11. Quỹ khen thưởng, phúc lợi | 322 |  | 1.651.013.852.183 | 1.835.037.318.363  |
+|  II. Nợ dài hạn | 330 |  | 2.183.901.002.344 | 1.436.271.506.080  |
+|  1. Doanh thu chưa thực hiện dài hạn | 336 | 21 | 148.599.657.911 | 131.344.534.204  |
+|  2. Phải trả dài hạn khác | 337 | 22 | 174.873.393.589 | 183.788.442.785  |
+|  3. Vay và nợ thuê tài chính dài hạn | 338 | 23 | 987.681.080.191 | 501.115.537.075  |
+|  4. Thuế thu nhập hoãn lại phải trả | 341 |  | 569.727.369.002 | 356.966.680.614  |
+|  5. Dự phòng phải trả dài hạn | 342 |  | 302.827.405.368 | 262.864.215.119  |
+|  6. Quỹ phát triển khoa học và công nghệ | 343 |  | 192.096.283 | 192.096.283  |
+
+--- TRANG 6 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+Tại ngày 31 tháng 03 năm 2025
+
+Mẫu SỐ B 01-DN/HN Đơn vị: VND
+
+|  Nguồn Vốn | Mã số | Thuyết minh | 31/03/2025 | 31/12/2024  |
+| --- | --- | --- | --- | --- |
+|  D. VỐN CHỦ SỞ HỮU | 400 |  | 37.896.654.696.942 | 35.727.540.104.800  |
+|  I. Vốn chủ sở hữu | 410 | 24 | 37.893.904.696.942 | 35.724.790.104.800  |
+|  1. Vốn góp của chủ sở hữu | 411 |  | 14.710.691.830.000 | 14.710.691.830.000  |
+|  - Cổ phiếu phổ thông có quyền biểu quyết | 411a |  | 14.710.691.830.000 | 14.710.691.830.000  |
+|  2. Thặng dư vốn cổ phần | 412 |  | 49.713.213.411 | 49.713.213.411  |
+|  3. Vốn khác của chủ sở hữu | 414 |  | 1.929.012.703.454 | 1.929.012.703.454  |
+|  4. Chênh lệch tỷ giá hối đoái | 417 |  | 13.708.111.052 | (49.485.560.860)  |
+|  5. Quỹ đầu tư phát triển | 418 |  | 2.071.074.307.101 | 2.033.289.141.535  |
+|  6. Quỹ khác thuộc vốn chủ sở hữu | 420 |  | 91.579.141.774 | 87.730.484.825  |
+|  7. Lợi nhuận sau thuế chưa phân phối | 421 |  | 13.205.526.456.323 | 11.030.528.671.431  |
+|  - Lợi nhuận sau thuế chưa phân phối đến cuối kỳ trước | 421a |  | 11.031.225.069.798 | 5.458.228.109.134  |
+|  - Lợi nhuận sau thuế chưa phân phối kỳ này | 421b |  | 2.174.301.386.525 | 5.572.300.562.297  |
+|  8. Lợi ích cổ đông không kiểm soát | 429 |  | 5.822.598.933.827 | 5.933.309.621.004  |
+|  II. Nguồn kinh phí và quỹ khác | 430 |  | 2.750.000.000 | 2.750.000.000  |
+|  1. Nguồn kinh phí | 431 |  | 2.750.000.000 | 2.750.000.000  |
+|  Tổng Giảng Nguồn Vốn (440=300+400) | 440 |  | 73.997.673.121.789 | 71.999.995.678.620  |
+
+Lê Văn Trung Người lập
+
+Hoàng Hữu Chiến Kế toán trưởng
+
+Nguyễn Thế Phương Phó Tổng giám đốc
+
+Hà Nội, ngày 18 tháng 4 năm 2025
+
+--- TRANG 7 ---
+# BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+|  CHÍ TIÊU | Mà | Thuyết | QUÝ I |  |  | MẪU SỐ B 02-DN/HN  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | số | minh | Năm 2025 | Năm 2024 | Lũy kế từ đầu năm đến cuối quý này |   |
+|  1 Doanh thu bán hàng và cung cấp dịch vụ | 01 |  | 16.064.980.391.264 | 14.093.297.397.476 | 16.064.980.391.264 | 14.093.297.397.476  |
+|  2 Các khoản giảm trừ | 02 |  | 6.839.448.804 | 368.983.777 | 6.839.448.804 | 368.983.777  |
+|  3 Doanh thu thuần về bán hàng và cung cấp dịch vụ | 10 | 25 | 16.058.140.942.460 | 14.092.928.413.699 | 16.058.140.942.460 | 14.092.928.413.699  |
+|  4 Giá vốn hàng bán | 11 | 26 | 9.756.793.038.194 | 8.582.462.733.612 | 9.756.793.038.194 | 8.582.462.733.612  |
+|  5 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ | 20 |  | 6.301.347.904.266 | 5.510.465.680.087 | 6.301.347.904.266 | 5.510.465.680.087  |
+|  6 Doanh thu hoạt động tài chính | 21 | 27 | 573.331.893.191 | 457.092.979.986 | 573.331.893.191 | 457.092.979.986  |
+|  7 Chi phí tài chính | 22 | 28 | 311.343.769.364 | 334.065.273.301 | 311.343.769.364 | 334.065.273.301  |
+|  Trong đó: chi phí lãi vay | 23 |  | 152.389.538.333 | 137.833.720.086 | 152.389.538.333 | 137.833.720.086  |
+|  8 Lợi nhuận từ công ty liên doanh liên kết | 24 |  | 136.730.336.838 | 74.454.138.017 | 136.730.336.838 | 74.454.138.017  |
+|  9 Chi phí bán hàng | 25 |  | 1.828.785.929.282 | 1.368.948.625.743 | 1.828.785.929.282 | 1.368.948.625.743  |
+|  10 Chi phí quản lý doanh nghiệp | 26 |  | 1.877.437.056.836 | 1.823.471.776.014 | 1.877.437.056.836 | 1.823.471.776.014  |
+|  11 Lợi nhuận thuần từ hoạt động kinh doanh | 30 |  | 2.993.843.378.813 | 2.515.527.123.032 | 2.993.843.378.813 | 2.515.527.123.032  |
+|  12 Thu nhập khác | 31 |  | 39.212.521.539 | 44.782.907.585 | 39.212.521.539 | 44.782.907.585  |
+|  13 Chi phí khác | 32 |  | 8.362.389.503 | 26.727.976.065 | 8.362.389.503 | 26.727.976.065  |
+|  14 Lợi nhuận khác | 40 |  | 30.850.132.036 | 18.054.931.520 | 30.850.132.036 | 18.054.931.520  |
+|  15 Tổng lợi nhuận kế toán trước thuế | 50 |  | 3.024.693.510.849 | 2.533.582.054.552 | 3.024.693.510.849 | 2.533.582.054.552  |
+|  16 Chi phí thuế TNDN hiện hành | 51 |  | 377.287.599.563 | 389.755.423.988 | 377.287.599.563 | 389.755.423.988  |
+|  17 Chi phí thuế TNDN hoãn lại | 52 |  | 51.848.430.977 | (16.438.659.078) | 51.848.430.977 | (16.438.659.078)  |
+|  18 Lợi nhuận sau thuế thu nhập doanh nghiệp | 60 |  | 2.595.557.480.309 | 2.160.265.289.642 | 2.595.557.480.309 | 2.160.265.289.642  |
+|  - Lợi nhuận sau thuế của Cố đông Công ty mẹ | 61 |  | 2.174.301.386.525 | 1.798.030.863.528 | 2.174.301.386.525 | 1.798.030.863.528  |
+|  - Lợi nhuận sau thuế của Cố đông không kiểm soát | 62 |  | 421.256.093.784 | 362.234.426.114 | 421.256.093.784 | 362.234.426.114  |
+|  19 Lãi cơ bản trên cổ phiếu | 70 | 29 | 1.478 | 1.231 | 1.478 | 1.231  |
+|  20 Lãi suy giảm trên cổ phiếu | 71 |  | 1.478 | 1.231 | 1.478 | 1.231  |
+
+--- TRANG 8 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## GIẢI TRÌNH:
+
+Công ty Cổ phần FPT giải trình biến động kết quả kinh doanh Quý 1 năm 2025 so với cùng kỳ năm trước như sau:
+
+|  Chỉ tiêu | Năm 2025 | Năm 2024 | Tăng giảm | Năm 2025 | Năm 2024 | Tăng giảm  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | QUÝ I | QUÝ I | Giá trị | Tỷ lệ | Lũy kế | Lũy kế  |
+|  Doanh thu thuần | 16.058.141 | 14.092.928 | 1.965.213 | 13,9% | 16.058.141 | 14.092.928  |
+|  Tổng lợi nhuận kế toán trước thuế | 3.024.694 | 2.533.582 | 491.111 | 19,4% | 3.024.694 | 2.533.582  |
+|  Lợi nhuận sau thuế thu nhập doanh nghiệp | 2.595.557 | 2.160.265 | 435.292 | 20,1% | 2.595.557 | 2.160.265  |
+
+Tiếp tục đã tăng trưởng từ các Quý trước, trong Quý 1 năm 2025, FPT tiếp tục đạt kết quả kinh doanh tăng trưởng ấn tượng với doanh thu hợp nhất đạt 16.058 tỷ đồng và lợi nhuận sau thuế đạt 2.596 tỷ đồng, tăng 13,9% và 20,1% so với cùng kỳ năm 2024.
+
+## Tăng trưởng trong quý 1 năm 2025 so với cùng kỳ năm trước chủ yếu do tăng trưởng của Khối Công nghệ:
+
+Trong quý 1 năm 2025, Khối công nghệ đạt doanh thu 9.769 tỷ đồng, tăng trưởng 15,3% và lợi nhuận trước thuế (LNTT) đạt 1.416 tỷ đồng, tăng trưởng 22,5% so với cùng kỳ năm ngoái, chiếm tỷ trọng 61% doanh thu và 47% lợi nhuận trước thuế của Tập đoàn. Trong đó, sản phẩm và dịch vụ công nghệ thông tin (CNTT) nước ngoài đem về doanh thu 8.186 tỷ đồng, tăng trưởng 17,0% và lợi nhuận trước thuế 1.391 tỷ đồng, tăng trưởng 24,8%, thúc đẩy bởi đã tăng trưởng từ thị trường Nhật Bản (tăng trưởng 30,4% so với cùng kỳ nhờ nhu cầu chuyển đổi số mạnh mẽ).
+
+Lê Văn Trung Người lập
+
+Hoàng Hữu Chiến Kế toán trưởng
+
+Ngành Thể Phương Phó Tổng giám đốc
+
+Hà Nội, ngày 18 tháng 4 năm 2025
+
+--- TRANG 9 ---
+# BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+MẪU SỐ B 01-DN/HN
+
+Đơn vị: VND
+
+|  CHÍ TIÊU | Mã số | Lũy kể từ đầu năm đến cuối quý này |   |
+| --- | --- | --- | --- |
+|   |  | Năm 2025 | Năm 2024  |
+|  **I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH** |  |  |   |
+|  1. Lợi nhuận trước thuế | 01 | 3.024.693.510.849 | 2.533.582.054.552  |
+|  2. Điều chỉnh cho các khoản: |  |  |   |
+|  Khẩu hao tài sản cố định và bất động sản đầu tư | 02 | 644.023.121.646 | 617.374.340.526  |
+|  Các khoản dự phòng | 03 | 85.128.981.266 | 81.105.147.752  |
+|  (Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ | 04 | (71.839.057.689) | (22.556.832.506)  |
+|  (Lãi)/lỗ từ hoạt động đầu tư | 05 | (490.145.755.006) | (337.553.397.592)  |
+|  Chi phí lãi vay | 06 | 152.389.538.333 | 137.833.720.086  |
+|  3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động | 08 | 3.344.250.339.399 | 3.009.785.032.818  |
+|  (Tăng)/giảm các khoản phải thu | 09 | (595.412.339.418) | (167.453.550.762)  |
+|  (Tăng)/giảm hàng tồn kho | 10 | (248.648.680.346) | (271.641.024.449)  |
+|  Tăng/(giảm) các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp) | 11 | (3.168.677.797.967) | (1.997.629.152.574)  |
+|  (Tăng)/giảm chi phí trả trước | 12 | (205.624.354.170) | (67.254.616.445)  |
+|  Tiền lãi vay đã trả | 14 | (161.803.237.457) | (160.111.959.538)  |
+|  Thuế thu nhập doanh nghiệp đã nộp | 15 | (1.286.964.186.262) | (633.330.715.962)  |
+|  Tiền chi khác cho hoạt động kinh doanh | 17 | (184.023.466.180) | (369.965.368.266)  |
+|  Lưu chuyển tiền thuần từ hoạt động kinh doanh | 20 | (2.506.903.722.401) | (657.601.355.178)  |
+|  **II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ** |  |  |   |
+|  1. Tiền chi mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác | 21 | (2.607.427.905.351) | (647.322.276.985)  |
+|  2. Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác | 22 | 3.212.123.070 | 10.295.249.160  |
+|  3. Tiền chi cho vay, mua công cụ nợ của đơn vị khác | 23 | (10.159.337.998.571) | (8.977.359.495.900)  |
+|  4. Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác | 24 | 8.175.498.984.215 | 6.851.263.040.484  |
+|  5. Tiền chi đầu tư góp vốn vào các đơn vị khác | 25 | (94.356.673.179) | (733.152.087.882)  |
+|  6. Tiền thu hồi đầu tư vốn vào đơn vị khác | 26 | 5.739.731.680 | -  |
+|  7. Thu lãi tiền cho vay, cổ tức và lợi nhuận được chia | 27 | 279.282.736.376 | 284.299.976.870  |
+|  Lưu chuyển tiền thuần từ hoạt động đầu tư | 30 | (4.397.389.001.760) | (3.211.975.594.253)  |
+
+--- TRANG 10 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+Mẫu số B 01-DN/HN Đơn vị: VND
+
+|  CHÍ TIÊU | Mã số | Lũy kế từ đầu năm đến cuối quý này Năm 2025 | Năm 2024  |
+| --- | --- | --- | --- |
+|  III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH |  |  |   |
+|  1. Tiền thu từ đi vay | 33 | 12.175.546.656.648 | 10.487.172.776.046  |
+|  2. Tiền trả nợ gốc vay | 34 | (7.902.260.870.560) | (7.982.467.720.579)  |
+|  3. Tiền trả nợ gốc thuê tài chính | 35 | (230.583.912) | (345.563.252)  |
+|  4. Cổ tức, lợi nhuận đã trả cho chủ sở hữu | 36 | (9.557.000) | (535.074.322.385)  |
+|  Lưu chuyển tiền thuần từ hoạt động tài chính | 40 | 4.273.045.645.176 | 1.969.285.169.830  |
+|  Lưu chuyển tiền thuần trong kỳ (50=20+30+40) | 50 | (2.631.247.078.985) | (1.900.291.779.601)  |
+|  Tiền và tương đương tiền đầu kỳ | 60 | 9.315.440.438.884 | 8.279.156.683.221  |
+|  Ảnh hưởng của thay đổi tỷ giá hối đoái quy đối ngoại tệ | 61 | 71.451.854.353 | (37.407.398.624)  |
+|  Tiền và tương đương tiền cuối kỳ (70=50+60) | 70 | 6.755.661.214.252 | 6.341.457.504.996  |
+
+Lễ Văn Trung Người lập
+
+Voàng Hữu Chiến Kế toán trưởng
+
+Nguyễn Thế Phương Phó Tổng giám đốc
+
+Hà Nội, ngày 18 tháng 4 năm 2025
+
+--- TRANG 11 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 1. THÔNG TIN KHÁI QUÁT
+
+## Hình thức sở hữu vốn
+
+Công ty Cổ phần FPT (gọi tắt là "Công ty") ban đầu là công ty nhà nước được thành lập tại Việt Nam và sau này được cổ phần hóa theo Quyết định số 178/QĐ-TTg và chính thức trở thành công ty cổ phần. Công ty Cổ phần FPT hoạt động theo Giấy chứng nhận đăng ký kinh doanh số 0103001041 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp lần đầu ngày 13 tháng 5 năm 2002 và các Giấy chứng nhận đăng ký kinh doanh điều chỉnh.
+Theo Giấy chứng nhận đăng ký kinh doanh điều chỉnh ngày 19 tháng 12 năm 2008, Công ty đã đổi tên từ Công ty Cổ phần Phát triển Đầu tư Công nghệ FPT thành Công ty Cổ phần FPT.
+Theo Giấy chứng nhận đăng ký kinh doanh thay đổi lần thứ 58 ngày 25 tháng 10 năm 2024, Công ty đã tăng vốn điều lệ lên thành $14.710 .691 .830 .000 \mathrm{VWD}$.
+Từ tháng 12 năm 2006, cổ phiếu của Công ty Cổ phần FPT được niêm yết trên Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh.
+Tổng số nhân viên của Tập đoàn tại ngày 31 tháng 03 năm 2025 là 55.139 người (ngày 31 tháng 12 năm 2024 là 54.646 người).
+
+## Ngành nghề kinh doanh và hoạt động chính
+
+Hoạt động chính của Tập đoàn là cung cấp các sản phẩm và dịch vụ trong lĩnh vực công nghệ thông tin và viễn thông. Các sản phẩm và dịch vụ được cung cấp chủ yếu: (i) Dịch vụ phát triển phần mềm gồm xuất khẩu phần mềm, cung cấp phần mềm đóng gói và giải pháp, dịch vụ phần mềm và hệ thống quản trị nguồn lực ERP; (ii) Dịch vụ công nghệ thông tin gồm dịch vụ tư vấn chuyển đổi số và tư vấn công nghệ thông tin, dịch vụ quản trị hệ thống, dịch vụ BPO, dịch vụ Data center, dịch vụ điện toán đám mây (cloud), dịch vụ trên nền tảng công nghệ mới như trí tuệ nhân tạo, tự động hoá ..., v.v.; (iii) Tích hợp hệ thống; (iv) Dịch vụ viễn thông bao gồm các dịch vụ internet và các dịch vụ giá trị gia tăng; (v) Dịch vụ nội dung số gồm các dịch vụ quảng cáo trực tuyến v.v.; (vi) Dịch vụ đào tạo ở các cấp phố thông, cao đẳng, đại học và sau đại học.
+
+## Chu kỳ sản xuất, kinh doanh thông thường
+
+Chu kỳ sản xuất, kinh doanh thông thường của Tập đoàn được thực hiện trong thời gian không quá 12 tháng ngoại trừ một số dự án tích hợp hệ thống có thời gian triển khai trên 12 tháng.
+
+## Cấu trúc doanh nghiệp
+
+Tại ngày 31 tháng 03 năm 2025, Công ty Cổ phần FPT có 8 công ty con trực tiếp như sau:
+
+- Công ty TNHH FPT IS;
+- Công ty Cổ phần Viễn thông FPT;
+- Công ty TNHH Phần mềm FPT;
+- Công ty TNHH Giáo dục FPT;
+- Công ty Cổ phần Dịch vụ trực tuyến FPT;
+- Công ty TNHH Đầu tư FPT;
+- Công ty TNHH FPT Smart Cloud;
+- Công ty TNHH FPT Digital.
+và 2 công ty liên kết trực tiếp:
+- Công ty Cổ phần Bán lẻ Kỹ thuật số FPT;
+- Công ty Cổ phần Synnex FPT.
+
+Ngoài ra, thông tin về các công ty con và công ty liên doanh, liên kết khác thuộc sở hữu của các công ty con trực thuộc Công ty được trình bày tại Phụ lục 1 của báo cáo tài chính hợp nhất.
+
+--- TRANG 12 ---
+
+
+CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch
+
+Phường Dịch Vọng, Quận Cầu Giấy
+
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+2. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH HỢP NHẤT VÀ KỲ TÀI CHÍNH
+
+Cơ sở lập báo cáo tài chính hợp nhất
+
+Báo cáo tài chính hợp nhất đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Báo cáo tài chính hợp nhất kèm theo không nhằm mục đích trình bày tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoài nước Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.
+
+Năm tài chính
+
+Năm tài chính của Tập đoàn bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12. Báo cáo tài chính hợp nhất kèm theo được lập cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025.
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+Sau đây là các chính sách kế toán chủ yếu được Tập đoàn áp dụng trong việc lập báo cáo tài chính hợp nhất:
+
+Ước tính kế toán
+
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập báo cáo tài chính hợp nhất cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Mặc dù các ước tính kế toán được lập bằng tất cả sự hiểu biết của Ban Tổng Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+Cơ sở hợp nhất báo cáo tài chính
+
+Báo cáo tài chính hợp nhất bao gồm báo cáo tài chính của Công ty và báo cáo tài chính của các công ty do Công ty kiểm soát (các công ty con). Việc kiểm soát này đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
+
+Kết quả hoạt động kinh doanh của các công ty con được mua lại hoặc bán đi trong năm được trình bày trong báo cáo kết quả hoạt động kinh doanh hợp nhất từ ngày mua hoặc cho đến ngày bán khoản đầu tư ở công ty con đó.
+
+Trong trường hợp cần thiết, báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp dụng tại Công ty và các công ty con là giống nhau.
+
+Tất cả các nghiệp vụ và số dư giữa các công ty trong cùng tập đoàn được loại bỏ khi hợp nhất báo cáo tài chính.
+
+Lợi ích của cổ đông không kiểm soát bao gồm giá trị các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu và phần lợi ích của cổ đông không kiểm soát trong sự biến động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản lỗ phát sinh tại công ty con phải được phân bổ tương ứng với phần sở hữu của cổ đông không kiểm soát, kể cả trường hợp số lỗ đó lớn hơn phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của công ty con.
+
+Hợp nhất kinh doanh
+
+Tài sản, công nợ và công nợ tiềm tàng của công ty con được xác định theo giá trị hợp lý tại ngày mua công ty con. Bất kỳ khoản phụ trội nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận là lợi thế thương mại. Bất kỳ khoản thiếu hụt nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất của kỳ kế toán phát sinh hoạt động mua công ty con.
+
+Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỷ lệ của cổ đông không kiểm soát trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng được ghi nhận.
+
+--- TRANG 13 ---
+
+
+CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch
+
+Phường Dịch Vọng, Quận Cầu Giấy
+
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (Tiếp theo)
+
+Đầu tư vào công ty liên kết
+
+Công ty liên kết là một công ty mà Tập đoàn có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Tập đoàn. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của bên nhận đầu tư nhưng không có ảnh hưởng về mặt kiểm soát hoặc đồng kiểm soát những chính sách này.
+
+Kết quả hoạt động kinh doanh, tài sản và công nợ của các công ty liên kết được hợp nhất trong báo cáo tài chính theo phương pháp vốn chủ sở hữu. Các khoản góp vốn liên kết được trình bày trong bảng cân đối kế toán theo giá gốc được điều chỉnh theo những thay đổi trong phần vốn góp của Công ty vào phần tài sản thuần của công ty liên kết sau ngày mua khoản đầu tư. Các khoản lỗ của công ty liên kết vượt quá khoản góp vốn của Công ty tại công ty liên kết đó (bao gồm bất kể các khoản góp vốn dài hạn mà về thực chất tạo thành đầu tư thuần của Công ty tại công ty liên kết đó) không được ghi nhận.
+
+Trong trường hợp một công ty thành viên của Tập đoàn thực hiện giao dịch với một công ty liên kết với Công ty, lãi/lỗ chưa thực hiện tương ứng với phần góp vốn của Tập đoàn vào công ty liên kết được loại trừ khỏi báo cáo tài chính hợp nhất.
+
+Lợi thế thương mại
+
+Lợi thế thương mại trên báo cáo tài chính hợp nhất là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi ích của Công ty trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng của công ty con tại ngày thực hiện nghiệp vụ đầu tư. Nếu sau ngày kiểm soát công ty con, công ty mẹ tiếp tục đầu tư vào công ty con, công ty mẹ phải xác định giá phí khoản đầu tư thêm và phần sở hữu tăng thêm trong giá trị ghi sổ của tài sản thuần của công ty con (không tính theo giá trị hợp lý như tại ngày mua). Khoản chênh lệch giữa giá phí đầu tư thêm và giá trị ghi sổ tài sản thuần được ghi nhận trực tiếp vào lợi nhuận sau thuế chưa phân phối (như giao dịch giữa các cổ đông nội bộ).
+
+Lợi thế thương mại phát sinh tại ngày công ty mẹ đạt được quyền kiểm soát được trình bày riêng như một loại tài sản có khác trên bảng cân đối kế toán hợp nhất và phân bổ vào kết quả hoạt động kinh doanh hợp nhất theo quy định hiện hành. Trường hợp giá trị lợi thế thương mại bị tổn thất trong năm cao hơn giá trị phân bổ hàng năm theo phương pháp đường thẳng thì thực hiện phân bổ theo giá trị bị tổn thất.
+
+Khi thoái vốn tại công ty con thì giá trị còn lại của khoản lợi thế thương mại chưa khấu hao hết được ghi giảm tương ứng với tỷ lệ vốn bị thoái và tính vào lợi nhuận sau thuế chưa phân phối trong trường hợp công ty mẹ vẫn nắm giữ quyền kiểm soát đối với công ty con hoặc được ghi giảm toàn bộ và tính vào khoản lãi/lỗ trên báo cáo kết quả kinh doanh hợp nhất trong trường hợp công ty mẹ mất quyền kiểm soát.
+
+Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi không kỳ hạn, các khoản đầu tư ngắn hạn, có khả năng thanh khoản cao, dễ dàng chuyển đổi thành tiền và ít rủi ro liên quan đến việc biến động giá trị.
+
+--- TRANG 14 ---
+
+
+CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch
+
+Phường Dịch Vọng, Quận Cầu Giấy
+
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (Tiếp theo)
+
+Các khoản đầu tư tài chính
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Công ty có ý định và khả năng giữ đến ngày đáo hạn. Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm: các khoản tiền gửi ngân hàng có kỳ hạn (bao gồm cả các loại tín phiếu, kỳ phiếu), trái phiếu, cổ phiếu ưu đãi bên phát hành bắt buộc phải mua lại tại một thời điểm nhất định trong tương lai và các khoản cho vay nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ và các khoản đầu tư nắm giữ đến ngày đáo hạn khác.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh trên cơ sở dự thu. Lãi được hưởng trước khi Công ty nắm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được xác định theo giá gốc trừ đi dự phòng phải thu khó đòi.
+
+Dự phòng giảm giá các khoản đầu tư nắm giữ đến ngày đáo hạn được trích lập theo các quy định kế toán hiện hành.
+
+Đầu tư vào công cụ vốn của đơn vị khác
+
+Đầu tư vào công cụ vốn của đơn vị khác phản ánh các khoản đầu tư công cụ vốn nhưng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư.
+
+Khoản đầu tư vào công cụ vốn các đơn vị khác được phản ánh theo nguyên giá trừ các khoản dự phòng giảm giá đầu tư.
+
+Dự phòng giảm giá đầu tư tài chính dài hạn
+
+Dự phòng giảm giá đầu tư tài chính dài hạn được trích lập theo quy định tại Thông tư số 48/2019/TT-BTC của Bộ Tài chính ngày 08/08/2019 về “Hướng dẫn việc trích lập và xử lý các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư, nợ phải thu khó đòi và bảo hành sản phẩm hàng hóa dịch vụ, công trình xây dựng tại doanh nghiệp” và các quy định kế toán hiện hành. Trong một số trường hợp, theo ước tính của Ban Tổng Giám đốc, Tập đoàn thận trọng trích lập dự phòng giảm giá khoản đầu tư dài hạn nhiều hơn so với yêu cầu của các quy định hiện hành.
+
+Nợ phải thu
+
+Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi được trích lập cho những khoản nợ phải thu đã quá hạn thanh toán từ sáu tháng trở lên, hoặc các khoản phải thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+
+Hàng tồn kho
+
+Hàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho bao gồm chi phí nguyên vật liệu trực tiếp, chi phí lao động trực tiếp và chi phí sản xuất chung, nếu có, để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá gốc của hàng tồn kho của Tập đoàn được xác định theo phương pháp nhập trước xuất trước (FIFO), phương pháp hạch toán hàng tồn kho là phương pháp kê khai thường xuyên. Giá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chi phí để hoàn thành cùng chi phí tiếp thị, bán hàng và phân phối phát sinh.
+
+Dự phòng giảm giá hàng tồn kho của Tập đoàn được trích lập theo các quy định kế toán hiện hành. Theo đó, Tập đoàn được phép trích lập dự phòng giảm giá hàng tồn kho lỗi thời, hỏng, kém phẩm chất và trong trường hợp giá gốc của hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc kỳ kế toán.
+
+--- TRANG 15 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Chu kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+Thành phố Hà Nội, Việt Nam
+đến ngày 31 tháng 03 năm 2025
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (Tiếp theo)
+
+## Tài sản cố định hữu hình và khấu hao
+
+Tài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế.
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng.
+Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sản xuất thực tế phát sinh cộng chi phí lắp đặt và chạy thử.
+Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:
+
+|  | (Số năm) |
+| :-- | --: |
+| Nhà cửa và vật kiến trúc | $5-30$ |
+| Máy móc và thiết bị | $3-25$ |
+| Phương tiện vận tải | $4-7$ |
+| Thiết bị văn phòng | $3-10$ |
+| Tài sản khác | $3-5$ |
+
+## Tài sản cố định thuê tài chính và khấu hao
+
+Tài sản cố định thuê tài chính được hình thành từ giao dịch thuê tài chính khi phần lớn các quyền lợi và rủi ro về quyền sở hữu tài sản được chuyển sang cho người đi thuê. Tất cả các khoản thuê khác không phải là thuê tài chính đều được xem là thuê hoạt động.
+Tập đoàn ghi nhận tài sản thuê tài chính là tài sản của Tập đoàn theo giá trị hợp lý của tài sản thuê tại thời điểm khởi đầu thuê tài sản hoặc theo giá trị hiện tại của khoản thanh toán tiền thuê tối thiểu nếu giá trị này thấp hơn. Nợ phải trả bên cho thuê tương ứng được ghi nhận trên bảng cân đối kế toán hợp nhất như một khoản nợ phải trả về thuê tài chính. Các khoản thanh toán tiền thuê được chia thành chi phí tài chính và khoản phải trả nợ gốc nhằm đảm bảo tỷ lệ lãi suất định kỳ cố định trên số dư nợ còn lại. Chi phí thuê tài chính được ghi nhận vào kết quả hoạt động kinh doanh, trừ phi các chi phí này trực tiếp hình thành nên tài sản đi thuê, trong trường hợp đó sẽ được vốn hóa theo chính sách kế toán của Tập đoàn về chi phí đi vay.
+
+## Tài sản cố định vô hình và khấu hao
+
+TSCD vô hình phản ánh giá trị quyền sử dụng đất, giấy phép, quyền khai thác, quyền phát hành và bản quyền, mối quan hệ với khách hàng, tên thương mại và phần mềm máy tính.
+
+## Quyền sử dụng đất
+
+Quyền sử dụng đất bao gồm quyền sử dụng đất do Nhà nước giao có thu tiền sử dụng đất, quyền sử dụng đất nhận chuyển nhượng hợp pháp, và tiền sử dụng đất đã trả trước cho các hợp đồng thuê đất có hiệu lực trước ngày hiệu lực của Luật Đất đai 2003 (tức là ngày 1 tháng 7 năm 2004) và được cấp giấy chứng nhận quyền sử dụng đất.
+
+Quyền sử dụng đất có thời hạn được phản ánh theo nguyên giá trừ khấu hao lũy kế. Nguyên giá của quyền sử dụng đất bao gồm giá mua và các chi phí liên quan trực tiếp đến việc có được quyền sử dụng đất. Quyền sử dụng đất được khấu hao theo phương pháp đường thẳng trong suốt thời hạn của quyền sử dụng đất.
+
+Quyền sử dụng đất không có thời hạn được ghi nhận theo nguyên giá và không khấu hao.
+
+--- TRANG 16 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được dọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (Tiếp theo)
+
+## Giấy phép, quyền khai thác, quyền phát hành và bản quyền
+
+Giá mua giấy phép được hạch toán như TSCĐ vô hình. Giấy phép được phân bổ vào chi phí hoạt động kinh doanh theo phương pháp đường thẳng trong vòng từ 3 đến 5 năm.
+
+Quyền khai thác đường truyền internet tốc độ cao - dự án Asia America Gateway (AAG) và dự án Asia Pacific Gateway (APG) và quyền sử dụng dung lượng vĩnh viễn cáp quang Á - Phi - Âu AAE1 (Asia - Africa Europe 1) được khấu hao trong 15 năm.
+
+Giá mua quyền phát hành và bản quyền mới được hạch toán như TSCĐ vô hình. Quyền phát hành và bản quyền được phân bổ vào chi phí hoạt động kinh doanh theo phương pháp đường thẳng trong vòng từ 3 đến 5 năm.
+
+## Mối quan hệ với khách hàng và tên thương mại
+
+Mối quan hệ với khách hàng và tên thương mại phát sinh từ việc mua lại công ty con được phân bổ theo phương pháp khấu hao đường thẳng dựa trên thời gian hữu dụng ước tính từ 10 năm đến 20 năm.
+
+## Phần mềm máy tính
+
+Giá mua của phần mềm máy tính mới mà phần mềm máy tính này không là một bộ phận không thể tách rời với phần cứng có liên quan thì được vốn hóa và hạch toán như TSCĐ vô hình. Phần mềm máy tính được phân bổ vào chi phí hoạt động kinh doanh theo phương pháp đường thẳng trong vòng từ 3 đến 5 năm.
+
+## Chi phí xây dựng cơ bản dở dang
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bất kỳ mục đích nào khác được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí cần thiết để hình thành tài sản phù hợp với chính sách kế toán của Tập đoàn. Việc tính khấu hao của các tài sản này được áp dụng giống như với các tài sản khác, bắt đầu từ khi tài sản đó ở vào trạng thái sẵn sàng sử dụng.
+
+## Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán. Chi phí trả trước bao gồm khoản trả trước tiền thuê đất, thuê văn phòng, chi phí triển khai thuê bao và các khoản chi phí trả trước khác.
+Chi phí thuê đất trả trước bao gồm tiền thuê đất trả trước, các chi phí khác phát sinh liên quan đến việc bảo đảm cho việc sử dụng đất thuê. Chi phí thuê đất và thuê văn phòng được phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn hợp đồng thuê.
+Chi phí triển khai thuê bao được phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng tương ứng với thời gian hữu dụng ước tính.
+Các khoản chi phí trả trước khác bao gồm giá trị công cụ, dụng cụ, linh kiện loại nhỏ đã xuất dùng, chi phí sửa chữa nội thất, văn phòng, bảo trì và chi phí trả trước cho các hợp đồng cung cấp dịch vụ được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Tập đoàn. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng theo các quy định kế toán hiện hành
+
+--- TRANG 17 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Chu kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+Thành phố Hà Nội, Việt Nam
+đến ngày 31 tháng 03 năm 2025
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được dọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (Tiếp theo)
+
+## Các khoản dự phòng phải trả
+
+Các khoản dự phòng phải trả được ghi nhận khi Tập đoàn có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xảy ra, và Tập đoàn có khả năng phải thanh toán nghĩa vụ này. Các khoản dự phòng được xác định trên cơ sở ước tính của Ban Tổng Giám đốc về các khoản chi phí cần thiết để thanh toán nghĩa vụ nợ này tại ngày kết thúc kỳ kế toán.
+
+## Dự phòng bảo hành
+
+Dự phòng bảo hành liên quan chủ yếu đến số hàng hóa đã bán và dịch vụ đã cung cấp. Dự phòng được lập dựa trên ước tính từ những số liệu về bảo hành trong các năm trước đó cho các sản phẩm và dịch vụ tương tự.
+
+## Quỹ khen thưởng, phúc lợi
+
+Tập đoàn trích quỹ khen thưởng phúc lợi tối đa bằng $10 \%$ lợi nhuận thuần sau thuế của các đơn vị thành viên.
+
+## Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi kết quả giao dịch được xác định một cách đáng tin cậy và Tập đoàn có khả năng thu được các lợi ích kinh tế từ giao dịch này.
+
+## Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+(a) Tập đoàn đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+(b) Tập đoàn không còn nắm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+(c) Doanh thu được xác định tương đối chắc chắn;
+(d) Tập đoàn sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+(e) Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+## Doanh thu từ cung cấp dịch vụ
+
+Doanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cậy. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều kỳ thì doanh thu được ghi nhận trong kỳ theo kết quả phần công việc đã hoàn thành tại ngày của bảng cân đối kế toán của kỳ đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả bốn (4) điều kiện sau:
+(a) Doanh thu được xác định tương đối chắc chắn;
+(b) Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+(c) Xác định được phần công việc đã hoàn thành tại ngày của bảng cân đối kế toán; và
+(d) Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+--- TRANG 18 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (Tiếp theo)
+
+## Doanh thu từ phần mềm xuất khẩu, phát triển phần mềm, tích hợp hệ thống và dịch vụ tin học
+
+Doanh thu được ghi nhận trong Báo cáo kết quả hoạt động kinh doanh hợp nhất theo tỷ lệ phần trăm hoàn thành công việc tại ngày kết thúc niên độ kế toán. Tỷ lệ phần trăm hoàn thành công việc được đánh giá dựa trên khảo sát các công việc đã được thực hiện, hoặc tỷ lệ phần trăm giữa chi phí phát sinh/thời gian thực hiện của phần công việc đã hoàn thành tại ngày kết thúc niên độ kế toán so với tổng chi phí dự toán/thời gian thực hiện dự kiến của hợp đồng. Khi kết quả thực hiện hợp đồng không thể được ước tính một cách đáng tin cậy, doanh thu chỉ được ghi nhận tương đương với chi phí của hợp đồng đã phát sinh mà việc được hoàn trả là tương đối chắc chắn.
+
+## Doanh thu từ các dịch vụ viễn thông
+
+Doanh thu từ các dịch vụ viễn thông được ghi nhận theo tỷ lệ thời gian mà các dịch vụ thực tế được cung cấp cho khách hàng.
+
+## Doanh thu từ dịch vụ quảng cáo trực tuyến
+
+Doanh thu từ dịch vụ quảng cáo trực tuyến được ghi nhận theo khối lượng công việc hoàn thành.
+
+## Doanh thu từ học phí và phí
+
+Doanh thu được ghi nhận trong năm khi dịch vụ được cung cấp. Toàn bộ học phí và phí được nộp trước khi bắt đầu mỗi kỳ học. Học phí và các khoản phí thu trước của sinh viên được ghi nhận vào tài khoản doanh thu chưa thực hiện trên Bảng cân đối kế toán hợp nhất và được hạch toán vào Báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm tài chính có kỳ học liên quan.
+
+## Lãi tiền gửi và lãi từ các khoản đầu tư
+
+Lãi tiền gửi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng.
+Lãi từ các khoản đầu tư được ghi nhận khi Tập đoàn có quyền nhận khoản lãi.
+
+## Ngoại tệ
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được chuyển đổi theo tỷ giá tại ngày phát sinh nghiệp vụ. Số dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc kỳ kế toán được chuyển đổi theo tỷ giá tại ngày này. Chênh lệch tỷ giá phát sinh được hạch toán vào Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+Lợi thế thương mại và các điều chỉnh giá trị hợp lý phát sinh khi Tập đoàn thực hiện hoạt động tại nước ngoài được ghi nhận như tài sản và nợ phải trả liên quan đến hoạt động tại nước ngoài và được chuyển đổi theo tỷ giá tại ngày kết thúc hoạt động này.
+
+## Chuyển đổi báo cáo tài chính của cơ sở nước ngoài
+
+Để phục vụ mục đích hợp nhất báo cáo tài chính, tài sản và công nợ liên quan đến hoạt động của Tập đoàn tại nước ngoài (bao gồm cả số liệu so sánh) được chuyển đổi sang đơn vị tiền tệ của báo cáo theo tỷ giá tại ngày kết thúc kỳ kế toán. Các khoản thu nhập và chi phí (bao gồm cả số liệu so sánh) được chuyển đổi theo tỷ giá quy định. Chênh lệch tỷ giá hối đoái, nếu có, sẽ được phân loại vào nguồn vốn chủ sở hữu và được ghi nhận vào khoản mục "Chênh lệch tỷ giá hối đoái". Chênh lệch tỷ giá được ghi nhận vào kết quả hoạt động kinh doanh của kỳ chấm dứt hoạt động tại nước ngoài của Tập đoàn.
+
+--- TRANG 19 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Chu kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+Thành phố Hà Nội, Việt Nam
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (Tiếp theo)
+
+## Chi phí đi vay
+
+Chi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong kỳ khi phát sinh, trừ khi được vốn hoá theo quy định của Chuẩn mực kế toán "Chi phí đi vay". Theo đó, chi phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan. Đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
+
+## Lãi cơ bản trên cổ phiếu
+
+Tập đoàn trình bày lãi cơ bản trên cổ phiếu (EPS) và lãi suy giảm trên cổ phiếu (Diluted EPS) đối với toàn bộ cổ phiếu phổ thông của Tập đoàn. Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ thuộc về cổ đông sở hữu cổ phiếu phổ thông của Tập đoàn cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm. Lãi suy giảm trên cổ phiếu được tính bằng cách điều chỉnh lợi nhuận hoặc lỗ thuộc về cổ đông sở hữu cổ phiếu phổ thông và số bình quân gia quyền cổ phiếu phổ thông đang lưu hành do ảnh hưởng của các cổ phiếu phổ thông tiềm năng có tác động suy giảm, bao gồm cả trái phiếu có thể chuyển đổi và quyền chọn mua cổ phiếu.
+
+## Các bên liên quan
+
+Các bên liên quan bao gồm các công ty liên kết và các cán bộ quản lý chủ chốt của Tập đoàn.
+
+## Thuế
+
+Thuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.
+Số thuế phải trả hiện tại được tính dựa trên thu nhập chịu thuế trong kỳ. Thu nhập chịu thuế khác với lợi nhuận trước thuế được trình bày trên báo cáo kết quả hoạt động kinh doanh hợp nhất vì thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ.
+Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi sổ và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên báo cáo tài chính hợp nhất và được ghi nhận theo phương pháp bảng cân đối kế toán. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.
+Thuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất và chỉ ghi vào vốn chủ sở hữu khi khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu.
+Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Tập đoàn có quyền hợp pháp để bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Tập đoàn có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.
+Việc xác định thuế thu nhập của Tập đoàn căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+--- TRANG 20 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phổ Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 4. BÁO CÁO BỘ PHẬN
+
+Một bộ phận kinh doanh là một bộ phận có thể phân biệt được tham gia vào quá trình sản xuất hoặc cung ứng sản phẩm, dịch vụ riêng lẻ, một nhóm các sản phẩm hoặc dịch vụ có liên quan mà bộ phận này có rủi ro và lợi ích kinh tế khác với bộ phận kinh doanh khác.
+Tập đoàn có các bộ phận chia theo hai lĩnh vực hoạt động kinh doanh chính dưới sự quản lý của Công ty Cổ phần FPT và các công ty con (gọi tắt là "Tập đoàn"), cụ thể như sau:
+
+## Công nghệ thông tin và viễn thông
+
+- Sản phẩm và dịch vụ Công nghệ thông tin (CNTT) nước ngoài: bao gồm hoạt động sản xuất phần mềm; thực hiện tư vấn, cung cấp triển khai dịch vụ dựa trên công nghệ S.M.A.C/IOT, giải pháp chuyển đổi số, hệ thống công nghệ thông tin (CNTT) cho doanh nghiệp; thử nghiệm đảm bảo chất lượng, thiết kế sản phẩm phần mềm nhúng, cung cấp dịch vụ triển khai và quản lý Hệ thống Quản trị Nguồn lực Doanh nghiệp (ERP) cho các khách hàng ngoài lãnh thổ Việt Nam;
+- Sản phẩm và dịch vụ Công nghệ thông tin (CNTT) trong nước: cung cấp giải pháp phần mềm ứng dụng; cung cấp dịch vụ và giải pháp tích hợp hệ thống thông tin, cung cấp thiết bị công nghệ CNTT, dịch vụ trung tâm dữ liệu, thiết kế xây dựng hệ thống mạng và bảo mật; bảo hành - bảo trì các thiết bị tin học cho hãng theo ủy quyền cho các khách hàng tại Việt Nam;
+- Viễn thông: bao gồm các dịch vụ internet cá nhân và hộ gia đình, dịch vụ internet cho doanh nghiệp như cho thuê kênh riêng (internet leased line), viễn thông trong nước, viễn thông quốc tế, tên miền, hosting, cổng dữ liệu Web, IPTV...;
+- Nội dung số: bao gồm các dịch vụ trực tuyến cho doanh nghiệp và khách hàng cá nhân như hệ thống báo điện tử (VnExpress.net, Ngoisao.net, iOne.net, Gamethu.vn v.v...); quảng cáo trực tuyến; hệ thống mạng quảng cáo (AdNetwork), nhạc trực tuyến, thanh toán trực tuyến, v.v...;
+
+
+## Đầu tư, giáo dục và khác
+
+- Dịch vụ đào tạo các chuyên ngành CNTT, Quản trị Kinh doanh ở các cấp phổ thông, cao đẳng, đại học và sau đại học;
+- Quản lý các khoản đầu tư tài chính;
+- Quản lý và triển khai các dự án Bất động sản phục vụ nhu cầu về cơ sở hạ tầng của Tập đoàn.
+
+--- TRANG 21 ---
+CÔNG TY CỔ PHẦN FPT Sổ 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+MẪU SỐ B 09-DN/HN
+
+1. BÁO CÁO BỘ PHẬN (Tiếp theo)
+
+Báo cáo bộ phận
+
+Kỳ này
+
+|  Chỉ tiêu | Công nghệ thông tin và viễn thông |  |  |  | Đầu tư, giáo dục và khác | Đầu tư, giáo dục và khác | Tổng cộng  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Sản phẩm và dịch vụ CNTT nước ngoài | Sản phẩm và dịch vụ CNTT trong nước | Viễn thông | Nội dung số |  |  |   |
+|  Doanh thu theo bộ phận | 8.186.249 | 1.582.972 | 4.464.699 | 117.482 | 1.900.635 | (193.896) | 16.058.141  |
+|  Chi phí theo bộ phận (i) |  |  |  |  |  |  |   |
+|  Chi phí phân bổ trực tiếp cho bộ phận | (6.933.325) | (1.599.060) | (3.624.113) | (104.492) | (1.380.823) | 178.797 | (13.463.016)  |
+|  Trong đó: |  |  |  |  |  |  |   |
+|  - Tổng chi phí khấu hao tài sản cố định | (174.201) | (63.428) | (323.285) | (776) | (85.320) | 2.987 | (644.023)  |
+|  - Tổng phân bổ chi phí trả trước dài hạn của bộ phận | (47.785) | (7.923) | (422.810) | (718) | (37.350) | 596 | (515.991)  |
+|  Phần lãi trong công ty liên kết | 6.984 | (995) | - | - | 130.741 | - | 136.730  |
+|  Kết quả hoạt động kinh doanh theo bộ phận (ii) | 1.259.908 | (17.083) | 840.586 | 12.990 | 650.554 | (15.099) | 2.731.855  |
+|  Lợi nhuận trước thuế theo bộ phận | 1.391.349 | 24.228 | 943.328 | 23.452 | 1.509.622 | (867.285) | 3.024.694  |
+|  Tài sản bộ phận tại ngày 31/03/2025 | 27.046.823 | 9.312.557 | 24.225.147 | 924.772 | 23.247.299 | (10.758.925) | 73.997.673  |
+|  Nợ phải trả bộ phận tại ngày 31/03/2025 | 14.961.074 | 6.147.345 | 14.348.817 | 81.660 | 8.558.895 | (7.996.772) | 36.101.018  |
+|  Tổng chi phí đã phát sinh để mua tài sản cố định và chi phí trả trước dài hạn 3 tháng năm 2025 | 370.921 | 995.464 | 828.038 | 370 | 305.586 | 755.479 | 3.255.858  |
+
+(i) Chi phí theo bộ phận là chi phí phát sinh từ các hoạt động kinh doanh của bộ phận được tính trực tiếp cho bộ phận đó và phần chi phí của doanh nghiệp được phân bổ cho bộ phận đó, bao gồm cả chi phí bán hàng ra bên ngoài và chi phí có liên quan đến những giao dịch với bộ phận khác của doanh nghiệp. Theo đó, chi phí theo bộ phận này bao gồm giá vốn, chi phí bán hàng và chi phí quản lý.
+
+(ii) Kết quả hoạt động kinh doanh theo bộ phận là doanh thu theo bộ phận trừ đi chi phí theo bộ phận, không bao gồm doanh thu, chi phí tài chính và thu nhập, chi phí khác. Do vậy, tại bộ phận "Đầu tư, giáo dục và khác", Kết quả kinh doanh theo bộ phận chênh lệch so với Lợi nhuận trước thuế theo bộ phận do khoản lợi nhuận tài chính và lợi nhuận khác là 859 tỷ đồng, chủ yếu do hoạt động thu cổ tức từ các đơn vị thành viên của công ty mẹ.
+
+--- TRANG 22 ---
+CÔNG TY CỔ PHẦN FPT Sổ 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+MẪU SỐ B 09-DN/HN
+
+4. BÁO CÁO BỘ PHẬN (Tiếp theo)
+
+Báo cáo bộ phận (Tiếp theo)
+
+Ký trước
+
+|  Chỉ tiêu | Công nghệ thông tin và viễn thông |  |  |  | Đầu tư, giáo dục và khác | Đơn vị: triệu đồng  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | Sản phẩm và dịch vụ CNTT nước ngoài | Sản phẩm và dịch vụ CNTT trong nước | Viễn thông | Nội dung số |  | Loại trừ hợp nhất  |
+|  Doanh thu theo bộ phận | 6.999.361 | 1.472.305 | 3.885.133 | 127.185 | 1.891.485 | (282.540)  |
+|  Chi phí theo bộ phận |  |  |  |  |  |   |
+|  Chi phí phân bổ trực tiếp cho bộ phận | (5.836.142) | (1.453.217) | (3.154.657) | (116.899) | (1.495.329) | 281.361  |
+|  Trong đó: |  |  |  |  |  |   |
+|  - Tổng chi phí khấu hao tài sản cố định | (153.721) | (38.667) | (342.181) | (932) | (85.171) | 3.297  |
+|  - Tổng phân bổ chi phí trả trước dài hạn của bộ phận | (47.943) | (6.129) | (423.856) | (846) | (45.849) | 939  |
+|  Phần lãi trong công ty liên kết | (3.626) | - | - | - | 78.080 | -  |
+|  Kết quả hoạt động kinh doanh theo bộ phận | 1.159.593 | 19.088 | 730.476 | 10.285 | 474.236 | (1.179)  |
+|  Lợi nhuận trước thuế theo bộ phận | 1.114.899 | 40.575 | 805.174 | 20.348 | 1.638.690 | (1.086.104)  |
+|  Tài sản bộ phận tại ngày 31/12/2024 | 24.664.380 | 9.413.308 | 23.649.241 | 1.012.765 | 26.338.566 | (13.078.263)  |
+|  Nợ phải trả bộ phận tại ngày 31/12/2024 | 14.899.508 | 6.294.529 | 13.173.832 | 174.064 | 14.239.677 | (12.509.154)  |
+|  Tổng chi phí đã phát sinh để mua tài sản cố định và chi phí trả trước dài hạn 3 tháng năm 2024 | 371.552 | 42.873 | 582.773 | 3.498 | 184.338 | (2.230)  |
+
+21
+
+--- TRANG 23 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+5. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+|  | $31 / 03 / 2025$ | $31 / 12 / 2024$ |
+| :-- | --: | --: |
+|  | VND | VND |
+| Tiền mặt | $5.097 .075 .809$ | $3.236 .297 .367$ |
+| Tiền gửi ngân hàng | $5.332 .138 .667 .904$ | $6.713 .912 .691 .054$ |
+| Tiền đang chuyển | $5.510 .967 .223$ | $8.470 .940 .868$ |
+| Các khoản tương đương tiền (i) | $1.412 .898 .503 .316$ | $2.589 .820 .509 .595$ |
+|  | $6.755 .645 .214 .252$ | $9.315 .440 .438 .884$ |
+
+(i) Các khoản tương đương tiền phản ánh các khoản tiền gửi ngân hàng có kỳ hạn không quá 3 tháng.
+
+--- TRANG 24 ---
+CÔNG TY CỔ PHẦN FPT Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+MẪU SỐ B 09-DN/HN
+
+1. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+
+|   | 31/03/2025 |  | 31/12/2024 |   |
+| --- | --- | --- | --- | --- |
+|   | Giá gốc | Giá trị ghi sổ | Giá gốc | Giá trị ghi sổ  |
+|   | VND | VND | VND | VND  |
+|  Đầu tư nắm giữ đến ngày đáo hạn ngắn hạn | 23.801.653.037.561 | 23.768.377.985.785 | 21.818.488.738.584 | 21.785.213.686.808  |
+|  - Tiền gửi có kỳ hạn (i) | 23.768.377.985.785 | 23.768.377.985.785 | 21.785.213.686.808 | 21.785.213.686.808  |
+|  - Các khoản đầu tư ngắn hạn khác | 33.275.051.776 | - | 33.275.051.776 | -  |
+|  Đầu tư góp vốn dài hạn vào đơn vị khác | 3.422.494.535.673 | 1.029.657.286.762 | 3.393.737.969.842 | 1.036.672.800.508  |
+|  - Các khoản khác | 3.422.494.535.673 | 1.029.657.286.762 | 3.393.737.969.842 | 1.036.672.800.508  |
+
+(i) Chỉ tiết các khoản tiền gửi có kỳ hạn theo nguyên tệ như sau:
+
+|   | 31/03/2025 |  | 31/12/2024 |   |
+| --- | --- | --- | --- | --- |
+|   | Nguyên tệ | Tương đương VND | Nguyên tệ | Tương đương VND  |
+|  VND | 23.570.179.986.222 | 23.570.179.986.222 | 21.588.470.987.398 | 21.588.470.987.398  |
+|  USD | 7.700.000,00 | 198.197.999.563 | 7.700.000,00 | 196.742.699.410  |
+|   |  | 23.768.377.985.785 |  | 21.785.213.686.808  |
+
+23
+
+--- TRANG 25 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 7. PHẢI THU CỦA KHÁCH HÀNG
+
+Tại ngày 31 tháng 03 năm 2025, số dư Phải thu của khách hàng không có các khoản phải thu của khách hàng chiếm từ $10 \%$ tổng phải thu khách hàng trở lên.
+
+## 8. PHẢI THU KHÁC
+
+|  | 31/03/2025 | 31/12/2024 |
+| :--: | :--: | :--: |
+|  | VND | VND |
+| a. Ngắn hạn |  |  |
+| Phải thu theo tiến độ của hợp đồng dịch vụ bảo trì | 155.883.539.898 | 123.974.392.686 |
+| Lãi dự thu tiền gửi, tiền cho vay | 361.383.242.650 | 289.703.411.746 |
+| Phải thu khác | 377.694.165.326 | 294.073.780.967 |
+|  | 894.960.947.874 | 707.751.585.399 |
+| b. Dài hạn |  |  |
+| Ký cược, ký quỹ | 430.212 .984 .761 | 328.594.343.657 |
+| Phải thu khác | 52.644.132.637 | 52.914.582.637 |
+|  | 482.857.117.398 | 381.508.926.294 |
+
+9. NỢ XẤU
+
+Tại ngày 31 tháng 03 năm 2025, số dư Nợ xấu không có các khoản phải thu quá hạn các đối tượng chiếm từ $10 \%$ tổng số nợ quá hạn trở lên.
+Trong kỳ, Tập đoàn đã xử lý các khoản công nợ phải thu khách hàng cá nhân nhóm viễn thông bị quá hạn trên 2 năm và giảm giá trị dự phòng đã trích lập tương ứng do Ban Tổng Giám đốc đánh đánh giá các khoản công nợ này không còn khả năng thu hồi.
+10. HÀNG TỒN KHO
+
+|  | 31/03/2025 |  | 31/12/2024 |  |
+| :--: | :--: | :--: | :--: | :--: |
+|  | Giá gớc | Dự phòng | Giá gớc | Dự phòng |
+|  | VND | VND | VND | VND |
+| Hàng mua đang đi đường | 84.452 .437 .415 | - | 74.651 .331 .133 | - |
+| Nguyên liệu, vật liệu | 989.971 .030 .139 | (14.165.698.781) | 965.653 .469 .626 | (17.126.007.656) |
+| Công cụ, dụng cụ | 44.869 .522 .873 | - | 63.703 .537 .780 | - |
+| Chi phí sản xuất, kinh doanh dở đang | 843.035 .641 .898 | (62.230.314.918) | 571.889 .493 .134 | (62.230.314.918) |
+| Hàng hoá | 275.716.278.965 | (54.538.068.165) | 313.880 .711 .271 | (54.111.214.909) |
+| Hàng gửi bán | 828.255 .569 | - | 445.943 .569 | - |
+|  | 2.238.873.166.859 | (130.934.081.864) | 1.990 .224 .486 .513 | (133.467.537.483) |
+
+--- TRANG 26 ---
+CÔNG TY CỔ PHẦN FPT Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) MẪU SỐ B 09-DN/HN Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+1. TÀI SẢN CỔ ĐỊNH HỮU HÌNH
+
+|   | Nhà cửa và vật kiến trúc | Máy móc và thiết bị | Phương tiện vận tải | Thiết bị văn phòng | Khác | Tổng cộng  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  NQUYỂN GIÁ | VND | VND | VND | VND | VND | VND  |
+|  Tại ngày 01/01/2025 | 8.265.939.787.012 | 15.156.680.967.209 | 118.603.134.649 | 797.137.596.070 | 119.372.181.571 | 24.457.733.666.511  |
+|  Tăng do mua sắm | 31.506.618.390 | 113.476.039.702 | 5.872.077.793 | 6.206.105.491 | 1.230.615.595 | 158.291.456.971  |
+|  Tăng do XDCB hoàn thành | 1.542.961.125 | 1.142.409.417.644 | - | - | - | 1.143.952.378.769  |
+|  Thanh lý, nhượng bản | - | (47.527.998.851) | (8.408.218.610) | (9.634.151.539) | (149.041.000) | (65.719.410.000)  |
+|  Tăng/(Giảm) khác | 8.359.315.259 | 1.637.707.900 | (966.287.195) | 8.140.631.440 | 109.669.301 | 17.281.036.705  |
+|  Tại ngày 31/03/2025 | 8.307.348.681.786 | 16.366.676.133.604 | 115.100.706.637 | 801.850.181.462 | 120.563.425.467 | 25.711.539.128.956  |
+|  GIÁ TRỊ HAO MÒN LỮY KẾ |  |  |  |  |  |   |
+|  Tại ngày 01/01/2025 | 1.567.093.008.084 | 9.438.763.122.818 | 74.827.360.524 | 556.069.538.066 | 46.412.675.301 | 11.683.165.704.793  |
+|  Khẩu hao trong kỳ | 88.723.107.035 | 396.911.069.783 | 3.360.253.256 | 19.887.652.148 | 2.093.636.207 | 510.975.718.429  |
+|  Thanh lý, nhượng bản | - | (42.603.709.173) | (2.442.507.053) | (9.471.587.270) | (81.867.263) | (54.599.670.759)  |
+|  Tăng/(Giảm) khác | 1.496.715.296 | (422.614.397) | 210.243.854 | 2.920.529.851 | 29.849.280 | 4.234.723.884  |
+|  Tại ngày 31/03/2025 | 1.657.312.830.415 | 9.792.647.869.031 | 75.955.350.581 | 569.406.132.795 | 48.454.293.525 | 12.143.776.476.347  |
+|  GIÁ TRỊ CÒN LẠI |  |  |  |  |  |   |
+|  Tại ngày 01/01/2025 | 6.698.846.778.928 | 5.717.917.844.391 | 43.775.774.125 | 241.068.058.004 | 72.959.506.270 | 12.774.567.961.718  |
+|  Tại ngày 31/03/2025 | 6.650.035.851.371 | 6.574.028.264.573 | 39.145.356.056 | 232.444.048.667 | 72.109.131.942 | 13.567.762.652.609  |
+
+--- TRANG 27 ---
+CÔNG TY CỔ PHẦN FPT Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+MẪU SỐ B 09-DN/HN
+
+1. TÀI SẢN CỔ ĐỊNH VÔ HÌNH
+
+|   | Quyền sử dụng đất | Phần mềm vi tính | Giấy phép quyền phát hành và bản quyền | TSCĐ vô hình khác | Tổng cộng  |
+| --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND  |
+|  NGUYỄN GIÁ |  |  |  |  |   |
+|  Tại ngày 01/01/2025 | 310.764.635.175 | 809.328.407.393 | 1.598.611.390.085 | 937.597.595.135 | 3.656.302.027.788  |
+|  Tăng do mua sắm | 207.499.997 | 5.845.780.395 | 135.898.379 | 359.583.900 | 6.548.762.671  |
+|  Tăng do XDCB hoàn thành | - | 12.907.531.442 | - | - | 12.907.531.442  |
+|  Thanh lý, nhượng bán | - | (2.749.174.846) | - | - | (2.749.174.846)  |
+|  Tăng/(Giảm) khác | 2.821.209.535 | 555.102.776 | - | 232.540.803 | 3.608.853.114  |
+|  Tại ngày 31/03/2025 | 313.793.344.707 | 825.887.647.160 | 1.598.747.288.464 | 938.189.719.838 | 3.676.618.000.169  |
+|  GIÁ TRỊ HAO MÒN LŨY KẾ |  |  |  |  |   |
+|  Tại ngày 01/01/2025 | 16.580.844.036 | 590.387.665.771 | 885.001.543.224 | 124.811.458.635 | 1.616.781.511.666  |
+|  Khẩu hao trong kỳ | 392.837.223 | 28.975.740.248 | 39.664.283.441 | 14.697.426.595 | 83.730.287.507  |
+|  Thanh lý, nhượng bán | - | (2.749.174.846) | - | - | (2.749.174.846)  |
+|  Tăng/(Giảm) khác | - | 158.237.726 | - | 56.204.182 | 214.441.908  |
+|  Tại ngày 31/03/2025 | 16.973.681.259 | 616.772.468.899 | 924.665.826.665 | 139.565.089.412 | 1.697.977.066.235  |
+|  GIÁ TRỊ CÒN LẠI |  |  |  |  |   |
+|  Tại ngày 01/01/2025 | 294.183.791.139 | 218.940.741.622 | 713.609.846.861 | 812.786.136.500 | 2.039.520.516.122  |
+|  Tại ngày 31/03/2025 | 296.819.663.448 | 209.115.178.261 | 674.081.461.799 | 798.624.630.426 | 1.978.640.933.934  |
+
+--- TRANG 28 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+13. CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG
+
+Chi tiết theo các công trình
+
+- Dự án Al Factory
+- Trung tâm dữ liệu Quận 9
+- F-Town 3
+- FPT Complex 3
+- Các công trình khác
+
+| $31 / 03 / 2025$ | $31 / 12 / 2024$ |
+| :--: | :--: |
+| VND | VND |
+| 1.025 .894 .546 .968 | 979.758 .464 .658 |
+| 256.941 .169 .478 | 255.192 .260 .444 |
+| 451.203 .037 .455 | 446.585 .871 .610 |
+| 235.606 .811 .459 | 235.118 .889 .735 |
+| 843.047 .896 .334 | 643.111 .237 .964 |
+| 2.812 .693 .461 .694 | 2.559 .766 .724 .411 |
+
+14. CHI PHÍ TRẢ TRƯỚC
+
+|  |  |  |
+| :-- | --: | --: |
+|  | 31/03/2025 | 31/12/2024 |
+|  | VND | VND |
+
+a. Ngắn hạn
+
+Chi phí thuê (bản quyền, văn phòng, kênh, đường truyền, cáp quang)
+Chi phí trả trước ngắn hạn khác
+b. Dài hạn
+
+Chi phí triển khai dịch vụ viễn thông cho thuê bao mới
+Chi phí thuê đất, văn phòng và nội thất
+Chi phí trả trước dài hạn khác
+
+| 249.223 .454 .551 | 218.659 .614 .027 |
+| :--: | :--: |
+| 415.657 .490 .274 | 261.047 .604 .531 |
+| 664.880 .944 .825 | 479.707 .218 .558 |
+| 1.869 .272 .742 .486 | 1.804 .520 .929 .972 |
+| 1.143 .959 .598 .376 | 1.144 .461 .379 .441 |
+| 772.405 .912 .458 | 816.205 .316 .004 |
+| 3.785 .638 .253 .320 | 3.765 .187 .625 .417 |
+
+15. LỢI THẾ THƯƠNG MẠI
+
+Biến động của lợi thế thương mại trong kỳ như sau:
+
+Số dư đầu kỳ
+Tăng
+Phân bố
+Giảm khác
+Số dư cuối kỳ
+
+| Từ ngày 01/01/2025 | Từ ngày 01/01/2024 |
+| :--: | :--: |
+| đến ngày 31/03/2025 | đến ngày 31/12/2024 |
+| VND | VND |
+| 1.097.458.206.678 | 1.283.790.079.129 |
+| 4.945.700.281 | 405.953.037.874 |
+| (36.301.789.085) | (175.819.337.548) |
+| - | (416.465.572.777) |
+| 1.066.102.117.874 | 1.097.458.206.678 |
+
+--- TRANG 29 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+MẪU SỐ B 09-DN/HN Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+### 16. ĐẦU TƯ VÀO CÔNG TY CON
+
+Thông tin chi tiết về các công ty con đã được hợp nhất trong báo cáo tài chính hợp nhất tại ngày 31 tháng 03 năm 2025 như sau:
+
+|  Tên công ty con | Nơi thành lập và hoạt động | Tỷ lệ phần sở hữu (trực tiếp và gián tiếp) | Tỷ lệ quyền biểu quyết | Hoạt động chính  |
+| --- | --- | --- | --- | --- |
+|  Công ty TNHH FPT IS | Số 10 phố Phạm Văn Bạch, phường Dịch Vọng, quận Cầu Giấy, TP. Hà Nội | 100,00% | 100,00% | Cung cấp giải pháp phần mềm ứng dụng, dịch vụ ERP, dịch vụ công nghệ thông tin, tích hợp hệ thống  |
+|  Công ty TNHH Phần mềm FPT | Tầng 6-12, tòa nhà FPT Cầu Giấy, phố Duy Tân, quận Cầu Giấy, Hà Nội | 100,00% | 100,00% | Cung cấp các dịch vụ và sản phẩm phần mềm  |
+|  Công ty Cổ phần Viễn thông FPT (i) | Tầng 2, tòa nhà FPT Cầu Giấy, phố Duy Tân, quận Cầu Giấy, Hà Nội | 45,66% | (i) | Cung cấp các dịch vụ ADSL, cho thuê đường truyền, quảng cáo trực tuyến và các dịch vụ trực tuyến khác  |
+|  Công ty TNHH Giáo dục FPT | Khu công nghệ cao Hòa Lạc, Km 29, Đại lộ Thắng Long, Huyện Thạch Thất, Hà Nội | 100,00% | 100,00% | Cung cấp dịch vụ đào tạo và công nghệ  |
+|  Công ty Cổ phần Dịch vụ Trực tuyến FPT | Lô I. 29B-31B-33B, đường Tân Thuận, phường Tân Thuận Đông, quận 7, thành phố Hồ Chí Minh | 49,52% | 80,15% | Cung cấp các dịch vụ trực tuyến  |
+|  Công ty TNHH Đầu tư FPT | Số 10 phố Phạm Văn Bạch, phường Dịch Vọng, quận Cầu Giấy, TP. Hà Nội | 100,00% | 100,00% | Hoạt động hỗ trợ dịch vụ tài chính (hoạt động tư vấn đầu tư, không bao gồm tư vấn pháp luật, tài chính)  |
+|  Công ty TNHH FPT Smart Cloud | Số 10 phố Phạm Văn Bạch, phường Dịch Vọng, quận Cầu Giấy, TP. Hà Nội | 100,00% | 100,00% | Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính  |
+|  Công ty TNHH FPT Digital | Số 10 phố Phạm Văn Bạch, phường Dịch Vọng, quận Cầu Giấy, TP. Hà Nội | 100,00% | 100,00% | Cung cấp dịch vụ tư vấn chuyển đổi số  |
+
+(i) Tại ngày 31 tháng 03 năm 2025 và ngày 31 tháng 12 năm 2024, Công ty sở hữu 45,66% vốn cổ phần tại Công ty Cổ phần Viễn thông FPT ("FTEL"). Tuy nhiên, Công ty có quyền bỏ đa số phiếu tại các cuộc họp của Hội đồng Quản trị hoặc cấp quản lý tương đương của FTEL và có quyền chi phối các chính sách tài chính và hoạt động của FTEL. Do đó, Công ty có quyền kiểm soát đối với FTEL và ghi nhận FTEL là công ty con của Công ty.
+
+--- TRANG 30 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Mẫu SỐ B 09-DN/HN Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 17. ĐẦU TƯ VÀO CÔNG TY LIÊN KẾT
+
+|   | Từ ngày 01/01/2025
+đến ngày 31/03/2025 | Từ ngày 01/01/2024
+đến ngày 31/12/2024  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Số dư đầu kỳ | 2.281.222.436.752 | 2.107.616.686.383  |
+|  Góp thêm vốn vào công ty liên kết | 75.950.000.000 | 64.679.696.896  |
+|  Phần lợi nhuận của Tập đoàn trong kết quả kinh doanh của công ty liên kết | 136.730.336.838 | 392.531.256.272  |
+|  Cổ tức nhận được | - | (285.222.985.000)  |
+|  Tăng/(giảm) khác | 2.743.406.443 | 1.617.782.201  |
+|  Số dư cuối kỳ | 2.496.646.180.033 | 2.281.222.436.752  |
+
+Thông tin chi tiết về các công ty liên kết sở hữu trực tiếp được kế toán theo phương pháp vốn chủ sở hữu trong báo cáo tài chính hợp nhất tại ngày 31 tháng 03 năm 2025 như sau:
+
+|  Tên công ty liên kết | Nơi thành lập và hoạt động | Tỷ lệ phần
+sở hữu (trực tiếp
+và gián tiếp) | Tỷ lệ quyền
+biểu quyết | Hoạt động chính  |
+| --- | --- | --- | --- | --- |
+|  Công ty Cổ phần
+Bán lẻ Kỹ thuật số
+FPT | Số 261 - 263 Khánh Hội,
+phường 2, quận 4, thành phố
+Hồ Chí Minh | 46,54% | 46,54% | Bán lẻ máy vi tính, thiết bị ngoại
+vi, phần mềm và thiết bị viễn
+thông; đại lý dịch vụ viễn thông  |
+|  Công ty Cổ phần
+Synnex FPT | Tòa nhà FPT Cầu Giấy, phố Duy
+Tân, quận Cầu Giấy, Hà Nội | 48,00% | 48,00% | Sản xuất các sản phẩm công nghệ
+và phân phối các linh kiện CNTT
+và điện thoại di động, chế tạo
+máy tính  |
+
+## 18. PHẢI TRẢ NGƯỜI BÁN
+
+Tại ngày 31 tháng 03 năm 2025, số dư Phải trả người bán không có số dư Phải trả người bán nào chiếm từ 10% tổng số dư Phải trả người bán trở lên.
+
+--- TRANG 31 ---
+CÔNG TY CỔ PHẦN FPT Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+MẪU SỐ B 09-DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+1. THUẾ VÀ CÁC KHOẢN PHẢI THU/PHẢI NỘP NHÀ NƯỚC
+
+|  Chỉ tiêu | 31/12/2024 | Phát sinh trong kỳ Số phài nộp | Số đã nộp và được khấu trừ | Chênh lệch Chuyển đổi tiền tệ BCTC | 31/03/2025  |
+| --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND  |
+|  Thuế giá trị gia tăng | 641.580.671.733 | 1.064.055.388.987 | 1.266.112.452.955 | 24.924.439.331 | 464.448.047.096  |
+|  Thuế thu nhập doanh nghiệp | 1.306.855.846.441 | 377.287.599.563 | 1.286.964.186.262 | 14.713.533.077 | 411.892.792.819  |
+|  Thuế thu nhập cá nhân | 236.647.637.870 | 776.964.029.102 | 941.473.032.600 | 4.572.392.525 | 76.711.026.897  |
+|  Thuế khác và các khoản phải nộp khác | 45.134.203.119 | 86.821.802.114 | 103.121.686.892 | 60.535.139 | 28.894.853.480  |
+|   | 2.230.218.359.163 | 2.305.128.819.766 | 3.597.671.358.709 | 44.370.900.072 | 981.946.720.292  |
+|  Trong đó: - Thuế và các khoản phải thu Nhà nước - Thuế và các khoản phải nộp Nhà nước | 68.603.442.585 2.298.821.801.748 |  |  |  | 139.497.628.510 1.121.444.348.802  |
+|   | 31/03/2025 | 31/12/2024 |  |  |   |
+|   | VND | VND |  |  |   |
+|  Thuế và các khoản phải thu Nhà nước |  |  |  |  |   |
+|  Thuế giá trị gia tăng | 507.648.376 | 218.261.871 |  |  |   |
+|  Thuế thu nhập doanh nghiệp | 78.544.801.186 | 65.404.121.089 |  |  |   |
+|  Thuế thu nhập cá nhân | 54.911.897.384 | 25.298.794 |  |  |   |
+|  Thuế khác | 5.533.281.564 | 2.955.760.831 |  |  |   |
+|   | 139.497.628.510 | 68.603.442.585 |  |  |   |
+|  Thuế và các khoản phải nộp Nhà nước |  |  |  |  |   |
+|  Thuế giá trị gia tăng | 464.955.695.472 | 641.798.933.604 |  |  |   |
+|  Thuế thu nhập doanh nghiệp | 490.437.594.005 | 1.372.259.967.530 |  |  |   |
+|  Thuế thu nhập cá nhân | 131.622.924.281 | 236.672.936.664 |  |  |   |
+|  Thuế khác và các khoản phải nộp khác | 34.428.135.044 | 48.089.963.950 |  |  |   |
+|   | 1.121.444.348.802 | 2.298.821.801.748 |  |  |   |
+
+30
+
+--- TRANG 32 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+MẪU SỐ B 09-DN/HN Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+### 20. CHI PHÍ PHẢI TRẢ NGẮN HẠN
+
+|   | 31/03/2025 | 31/12/2024  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Trích trước giá vốn các dự án tích hợp hệ thống | 310.096.429.590 | 316.123.125.768  |
+|  Lãi tiền vay phải trả | 83.903.303.618 | 93.317.711.153  |
+|  Các khoản khác | 939.925.234.856 | 831.648.285.339  |
+|   | 1.333.924.968.064 | 1.241.089.122.260  |
+
+### 21. DOANH THU CHƯA THỰC HIỆN
+
+|   | 31/03/2025 | 31/12/2024  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  a. Ngắn hạn |  |   |
+|  Doanh thu nhận trước về dịch vụ viễn thông | 1.638.571.310.181 | 1.742.894.976.363  |
+|  Học phí nhận trước | 767.645.552.044 | 2.189.194.444.966  |
+|  Các khoản doanh thu chưa thực hiện khác | 284.137.806.807 | 292.559.945.070  |
+|   | 2.690.354.669.032 | 4.224.649.366.399  |
+|  b. Dài hạn |  |   |
+|  Doanh thu nhận trước về dịch vụ phần mềm | 114.170.077.643 | 96.453.063.054  |
+|  Doanh thu nhận trước về dịch vụ viễn thông | 6.951.117.122 | 6.969.806.981  |
+|  Các khoản doanh thu chưa thực hiện khác | 27.478.463.146 | 27.921.664.169  |
+|   | 148.599.657.911 | 131.344.534.204  |
+
+### 22. CÁC KHOẢN PHẢI TRẢ, PHẢI NỘP KHÁC
+
+|   | 31/03/2025 | 31/12/2024  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  a. Ngắn hạn |  |   |
+|  Kinh phí công đoàn | 135.829.359.207 | 141.865.988.978  |
+|  Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp | 75.533.810.854 | 204.106.841.458  |
+|  Nhận ký quỹ, ký cược ngắn hạn | 163.111.534.970 | 194.054.614.610  |
+|  Cố tức, lợi nhuận phải trả | 554.963.986.931 | 19.677.589.931  |
+|  Phải trả khác | 322.092.973.812 | 314.310.802.351  |
+|   | 1.251.531.665.774 | 874.015.837.328  |
+|  b. Dài hạn |  |   |
+|  Nhận ký quỹ, ký cược dài hạn | 22.116.129.669 | 22.033.788.240  |
+|  Phải trả khác | 152.757.263.920 | 161.754.654.545  |
+|   | 174.873.393.589 | 183.788.442.785  |
+
+--- TRANG 33 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+MẪU SỐ B 09-DN/HN
+
+## 23. VAY VÀ NƠ THUÊ TÀI CHÍNH
+
+|  Chỉ tiêu | 31/12/2024 |  | Phát sinh trong kỳ |  |  | 31/03/2025 |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Giá trị | Số có khả năng trả nợ | Tăng | Giảm | Chênh lệch tỷ giá | Giá trị | Số có khả năng trả nợ |   |
+|   | VND | VND | VND | VND | VND | VND | VND | VND  |
+|  Ngắn hạn |  |  |  |  |  |  |  |   |
+|  Vay ngắn hạn |  |  |  |  |  |  |  |   |
+|  Vay ngắn hạn các ngân hàng và các tổ chức kinh tế (i) | 14.317.135.323.689 | 14.317.135.323.689 | 11.675.355.612.897 | 7.868.003.665.342 | 60.561.305.435 | 18.185.048.576.679 | 18.185.048.576.679 |   |
+|  Vay dài hạn đến hạn trả |  |  |  |  |  |  |  |   |
+|  Vay dài hạn đến hạn trả | 128.186.966.341 | 128.186.966.341 | 34.631.544.074 | 34.257.205.218 | 5.634.506.893 | 134.195.812.090 | 134.195.812.090 |   |
+|  Nợ thuê tài chính dài hạn đến hạn trả | 916.161.293 | 916.161.293 | 224.987.491 | 230.583.912 | 54.645.644 | 965.210.516 | 965.210.516 |   |
+|   | 14.446.238.451.323 | 14.446.238.451.323 | 11.710.212.144.462 | 7.902.491.454.472 | 66.250.457.972 | 18.320.209.599.285 | 18.320.209.599.285 |   |
+|  Dài hạn |  |  |  |  |  |  |  |   |
+|  Vay ngắn hàng | 499.673.187.459 | 499.673.187.459 | 500.191.043.751 | 34.631.544.074 | 21.145.000.095 | 986.377.687.231 | 986.377.687.231 |   |
+|  Nợ thuê tài chính | 1.442.349.616 | 1.442.349.616 | - | 224.987.491 | 86.030.835 | 1.303.392.960 | 1.303.392.960 |   |
+|   | 501.115.537.075 | 501.115.537.075 | 500.191.043.751 | 34.856.531.565 | 21.231.030.930 | 987.681.080.191 | 987.681.080.191 |   |
+
+(i) Khoản vay ngắn hạn từ các ngân hàng và các tổ chức kinh tế được thực hiện chủ yếu dưới hình thức tín chấp và tín dụng thư. Các khoản tín dụng này có thể rút bằng VND hoặc USD. Các khoản vay này không có đảm bảo và lãi suất được quy định cụ thể theo mỗi lần rút vốn.
+
+--- TRANG 34 ---
+CÔNG TY CỔ PHẦN FPT
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+23. VAY VÀ NƠ THUÊ TÀI CHÍNH (tiếp theo)
+
+Kỳ hạn của các khoản vay dài hạn như sau:
+
+Vay dài hạn:
+
+- Kỳ hạn không quá 3 năm
+- Kỳ hạn 4 năm
+- Kỳ hạn 5 năm
+- Kỳ hạn trên 5 năm
+
+Nợ thuê tài chính dài hạn
+
+Trong đó:
+Số phải trả trong vòng 12 tháng
+Số phải trả sau 12 tháng
+
+Vay dài hạn:
+1.120.573.499.321
+85.727.769.359
+
+993.621.769.442
+41.223.960.520
+2.268.603.476
+1.122.842.102.797
+
+135.161.022.606
+987.681.080.191
+
+135.161.022.606
+81.784.329.565
+
+502.791.458.335
+43.284.365.900
+2.358.510.909
+630.218.664.709
+
+129.103.127.634
+501.115.537.075
+
+Các khoản vay dài hạn được hoàn trả theo lịch biểu sau:
+
+Trong vòng một năm
+Trong năm thứ hai
+Từ năm thứ ba đến năm thứ năm
+Sau năm năm
+
+Trừ: số phải trả trong vòng 12 tháng
+(dược trình bày ở phần nợ ngắn hạn)
+Số phải trả sau 12 tháng
+
+| 31/03/2025 | 31/12/2024 |
+| :--: | :--: |
+| VND | VND |
+| 134.195.812.090 | 128.186.966.341 |
+| 76.223.385.600 | 82.760 .904 .200 |
+| 908.766.159.791 | 415.278 .022 .959 |
+| 1.388.141.840 | 1.634.260.300 |
+| 1.120.573.499.321 | 627.860.153.800 |
+| 134.195.812.090 | 128.186.966.341 |
+| 986.377.687.231 | 499.673.187.459 |
+
+--- TRANG 35 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT** (tiếp theo) Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 23. VAY VÀ NỢ THUẾ TÀI CHÍNH (tiếp theo)
+
+### Chi tiết các khoản vay theo nguyên tệ
+
+Chi tiết các khoản vay theo nguyên tệ như sau:
+
+|   | 31/03/2025 |  | 31/12/2024 |   |
+| --- | --- | --- | --- | --- |
+|   | Nguyên tệ | Tương đương VND | Nguyên tệ | Tương đương VND  |
+|  Đồng Euro ("EUR") | 174.654,91 | 4.970.505.830 | 207.346,24 | 5.658.694.530  |
+|  Độ la Mỹ ("USD") | 61.150.000,00 | 1.567.826.714.287 | 32.900.000,00 | 817.599.308.852  |
+|  Yên Nhật Bản ("JPY") | 7.858.407.856,00 | 1.351.410.398.996 | 8.905.992.694,00 | 1.445.353.554.309  |
+|  Đồng Việt Nam ("VND") | 16.407.043.299.731 | 16.383.683.060.363 | 12.678.742.430.707 | 12.678.742.430.707  |
+|   |  | 19.307.890.679.476 |  | 14.947.353.988.398  |
+
+Chi tiết số dư các khoản vay bằng ngoại tệ được Tập đoàn phòng ngừa rủi ro tỷ giá bằng cách sử dụng các giao dịch hoán đổi ngoại tệ và mua ngoại tệ trong tương lai như sau:
+
+|   | 31/03/2025 |  | 31/12/2024 |   |
+| --- | --- | --- | --- | --- |
+|   | Tổng số dư ngoại tệ | Số dư ngoại tệ đã được phòng ngừa rủi ro | Tổng số dư ngoại tệ | Số dư ngoại tệ đã được phòng ngừa rủi ro  |
+|  USD | 61.150.000,00 | 61.150.000,00 | 32.900.000,00 | 25.600.000,00  |
+|  JPY | 7.858.407.856,00 | - | 8.305.992.694,00 | -  |
+
+Ngoài ra, Tập đoàn có nguồn thu ngoại tệ thu được từ các hợp đồng cung cấp dịch vụ thu tiền bằng USD và JPY để có thể chi trả cho các khoản vay. Cụ thể, doanh thu của Tập đoàn thu về bằng USD và JPY như sau:
+
+|   | Từ ngày 01/01/2025 đến ngày 31/03/2025 | Từ ngày 01/01/2024 đến ngày 31/03/2024  |
+| --- | --- | --- |
+|  Ngoại tệ: |  |   |
+|  USD | 95.659.008,00 | 101.553.169,15  |
+|  JPY | 22.777.252.773,00 | 18.533.814.858,00  |
+
+--- TRANG 36 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+**MẪU SỐ B 09-DN/HN**
+
+## 24. VỐN CHỦ SỬ HỮU
+
+### Thay đổi trong vốn chủ sở hữu
+
+|   | Vốn góp của
+chủ sở hữu | Thặng dư
+vốn cổ phần | Vốn khác
+của chủ sở hữu | Chênh lệch tỷ giá
+hối đoái | Quỹ đầu tư phát triển | Quỹ khác thuộc
+vốn
+chủ sở hữu | Lợi nhuận chưa phân
+phối | Cộng  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Số dư tại ngày 01/01/2024 | 12.699.688.750.000 | 49.713.213.411 | 1.928.602.158.147 | (17.778.502.626) | 1.549.850.939.920 | 87.203.093.024 | 8.674.126.708.670 | 24.971.406.360.546  |
+|  Phát hành cổ phiếu | 106.211.170.000 | - | - | - | - | - | - | 106.211.170.000  |
+|  Lợi nhuận thuần trong năm | - | - | - | - | - | - | 7.856.767.812.178 | 7.856.767.812.178  |
+|  Trích lập quỹ khen thưởng phúc lợi | - | - | - | - | - | - | (624.987.179.579) | (624.987.179.579)  |
+|  Trích và sử dụng quỹ đầu tư phát triển | - | - | - | - | 483.438.201.615 | - | (188.268.828.315) | 295.169.373.300  |
+|  Chia cổ tức bằng cổ phiếu | 1.904.791.910.000 | - | - | - | - | - | (1.904.791.910.000) | -  |
+|  Chia cổ tức bằng tiền | - | - | - | - | - | - | (2.741.038.058.000) | (2.741.038.058.000)  |
+|  Các biến động khác về vốn chủ sở hữu | - | - | 410.545.307 | (31.707.058.234) | - | 527.391.801 | (41.279.873.523) | (72.048.994.649)  |
+|  Số dư tại ngày 01/01/2025 | 14.710.691.830.000 | 49.713.213.411 | 1.929.012.703.454 | (49.485.560.860) | 2.033.289.141.535 | 87.730.484.825 | 11.030.528.671.431 | 29.791.480.483.796  |
+|  Lợi nhuận thuần trong kỳ | - | - | - | - | - | - | 2.174.301.386.525 | 2.174.301.386.525  |
+|  Trích và sử dụng quỹ đầu tư phát triển | - | - | - | - | 37.785.165.566 | - | - | 37.785.165.566  |
+|  Các biến động khác về vốn chủ sở hữu | - | - | - | 63.193.671.912 | - | 3.848.656.949 | 696.398.367 | 67.738.727.228  |
+|  Số dư tại ngày 31/03/2025 | 14.710.691.830.000 | 49.713.213.411 | 1.929.012.703.454 | 13.708.111.052 | 2.071.074.307.101 | 91.379.141.774 | 13.205.526.456.323 | 32.071.305.763.112  |
+|  Trong đời |  |  |  |  |  |  |  |   |
+|  Lợi nhuận thuần trong năm kết thuyết từ |  |  |  |  |  |  |  |   |
+|  báo cáo Kết quả hoạt động kinh doanh |  |  |  |  |  |  |  |   |
+|  hợp nhất |  |  |  |  |  |  |  |   |
+|  Lợi ích cổ đông không kiểm soát |  |  |  |  |  |  |  |   |
+|  - Số dư tại ngày 01/01/2025 | 2.792.973.085.293 | 122.415.334.866 | 30.113.842.695 | 6.066.292.299 | 1.153.220.275.158 | - | 1.828.520.790.693 | 5.933.309.621.004  |
+|  - Số dư tại ngày 31/03/2025 | 2.792.973.085.293 | 122.415.334.866 | 30.113.842.695 | 9.395.465.341 | 1.153.220.275.158 | 962.164.237 | 1.713.518.766.237 | 5.822.598.933.827  |
+|  Tổng cộng |  |  |  |  |  |  |  |   |
+|  Số dư tại ngày 01/01/2025 | 17.503.664.915.293 | 172.128.548.277 | 1.959.126.546.149 | (43.419.268.561) | 3.186.509.416.693 | 87.730.484.825 | 12.859.049.462.124 | 35.724.790.104.800  |
+|  Số dư tại ngày 31/03/2025 | 17.503.664.915.293 | 172.128.548.277 | 1.959.126.546.149 | 23.103.576.393 | 3.224.294.582.259 | 92.541.306.011 | 14.919.045.222.560 | 37.893.904.696.942  |
+
+--- TRANG 37 ---
+CÔNG TY CỔ PHẦN FPT
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+MẪU SỐ B 09-DN/HN
+
+# 24. VỐN CHỦ SỞ HỮU (tiếp theo) 
+
+Số cổ phiếu đang lưu hành
+
+Vốn cổ phần được duyệt
+Cổ phiếu đã phát hành
+Cổ phiếu phổ thông
+Trong đó cổ phiếu bị hạn chế chuyển giao quyền sở hữu
+Cổ phiếu quỹ
+Cổ phiếu phổ thông
+Trong đó cổ phiếu bị hạn chế chuyển giao quyền sở hữu
+Cổ phiếu dang lưu hành
+Cổ phiếu phổ thông
+Trong đó cổ phiếu bị hạn chế chuyển giao quyền sở hữu
+
+| $31 / 03 / 2025$ | $31 / 12 / 2024$ |
+| :--: | :--: |
+| Số lượng cổ phiếu | Số lượng cổ phiếu |
+| 1.471 .069 .183 | 1.471 .069 .183 |
+| 1.471 .069 .183 | 1.471 .069 .183 |
+| 1.471 .069 .183 | 1.471 .069 .183 |
+| 25.860 .732 | 25.943 .108 |
+| - | - |
+| - | - |
+| 1.471 .069 .183 | 1.471 .069 .183 |
+| 1.471 .069 .183 | 1.471 .069 .183 |
+| 25.860 .732 | 25.943 .108 |
+
+Mệnh giá cổ phiếu phổ thông đang lưu hành là 10.000 VND/cổ phiếu. Mỗi cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại các cuộc họp cổ đông của Công ty. Các cổ đông được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ phiếu phổ thông đều có thứ tự ưu tiên như nhau đối với tài sản còn lại của Công ty. Các quyền lợi của các cổ phiếu đã được Công ty mua lại đều bị tạm ngừng cho tới khi được phát hành lại.
+Các cổ phiếu bị hạn chế quyền chuyển giao quyền sở hữu có mệnh giá 10.000 VND/cổ phiếu. Các cổ phiếu này phải chịu hạn chế mà theo đó cổ đông nắm giữ cổ phiếu ưu đãi không được bán lại các cổ phiếu mà họ nắm giữ trong một thời gian quy định kể từ ngày phát hành.
+25. DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
+
+| Từ ngày 01/01/2025 | Từ ngày 01/01/2024 |
+| :--: | :--: |
+| đến ngày 31/03/2025 | đến ngày 31/03/2024 |
+| VND | VND |
+
+## Tổng doanh thu
+
+- Doanh thu bán hàng hóa
+- Doanh thu cung cấp dịch vụ
+
+Các khoản giảm trừ
+
+- Doanh thu bán hàng hóa
+- Doanh thu cung cấp dịch vụ
+
+Doanh thu thuần về bán hàng và cung cấp dịch vụ
+
+- Doanh thu bán hàng hóa
+- Doanh thu cung cấp dịch vụ
+
+Từ ngày 01/01/2025
+đến ngày 31/03/2025
+VND
+$2.162 .815 .573 .023$
+$13.902 .164 .818 .241$
+$16.064 .980 .391 .264$
+$52.209 .001$
+$6.787 .239 .803$
+$6.839 .448 .804$
+$2.162 .763 .364 .022$
+$13.895 .377 .578 .438$
+$16.058 .140 .942 .460$
+$964.264 .047 .701$
+$13.129 .033 .349 .775$
+$14.093 .297 .397 .476$
+$117.115 .000$
+$251.868 .777$
+$368.983 .777$
+$964.146 .932 .701$
+$13.128 .781 .480 .998$
+$14.092 .928 .413 .699$
+
+--- TRANG 38 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+26. GIÁ VỚN HÀNG BẢN
+
+Giá vốn hàng hóa
+Giá vốn dịch vụ
+Dự phòng giảm giá hàng tồn kho
+
+Từ ngày 01/01/2025
+đến ngày 31/03/2025
+VND
+931.117 .403 .112
+8.828 .209 .090 .701
+$(2.533 .455 .619)$
+9.756 .793 .038 .194
+Từ ngày 01/01/2024
+đến ngày 31/03/2024
+VND
+780.095 .965 .428
+7.793 .718 .309 .971
+8.648 .458 .213
+8.582 .462 .733 .612
+27. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+Doanh thu lãi tiền gửi
+Lãi chênh lệch tỷ giá
+Cố tức, lợi nhuận được chia
+Doanh thu khác
+
+Từ ngày 01/01/2025
+đến ngày 31/03/2025
+VND
+349.849 .081 .280
+216.171 .243 .948
+1.113 .486 .000
+6.198 .081 .963
+573.331 .893 .191
+
+Từ ngày 01/01/2024
+đến ngày 31/03/2024
+VND
+265.967 .676 .119
+190.858 .906 .939
+266.396 .928
+457.092 .979 .986
+28. CHI PHÍ TÀI CHÍNH
+
+Chi phí lãi vay
+Lỗ chênh lệch tỷ giá
+Dự phòng giảm giá khoản đầu tư
+Chi phí tài chính khác
+
+Từ ngày 01/01/2025
+đến ngày 31/03/2025
+VND
+152.389 .538 .333
+120.446 .579 .264
+36.640 .660 .788
+1.866 .990 .979
+311.343 .769 .364
+
+Từ ngày 01/01/2024
+đến ngày 31/03/2024
+VND
+137.833 .720 .086
+176.512 .027 .516
+17.289 .920 .437
+2.429 .605 .262
+334.065 .273 .301
+29. LÃI CƠ BẢN TRÊN CỔ PHIẾU
+
+Lãi cơ bản trên cổ phiếu tại cho kỳ 31 tháng 03 năm 2025 được tính dựa trên số lợi nhuận thuộc về cổ đông sở hữu cổ phiếu phổ thông và số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong kỳ, được thực hiện như sau:
+
+Từ ngày 01/01/2025
+đến ngày 31/03/2025
+VND
+2.174.301.386.525
+1.471 .069 .183
+1.478
+
+Từ ngày 01/01/2024
+đến ngày 31/03/2024
+VND
+1.798.030.863.528
+1.460 .448 .066
+1.231
+
+--- TRANG 39 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) MẪU SỐ B 09-DN/HN Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+1. LÃI CƠ BẢN TRÊN CỔ PHIẾU (tiếp theo)
+
+Điều chỉnh lại số cổ phiếu phổ thông bình quân gia quyền Ngày 13/6/2024, Công ty Cổ phần FPT đã thực hiện trả cổ tức bằng cổ phiếu dẫn đến việc điều chỉnh hồi tố số lượng cổ phiếu phổ thông bình quân gia quyền đang lưu hành của kỳ hoạt động từ ngày 01 tháng 01 năm 2024 đến ngày 31 tháng 03 năm 2024 như sau:
+
+|   | Số cổ phiếu bình quân gia quyền | Lãi cơ bản trên cổ phiếu  |
+| --- | --- | --- |
+|  Số cổ phiếu bình quân gia quyền cho kỳ từ 01/01/2024 đến 31/03/2024 | 1.269.968.875 | 1.416  |
+|  Ảnh hưởng của việc phát hành cổ phiếu trả cổ tức tại ngày 13/6/2024 | 190.479.191 | (185)  |
+|  Số cổ phiếu phổ thông bình quân gia quyền đang lưu hành tại 31/03/2024 đã điều chỉnh | 1.460.448.066 | 1.231  |
+
+1. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN
+
+Trong kỳ, Tập đoàn có các giao dịch chủ yếu sau với các bên liên quan:
+
+|   | Lũy kể từ đầu năm đến cuối kỳ này |   |
+| --- | --- | --- |
+|   | Năm 2025 | Năm 2024  |
+|  Bán hàng hóa dịch vụ | VND | VND  |
+|  Công ty Cổ phần Synnex FPT | 2.050.208.278 | 11.356.987.471  |
+|  Công ty Cổ phần Bán lẻ Kỹ thuật số FPT | 86.967.494.902 | 65.313.257.479  |
+|  Mua hàng hóa và dịch vụ |  |   |
+|  Công ty Cổ phần Synnex FPT | 192.665.466.678 | 168.578.624.091  |
+|  Công ty Cổ phần Bán lẻ Kỹ thuật số FPT | 14.139.896.339 | 14.854.117.217  |
+
+Tại ngày kết thúc kỳ kế toán, Tập đoàn có các số dư chủ yếu với các bên liên quan như sau:
+
+|   | 31/03/2025 | 31/12/2024  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Các khoản ủy thác đầu tư |  |   |
+|  Công ty Cổ phần Quản lý Quỹ Đầu tư FPT | 39.275.051.776 | 39.275.051.776  |
+|  Vốn góp |  |   |
+|  Công ty Cổ phần Quản lý Quỹ Đầu tư FPT | 27.500.000.000 | 27.500.000.000  |
+|  Công ty Cổ phần Bán lẻ Kỹ thuật số FPT | 94.000.000.000 | 94.000.000.000  |
+|  Công ty Cổ phần Synnex FPT | 398.500.000.000 | 398.500.000.000  |
+|  Số dư các khoản phải thu |  |   |
+|  Công ty Cổ phần Synnex FPT | 1.108.019.475 | 1.288.628.494  |
+|  Công ty Cổ phần Bán lẻ Kỹ thuật số FPT | 18.323.635.862 | 45.211.898.981  |
+|  Số dư các khoản phải trả |  |   |
+|  Công ty Cổ phần Synnex FPT | 237.548.236.649 | 323.663.223.786  |
+|  Công ty Cổ phần Bán lẻ Kỹ thuật số FPT | 5.024.133.720 | 6.230.359.104  |
+
+--- TRANG 40 ---
+# CÔNG TY CỔ PHẦN FPT 
+
+Số 10 phố Phạm Văn Bạch
+Phường Dịch Vọng, Quận Cầu Giấy
+Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất
+Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025
+đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+## 31. CÁC KHOẢN CAM KẾT
+
+## Cam kết thuê hoạt động
+
+Tập đoàn ký các hợp đồng thuê hoạt động (bao gồm: thuê văn phòng, địa điểm giảng dạy, nhà ở và thuê khác). Mức cam kết thanh toán trong tương lai theo hợp đồng như sau:
+
+|  | 31/03/2025 | 31/12/2024 |
+| :--: | :--: | :--: |
+|  | VND | VND |
+| Dưới 1 năm | 901.725 .315 .194 | 872.479 .124 .331 |
+| Từ 1 năm đến 5 năm | 1.704.209.718.188 | 1.655.574.881.552 |
+| Trên 5 năm | 764.419.336.392 | 771.175 .004 .322 |
+|  | 3.370.354.369.774 | 3.299.229.010.205 |
+
+32. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+Nợ khó đòi đã được xử lý
+
+|  | 31/03/2025 | 31/12/2024 |
+| :--: | :--: | :--: |
+|  | VND | VND |
+| Nợ khó đòi | 764.419.336.392 | 638.434.100.449 |
+
+## 33. SỐ LIỆU SO SÁNH
+
+Số liệu so sánh của bảng cân đối kế toán hợp nhất là số liệu của báo cáo tài chính hợp nhất đã được kiểm toán cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024. Số liệu so sánh của báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất là số liệu của báo cáo tài chính hợp nhất cho kỳ hoạt động từ ngày 01 tháng 01 năm 2024 đến ngày 31 tháng 3 năm 2024.
+![img-2.jpeg](img-2.jpeg)
+
+Hà Nội, ngày 18 tháng 4 năm 2025
+
+--- TRANG 41 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)**
+
+*Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo*
+
+## PHỤ LỤC 1 – DANH SÁCH CÔNG TY CON VÀ CÔNG TY LIÊN DOANH, LIÊN KẾT KHÁC THUỘC SỞ HỮU CỦA CÁC CÔNG TY CON CỦA CÔNG TY TẠI NGÀY 31 tháng 03 năm 2025
+
+### A. CÔNG TY CON KHÁC
+
+|  STT | Công ty | Hoạt động chính | Nơi thành lập, đăng ký hoạt động | Tại ngày 31/03/2025 | Tại ngày 31/12/2024  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  | Tỷ lệ sở hữu | Tỷ lệ biểu quyết  |
+|  1 | Công ty TNHH FPT Nhật Bản | Sản xuất phần mềm | Nhật Bản | 100% | 100%  |
+|  2 | Công ty TNHH FPT Nearshore Nhật Bản | Sản xuất phần mềm | Nhật Bản | 100% | 100%  |
+|  3 | Công ty TNHH Phần mềm FPT Thượng Hải | Sản xuất phần mềm | Trung Quốc | 100% | 100%  |
+|  4 | Công ty TNHH FPT Techno Nhật Bản | Sản xuất phần mềm | Nhật Bản | 100% | 100%  |
+|  5 | Công ty TNHH Phần mềm FPT Indonesia | Sản xuất phần mềm | Nhật Bản | 99,88% | 99,88%  |
+|  6 | Công ty TNHH Phần mềm FPT Nhật Bản | Sản xuất phần mềm | Nhật Bản | 100% | 100%  |
+|  7 | Công ty TNHH FPT Taiwan | Sản xuất phần mềm | Đài Loan | 100% | 100%  |
+|  8 | Công ty TNHH Tư vấn FPT Nhật Bản | Tư vấn công nghệ | Nhật Bản | 80% | 80%  |
+|  9 | Công ty TNHH Phần mềm FPT Korea | Sản xuất phần mềm | Hàn Quốc | 100% | 100%  |
+|  10 | Công ty TNHH FPT USA | Sản xuất phần mềm | Hoa Kỳ | 100% | 100%  |
+|  11 | Công ty TNHH FPT Canada | Sản xuất phần mềm | Canada | 100% | 100%  |
+|  12 | Công ty TNHH Tư vấn Intellinet | Tư vấn công nghệ | Hoa Kỳ | 98,18% | 98,18%  |
+|  13 | Công ty TNHH Tư vấn Intertec | Sản xuất phần mềm | Hoa Kỳ | 70% | 70%  |
+|  14 | Công ty TNHH Intertec International | Sản xuất phần mềm | Anh | 70% | 70%  |
+|  15 | Công ty TNHH Tư vấn Micra International | Sản xuất phần mềm | Costa Rica | 70% | 70%  |
+|  16 | Công ty TNHH Intertec International S.A.S | Sản xuất phần mềm | Columbia | 70% | 70%  |
+|  17 | Công ty TNHH Intertec International S de R.L de C.V | Sản xuất phần mềm | Mexico | 70% | 70%  |
+|  18 | Công ty Cardinal Peak LLC | Sản xuất phần mềm | Hoa Kỳ | 100% | 100%  |
+|  19 | Công ty TNHH FPT India | Sản xuất phần mềm | Ấn Độ | 100% | 100%  |
+|  20 | Công ty TNHH FPT Đức | Sản xuất phần mềm | Đức | 100% | 100%  |
+|  21 | Công ty TNHH FPT Anh | Sản xuất phần mềm | Anh | 100% | 100%  |
+|  22 | Công ty TNHH Phần mềm FPT Malaysia | Sản xuất phần mềm | Malaysia | 100% | 100%  |
+|  23 | Công ty TNHH Giải pháp Phần mềm FPT Châu Á Thái Bình Dương | Sản xuất phần mềm | Singapore | 100% | 100%  |
+|  24 | Công ty TNHH Phần mềm FPT Australia | Sản xuất phần mềm | Úc | 100% | 100%  |
+|  25 | Công ty TNHH Phần mềm FPT Châu Âu | Sản xuất phần mềm | Pháp | 100% | 100%  |
+
+--- TRANG 42 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+|  STT | Công ty | Hoạt động chính | Nơi thành lập, đăng ký hoạt động | Tại ngày 31/03/2025 | Tại ngày 31/12/2024  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  | Tỷ lệ sở hữu biểu quyết | Tỷ lệ sở hữu biểu quyết  |
+|  26 | Công ty TNHH Phần mềm FPT Philippines | Sản xuất phần mềm | Philippines | 100% | 100%  |
+|  27 | Công ty TNHH FPT Slovakia | Sản xuất phần mềm | Slovakia | 100% | 100%  |
+|  28 | Công ty TNHH FPT Cộng hòa Séc | Sản xuất phần mềm | Cộng hòa Séc | 100% | 100%  |
+|  29 | Công ty TNHH FPT Châu Á Thái Bình Dương | Sản xuất phần mềm | Singapore | 100% | 100%  |
+|  30 | Công ty TNHH FPT Siam | Sản xuất phần mềm | Thái Lan | 99,97% | 99,97%  |
+|  31 | Công ty TNHH Công nghệ FPT DMCC | Sản xuất phần mềm | UAE | 100% | 100%  |
+|  32 | Công ty TNHH Tư vấn FPT LLC | Sản xuất phần mềm | UAE | 100% | 100%  |
+|  33 | Công ty TNHH Dịch vụ Tư vấn FPT | Sản xuất phần mềm | Hong Kong | 100% | 100%  |
+|  34 | Công ty TNHH Hệ thống thông tin Singapore | Sản xuất phần mềm | Singapore | 100% | 100%  |
+|  35 | Công ty TNHH FPT Myanmar | Sản xuất phần mềm | Myanmar | 100% | 100%  |
+|  36 | Công ty TNHH Phần mềm FPT Hồ Chí Minh | Sản xuất phần mềm | Việt Nam | 100% | 100%  |
+|  37 | Công ty TNHH Phần mềm FPT Hà Nội | Sản xuất phần mềm | Việt Nam | 100% | 100%  |
+|  38 | Công ty TNHH Phần mềm FPT Miền Trung | Sản xuất phần mềm | Việt Nam | 100% | 100%  |
+|  39 | Công ty TNHH Phần mềm FPT Thăng Long | Sản xuất phần mềm | Việt Nam | 100% | 100%  |
+|  40 | Công ty TNHH Phần mềm sáng tạo FPT | Sản xuất phần mềm | Việt Nam | 100% | 100%  |
+|  41 | Công ty Cổ phần Công nghệ HOMA | Sản xuất, kinh doanh thiết bị điện tử | Việt Nam | 75% | 75%  |
+|  42 | Công ty TNHH Phần mềm FPT Quy Nhơn | Sản xuất phần mềm | Việt Nam | 100% | 100%  |
+|  43 | Công ty Phần mềm FPT Tô Châu | Sản xuất phần mềm | Trung Quốc | 08 giải thể | 100%  |
+|  44 | Công ty TNHH Akavault | Tư vấn công nghệ | Singapore | 100% | 100%  |
+|  45 | Công ty Phần mềm FPT Hà Lan | Sản xuất phần mềm | Hà Lan | 100% | 100%  |
+|  46 | Công ty Base Platform Pte | Sản xuất phần mềm | Singapore | 90% | 90%  |
+|  47 | Công ty Cổ phần Base Enterprise | Sản xuất phần mềm | Việt Nam | 89,99% | 99,98%  |
+|  48 | Công ty TNHH Phần mềm FPT Huế | Sản xuất phần mềm | Việt Nam | 100% | 100%  |
+|  49 | Công ty TNHH Công nghệ Thông tin FPT | Sản xuất phần mềm | Ả rập xế út | 100% | 100%  |
+|  50 | Công ty TNHH Phần mềm FPT Quảng Tây | Sản xuất phần mềm | Trung Quốc | 08 giải thể | 100%  |
+|  51 | Công ty TNHH NAC | Sản xuất phần mềm | Nhật Bản | 100% | 100%  |
+|  52 | Công ty TNHH Tư vấn AOSIS | Sản xuất phần mềm | Pháp | 80% | 80%  |
+|  53 | Công ty TNHH Phần mềm FPT Đại Liên | Sản xuất phần mềm | Trung Quốc | 100% | 100%  |
+|  54 | Công ty FPT Automotive | Sản xuất phần mềm | Hoa Kỳ | 100% | 100%  |
+|  55 | Công ty Phần mềm FPT Romania | Sản xuất phần mềm | Romania | 100% | 100%  |
+|  56 | Công ty TNHH Công nghệ mới FPT | Sản xuất phần mềm | Việt Nam | 100% | 100%  |
+
+MẪU SỐ B 09-DN/HN
+
+--- TRANG 43 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+|  STT | Công ty | Hoạt động chính | Nơi thành lập, đăng ký hoạt động | Tại ngày 31/03/2025 | Tại ngày 31/12/2024  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  | Tỷ lệ sở hữu | Tỷ lệ  |
+|  57 | Công ty TNHH FPT Software Scandinavia ApS | Sản xuất phần mềm | Đan Mạch | 100% | 100%  |
+|  58 | Công ty TNHH FPT Smart Cloud Japan | Sản xuất phần mềm | Nhật Bản | 100% | 100%  |
+|  59 | Công ty TNHH Bất động sản FPT | Kinh doanh, môi giới BĐS | Việt Nam | 100% | 100%  |
+|  60 | Công ty Cổ phần An toàn Thông tin Cyradar | Dịch vụ CNTT | Việt Nam | 77,78% | 77,78%  |
+|  61 | Công ty Cổ phần Công nghệ UTOP | Lập trình máy vi tính | Việt Nam | 55,63% | 55,63%  |
+|  62 | Trường Trung học phổ thông FPT | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  63 | Công ty TNHH Sáng tạo Công nghệ FPT Toàn cầu | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  64 | Trường Tiểu học và Trung học cơ sở FPT | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  65 | Trường Trung học Phổ thông FPT (Đà Nẵng) | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  66 | Trường Trung học Phổ thông FPT (Cần Thơ) | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  67 | Trường Đại học FPT | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  68 | Công ty TNHH Đầu tư Thanh Sang | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  69 | Trường Cao đẳng FPT Polytechnic | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  70 | Trường Tiểu học và Trung học cơ sở FPT Cầu Giấy | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  71 | Công ty TNHH Thương mại và Dịch vụ Trung tâm Lợi | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  72 | Trường Trung học Phổ thông FPT (Bình Định) | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  73 | Trường Tiểu học, THCS và THPT FPT Bắc Ninh | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  74 | Trường THCS và THPT FPT Hải Phòng | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  75 | Trường Tiểu học, THCS và THPT FPT Bắc Giang | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  76 | Trường Tiểu học, THCS và THPT FPT Hà Nam | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  77 | Công ty cổ phần giáo dục và đào tạo TVB | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  78 | Trường Cao Đẳng Y Dược Thăng Long | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  79 | Trường THPT Tây Hà Nội | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  80 | Công ty TNHH Giáo dục FPT Nghệ An | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  81 | Trường Tiểu học, THCS và THPT FPT Thanh Hóa | Giáo dục, đào tạo | Việt Nam | 100% | 100%  |
+|  82 | Công ty Cổ phần Quốc tế Telehouse Vietnam | Dịch vụ trung tâm dữ liệu | Việt Nam | 51% | 51%  |
+|  83 | Công ty TNHH Hệ thống Thông tin Campuchia | Tích hợp hệ thống, dịch vụ phần mềm | Campuchia | 100% | 100%  |
+|  84 | Công ty TNHH Đầu tư và Phát triển Hệ thống đấu thầu qua mạng quốc gia | Giải pháp ứng dụng thương mại điện tử trong hoạt động mua sắm chính phủ | Việt Nam | 100% | 100%  |
+
+--- TRANG 44 ---
+# CÔNG TY CỔ PHẦN FPT
+
+Số 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+|  STT | Công ty | Hoạt động chính | Nơi thành lập, đăng ký hoạt động | Tại ngày 31/03/2025 |  | Tại ngày 31/12/2024 |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  |  |  | Tỷ lệ sở hữu | Tỷ lệ biểu quyết | Tỷ lệ sở hữu | Tỷ lệ biểu quyết  |
+|  85 | Công ty Cổ phần Truyền thông TechUp | Xuất bản phần mềm | Việt Nam | 73,75% | 73,75% | 73,75% | 73,75%  |
+|  86 | Công ty Cổ phần bán dẫn FPT | Sản xuất linh kiện điện tử | Việt Nam | 94,99% | 94,99% | 94,99% | 94,99%  |
+|  87 | Công ty TNHH MTV Giải pháp Công nghệ FPT | Tích hợp hệ thống, dịch vụ và giải pháp phần mềm | Việt Nam | 100% | 100% | 100% | 100%  |
+|  88 | Công ty TNHH MTV Viễn thông FPT Tân Thuận | Dịch vụ internet tốc độ cao và các dịch vụ viễn thông khác | Việt Nam | 45,66% | 100% | 45,66% | 100%  |
+|  89 | Công ty TNHH MTV Viễn thông Quốc tế FPT | Dịch vụ internet tốc độ cao và các dịch vụ viễn thông khác | Việt Nam | 45,66% | 100% | 45,66% | 100%  |
+|  90 | Công ty Cổ phần Công nghệ Viễn thông FPT | Dịch vụ internet tốc độ cao và các dịch vụ viễn thông khác | Việt Nam | 45,66% | 99,999% | 45,66% | 99,999%  |
+|  91 | Công ty TNHH Truyền hình FPT | Dịch vụ truyền hình | Việt Nam | 45,66% | 100% | 45,66% | 100%  |
+|  92 | Công ty TNHH MTV Viễn thông FPT Thăng Long | Dịch vụ internet tốc độ cao và các dịch vụ viễn thông khác | Việt Nam | 45,66% | 100% | 45,66% | 100%  |
+
+--- TRANG 45 ---
+CÔNG TY CỔ PHẦN FPT Sổ 10 phố Phạm Văn Bạch Phường Dịch Vọng, Quận Cầu Giấy Thành phố Hà Nội, Việt Nam
+
+Báo cáo tài chính hợp nhất Cho kỳ hoạt động từ ngày 01 tháng 01 năm 2025 đến ngày 31 tháng 03 năm 2025
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+
+MẪU SỐ B 09-DN/HN
+
+B. CÔNG TY LIÊN DOANH, LIÊN KẾT KHÁC
+
+|  STT | Công ty | Hoạt động chính | Nơi thành lập, đăng ký hoạt động | Tại ngày 31/03/2025 | Tại ngày 31/12/2024  |
+| --- | --- | --- | --- | --- | --- |
+|   |  |  |  | Tỷ lệ sở hữu | Tỷ lệ quyết  |
+|  1 | Công ty Cổ phần Quản lý quỹ Đầu tư FPT | Quản lý quỹ đầu tư, quản lý danh mục đầu tư và các dịch vụ khác | Việt Nam | 25% | 25%  |
+|  2 | Công ty TNHH SBI FPT | Sản xuất phần mềm | Việt Nam | 30% | 30%  |
+|  3 | Công ty TNHH MIS FPT | Sản xuất phần mềm | Nhật Bản | 50% | 50%  |
+|  4 | Công ty TNHH FPT Smart Technologies | Sản xuất phần mềm | Việt Nam | 50% | 50%  |
+|  5 | Công ty TNHH Trí tuệ nhân tạo Quy Nhơn | Kinh doanh bất động sản | Việt Nam | 49% | 49%  |
+|  6 | Công ty Cổ phần Next Robotics | Sản xuất thiết bị tự hành, tự động hóa | Việt Nam | 25,44% | 25,44%  |
+|  7 | Công ty Dịch vụ Công nghệ Ackerton | Sản xuất phần mềm | Hàn Quốc | 50% | 50%  |
+|  8 | Công ty Konica Minolta FPT Solution Labs, Inc | Sản xuất phần mềm | Nhật Bản | 41% | 41%  |
+|  9 | Công ty PT FPT Metrodata Indonesia | Tích hợp hệ thống, dịch vụ phần mềm | Indonesia | 40% | 40%  |
+
+44
