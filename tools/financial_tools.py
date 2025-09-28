@@ -11,7 +11,6 @@ class MyToolInput(BaseModel):
     """Input schema for MyCustomTool."""
     argument: str = Field(..., description="Mã cổ phiếu.")
 
-# --- Dán toàn bộ class FundDataTool và TechDataTool của bạn vào đây ---
 class FundDataTool(BaseTool):
     name: str = "Công cụ tra cứu dữ liệu cổ phiếu phục vụ phân tích cơ bản."
     description: str = "Công cụ tra cứu dữ liệu cổ phiếu phục vụ phân tích cơ bản, cung cấp các chỉ số tài chính như P/E, P/B, ROE, ROA, EPS, D/E, biên lợi nhuận và EV/EBITDA."
@@ -19,23 +18,18 @@ class FundDataTool(BaseTool):
 
     def _run(self, argument: str) -> str:
         try:
-            # Initialize the class 
             stock = Vnstock().stock(symbol=argument, source="TCBS")
             financial_ratios = stock.finance.ratio(period="quarter")
             income_df = stock.finance.income_statement(period="quarter")
             company = Vnstock().stock(symbol=argument, source='TCBS').company
 
-            # Get company full name & industry
             full_name = company.profile().get("company_name").iloc[0]
             industry = company.overview().get("industry").iloc[0]
 
-            # Get data from the latest row of DataFrame for financial ratios
             latest_ratios = financial_ratios.iloc[0]
 
-            # Get last 4 quarters of income statement
             last_4_quarters = income_df.head(4)
             
-            # Extract financial ratios data
             pe_ratio = latest_ratios.get("price_to_earning", "N/A")
             pb_ratio = latest_ratios.get("price_to_book", "N/A")
             roe = latest_ratios.get("roe", "N/A")
@@ -45,10 +39,8 @@ class FundDataTool(BaseTool):
             profit_margin = latest_ratios.get("gross_profit_margin", "N/A")
             evebitda = latest_ratios.get("value_before_ebitda", "N/A")
 
-            # Format quarterly income data
             quarterly_trends = []
             for i, (_, quarter) in enumerate(last_4_quarters.iterrows()):          
-                # Handle formatting of values properly
                 revenue = quarter.get("revenue", "N/A")
                 revenue_formatted = f"{revenue:,.0f}" if isinstance(revenue, (int, float)) else revenue
                 
@@ -92,41 +84,33 @@ class TechDataTool(BaseTool):
     args_schema: Type[BaseModel] = MyToolInput
 
     def _run(self, argument: str) -> str:
-        # --- Dán phần còn lại của class TechDataTool vào đây ---
         try:
-            # Initialize vnstock and get historical price data
             stock = Vnstock().stock(symbol=argument, source="TCBS")
             company = Vnstock().stock(symbol=argument, source='TCBS').company
 
-            # Get company full name & industry
             full_name = company.profile().get("company_name").iloc[0]
             industry = company.overview().get("industry").iloc[0]
             
-            # Get price data for the last 200 days
             end_date = datetime.now()
             start_date = end_date - timedelta(days=200)
             price_data = stock.quote.history(
                 start=start_date.strftime("%Y-%m-%d"),
                 end=end_date.strftime("%Y-%m-%d"),
-                interval="1D"  # Daily data
+                interval="1D"  
             )
             
             if price_data.empty:
                 return f"Không tìm thấy dữ liệu lịch sử cho cổ phiếu {argument}"
             
-            # Calculate technical indicators
             tech_data = self._calculate_indicators(price_data)
             
-            # Identify support and resistance levels
             support_resistance = self._find_support_resistance(price_data)
             
-            # Get recent price and volume data
             current_price = price_data['close'].iloc[-1]
             recent_prices = price_data['close'].iloc[-5:-1]
             current_volume = price_data['volume'].iloc[-1]
             recent_volumes = price_data['volume'].iloc[-5:-1]
             
-            # Format result
             latest_indicators = tech_data.iloc[-1]
             
             result = f"""Mã cổ phiếu: {argument}
@@ -179,49 +163,39 @@ class TechDataTool(BaseTool):
     
     def _calculate_indicators(self, df):
         """Calculate various technical indicators."""
-        # Make a copy to avoid modifying original data
         data = df.copy()
         
-        # Simple Moving Averages
         data['SMA_20'] = data['close'].rolling(window=20).mean()
         data['SMA_50'] = data['close'].rolling(window=50).mean()
         data['SMA_200'] = data['close'].rolling(window=200).mean()
         
-        # Exponential Moving Averages
         data['EMA_12'] = data['close'].ewm(span=12, adjust=False).mean()
         data['EMA_26'] = data['close'].ewm(span=26, adjust=False).mean()
         
-        # MACD
         data['MACD'] = data['EMA_12'] - data['EMA_26']
         data['MACD_Signal'] = data['MACD'].ewm(span=9, adjust=False).mean()
         data['MACD_Hist'] = data['MACD'] - data['MACD_Signal']
         
-        # RSI
         delta = data['close'].diff()
         gain = (delta.where(delta > 0, 0)).rolling(window=14).mean()
         loss = (-delta.where(delta < 0, 0)).rolling(window=14).mean()
         
-        # Avoid division by zero
         rs = gain / loss.replace(0, np.nan)
         data['RSI_14'] = 100 - (100 / (1 + rs))
-        data['RSI_14'] = data['RSI_14'].fillna(50)  # Fill NaN values with neutral RSI
+        data['RSI_14'] = data['RSI_14'].fillna(50)  
         
-        # Bollinger Bands
         data['BB_Middle'] = data['close'].rolling(window=20).mean()
         std_dev = data['close'].rolling(window=20).std()
         data['BB_Upper'] = data['BB_Middle'] + (std_dev * 2)
         data['BB_Lower'] = data['BB_Middle'] - (std_dev * 2)
 
-        # Calculate volume moving averages
         data['Volume_SMA_10'] = data['volume'].rolling(window=10).mean()
         data['Volume_SMA_20'] = data['volume'].rolling(window=20).mean()
         data['Volume_SMA_50'] = data['volume'].rolling(window=50).mean()
         
-        # Calculate volume ratio compared to average
         data['Volume_Ratio_10'] = data['volume'] / data['Volume_SMA_10']
         data['Volume_Ratio_20'] = data['volume'] / data['Volume_SMA_20']
         
-        # On-Balance Volume (OBV)
         data['OBV'] = 0
         data.loc[0, 'OBV'] = data.loc[0, 'volume']
         for i in range(1, len(data)):
@@ -238,7 +212,6 @@ class TechDataTool(BaseTool):
         """Find support and resistance levels."""
         data = df.copy()
         
-        # Find potential pivot points
         data['local_max'] = data['high'].rolling(window=window, center=True).apply(
             lambda x: x.iloc[len(x)//2] == max(x), raw=False
         )
@@ -246,14 +219,11 @@ class TechDataTool(BaseTool):
             lambda x: x.iloc[len(x)//2] == min(x), raw=False
         )
         
-        # Get pivot high/low points
         resistance_levels = data[data['local_max'] == 1]['high'].values
         support_levels = data[data['local_min'] == 1]['low'].values
         
-        # Group close resistance/support levels
         current_price = data['close'].iloc[-1]
         
-        # Function to cluster price levels
         def cluster_levels(levels, threshold_pct):
             if len(levels) == 0:
                 return []
@@ -265,26 +235,21 @@ class TechDataTool(BaseTool):
                 last_cluster = clusters[-1]
                 last_value = last_cluster[-1]
                 
-                # If this level is within threshold% of the last value, add to the same cluster
                 if abs((level - last_value) / last_value) < threshold_pct:
                     last_cluster.append(level)
                 else:
                     clusters.append([level])
             
-            # Calculate average for each cluster
             return [np.mean(cluster) for cluster in clusters]
         
-        # Cluster and filter resistance levels
         resistance_levels = cluster_levels(resistance_levels, threshold)
         resistance_levels = [r for r in resistance_levels if r > current_price]
-        resistance_levels = sorted(resistance_levels)[:3]  # Get nearest 3 levels
+        resistance_levels = sorted(resistance_levels)[:3]  
         
-        # Cluster and filter support levels
         support_levels = cluster_levels(support_levels, threshold)
         support_levels = [s for s in support_levels if s < current_price]
-        support_levels = sorted(support_levels, reverse=True)[:3]  # Get nearest 3 levels
+        support_levels = sorted(support_levels, reverse=True)[:3]  
         
-        # Format result
         result = "Vùng kháng cự:\n"
         for i, level in enumerate(resistance_levels, 1):
             result += f"- R{i}: {level*1000:,.0f} VND\n"

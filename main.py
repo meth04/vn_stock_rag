@@ -10,7 +10,6 @@ from agents import StockAnalysisAgents
 from tasks import StockAnalysisTasks
 from datetime import datetime
 
-# --- NÂNG CẤP HÀM PHÂN TÍCH YÊU CẦU ---
 def get_user_intent_with_mistral(user_query: str) -> dict:
     try:
         print("Đang dùng Mistral AI để phân tích yêu cầu...")
@@ -65,7 +64,7 @@ class FinancialCrew:
         news_researcher = self.agents.stock_news_researcher()
         fundamental_analyst = self.agents.fundamental_analyst()
         technical_analyst = self.agents.technical_analyst()
-        competitor_analyst = self.agents.competitor_analyst() # Agent mới
+        competitor_analyst = self.agents.competitor_analyst()
         investment_strategist = self.agents.investment_strategist()
 
         # Tạo các task
@@ -76,7 +75,6 @@ class FinancialCrew:
         
         investment_task = self.tasks.investment_decision(
             investment_strategist, self.symbol,
-            # Thêm competitor_task vào context
             [news_task, fundamental_task, technical_task, competitor_task]
         )
         

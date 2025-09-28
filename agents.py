@@ -1,15 +1,10 @@
 # agents.py
 import os
 from crewai import Agent, LLM
-# from tenacity import retry, stop_after_attempt, wait_random_exponential # <<< Không cần tenacity nữa
-
-# Import các công cụ như cũ
 from tools.search_tools import search_tool, scrape_tool
 from tools.financial_tools import FundDataTool, TechDataTool
 from tools.file_tools import FileReadTool
 from tools.ocr_tool import MistralOCRTool
-
-# --- CẬP NHẬT: KHỞI TẠO LLM VỚI CƠ CHẾ RETRY TÍCH HỢP SẴN CỦA CREWAI/LITELLM ---
 
 retry_config = {
     "num_retries": 3,  
@@ -17,9 +12,8 @@ retry_config = {
 }
 
 GEMINI_FLASH_MODEL = 'gemini/gemini-2.5-flash'
-GEMINI_PRO_MODEL = 'gemini/gemini-2.5-flash'
+GEMINI_PRO_MODEL = 'gemini/gemini-2.5-pro'
 
-# Khởi tạo LLM và truyền vào cấu hình retry
 llm_flash = LLM(
     model=GEMINI_FLASH_MODEL,
     api_key=os.environ.get("GOOGLE_API_KEY"),
@@ -35,10 +29,6 @@ llm_pro = LLM(
     max_tokens=8192,
     **retry_config 
 )
-# --- KẾT THÚC CẬP NHẬT ---
-
-
-# Khởi tạo các công cụ
 fund_tool = FundDataTool()
 tech_tool = TechDataTool()
 file_read_tool = FileReadTool()
@@ -46,7 +36,6 @@ ocr_tool = MistralOCRTool()
 search_tool = search_tool
 scrape_tool = scrape_tool
 
-# Giữ nguyên phần backstory đã sửa ở lần trước
 class StockAnalysisAgents():
     def stock_news_researcher(self):
         return Agent(
@@ -101,10 +90,10 @@ class StockAnalysisAgents():
     
     def competitor_analyst(self):
         return Agent(
-            role='Nhà phân tích Đối thủ cạnh tranh.',
-            goal='Xác định các đối thủ cạnh tranh chính và phân tích so sánh các chỉ số tài chính của họ với công ty mục tiêu.',
+            role='Nhà phân tích Đối thủ cùng lĩnh vực.',
+            goal='Xác định các đối thủ cạnh tranh chính trong cùng lĩnh vực và phân tích so sánh các chỉ số tài chính của họ với công ty mục tiêu.',
             backstory=(
-                'Bạn là một chiến lược gia kinh doanh, chuyên sâu về phân tích cạnh tranh trong ngành. Bạn có khả năng xác định nhanh chóng các đối thủ lớn, thu thập dữ liệu tài chính của họ và đặt chúng lên bàn cân để tìm ra lợi thế cạnh tranh của từng công ty.\n'
+                'Bạn là một chiến lược gia kinh doanh, chuyên sâu về phân tích cạnh tranh trong ngành. Bạn có khả năng xác định nhanh chóng các đối thủ lớn, tìm kiếm về các chỉ số tài chính của họ và đặt chúng lên bàn cân để tìm ra lợi thế cạnh tranh của từng công ty.\n'
                 'Khi sử dụng công cụ, bạn phải tuân thủ nghiêm ngặt định dạng sau:\n'
                 'Thought: [Suy nghĩ của bạn]\n'
 
@@ -112,7 +101,7 @@ class StockAnalysisAgents():
                 'Action Input: {{"tham_so": "gia_tri"}}'
             ),
             verbose=True,
-            tools=[search_tool, fund_tool], # Cần cả tìm kiếm và công cụ tài chính
+            tools=[search_tool, fund_tool], 
             llm=llm_flash,
             allow_delegation=False
         )
@@ -126,3 +115,5 @@ class StockAnalysisAgents():
             llm=llm_pro,
             allow_delegation=True
         )
+    
+    

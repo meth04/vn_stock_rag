@@ -1,0 +1,1674 @@
+--- TRANG 0 ---
+# Deloitte 
+
+## CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+(Thành lập tại nước Cộng hoà Xã hội Chủ nghĩa Việt Nam)
+
+## BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ ĐÃ ĐƯỢC SOÁT XÉT
+
+Cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025
+
+--- TRANG 1 ---
+# MỤC LỤC 
+
+NÔI DUNG ..... TRANG
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC ..... $1-2$
+BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ ..... $3-4$
+BÁNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIÊN Độ ..... $5-7$
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT GIỮA NIÊN Độ ..... 8
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIÊN Độ ..... $9-10$
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ ..... $11-50$
+
+--- TRANG 2 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT 
+
+Khu Công nghiệp Phố Nối A, xã Nguyễn Văn Linh, tỉnh Hưng Yên, Việt Nam
+
+## BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty Cổ phần Tập đoàn Hòa Phát (gọi tắt là "Công ty") đệ trình báo cáo này cùng với báo cáo tài chính hợp nhất giữa niên độ của Công ty và các công ty con (gọi chung là "Tập đoàn") cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025.
+
+## HỘI ĐỒNG QUẢN TRỊ VÀ BAN TỔNG GIÁM ĐỐC
+
+Các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc, Ban Kiểm soát và Kế toán trưởng Tập đoàn trong kỳ và đến ngày lập báo cáo này gồm:
+
+## Hội đồng Quản trị
+
+Ông Trần Đình Long
+Ông Trần Tuấn Dương
+Ông Nguyễn Mạnh Tuấn
+Ông Doãn Gia Cường
+Ông Nguyễn Ngọc Quang
+Ông Hoàng Quang Việt
+Ông Nguyễn Việt Thắng
+Ông Chu Quang Vũ
+Ông Đặng Ngọc Khánh
+
+## Ban Tổng Giám đốc
+
+Ông Nguyễn Việt Thắng
+Bà Nguyễn Thị Thảo Nguyên
+Bà Trần Thị Thu Hiền
+
+Chủ tịch
+Phó Chủ tịch
+Phó Chủ tịch
+Phó Chủ tịch
+Thành viên
+Thành viên
+Thành viên
+Thành viên
+Thành viên
+Thành viên độc lập
+
+## Ban Tổng Giám đốc
+
+Bà Nguyễn Thị Thảo Nguyên
+Bà Trần Thị Thu Hiền
+
+Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+
+## Ban Kiểm soát
+
+Bà Bùi Thị Hải Vân
+Trưởng ban
+Bà Ngô Lan Anh
+Thành viên
+Bà Thái Thị Lộc
+Thành viên
+
+## Kế toán trưởng
+
+Bà Phạm Thị Kim Oanh
+Kế toán trưởng
+
+## TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC
+
+Ban Tổng Giám đốc Công ty có trách nhiệm lập báo cáo tài chính hợp nhất giữa niên độ phản ánh một cách trung thực và hợp lý tình hình tài chính hợp nhất của Tập đoàn tại ngày 30 tháng 6 năm 2025, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho kỳ hoạt động 6 tháng kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ. Trong việc lập báo cáo tài chính hợp nhất giữa niên độ này, Ban Tổng Giám đốc được yêu cầu phải:
+
+- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất quán;
+- Đưa ra các xét đoán và ước tính một cách hợp lý và thận trọng;
+- Nêu rõ các nguyên tắc kế toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong báo cáo tài chính hợp nhất giữa niên độ hay không;
+- Lập báo cáo tài chính hợp nhất giữa niên độ trên cơ sở hoạt động liên tục trừ trường hợp không thể cho rằng Công ty sẽ tiếp tục hoạt động kinh doanh; và
+- Thiết kế và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài chính hợp nhất giữa niên độ hợp lý nhằm hạn chế rủi ro và gian lận.
+
+--- TRANG 3 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT 
+
+Khu Công nghiệp Phố Nối A, xã Nguyễn Văn Linh, tỉnh Hưng Yên, Việt Nam
+
+## BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC (Tiếp theo)
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm đảm bảo rằng sổ kế toán được ghi chép một cách phù hợp để phản ánh một cách hợp lý tình hình tài chính hợp nhất của Tập đoàn ở bất kỳ thời điểm nào và đảm bảo rằng báo cáo tài chính hợp nhất giữa niên độ tuân thủ chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ. Ban Tổng Giám đốc cũng chịu trách nhiệm đảm bảo an toàn cho tài sản của Công ty và thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lận và sai phạm khác.
+
+Ban Tổng Giám đốc xác nhận rằng Công ty đã tuân thủ các yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất giữa niên độ.
+
+Thay mặt và đại diện cho Ban Tổng Giám đốc,
+
+Nguyễn Việt Thắng
+Tổng Giám đốc
+
+Ngày 29 tháng 8 năm 2025
+
+--- TRANG 4 ---
+# Deloitte 
+
+## BÁO CÁO SOÁT XÉT BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ
+
+## Kính gửi: Các Cố đông Hội đồng Quản trị và Ban Tổng Giám đốc Công ty Cổ phần Tập đoàn Hòa Phát
+
+Chúng tôi đã soát xét báo cáo tài chính hợp nhất giữa niên độ kèm theo của Công ty Cổ phần Tập đoàn Hòa Phát (gọi tắt là "Công ty") và các công ty con (gọi chung là "Tập đoàn"), được lập ngày 29 tháng 8 năm 2025, từ trang 05 đến trang 50 , bao gồm Bảng cân đối kế toán hợp nhất giữa niên độ tại ngày 30 tháng 6 năm 2025, Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ, Báo cáo lưu chuyển tiền tệ hợp nhất giữa niên độ cho kỳ hoạt động 6 tháng kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất giữa niên độ.
+
+## Trách nhiệm của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất giữa niên độ của Tập đoàn theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
+
+## Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra kết luận về báo cáo tài chính hợp nhất giữa niên độ kèm theo dựa trên kết quả soát xét của chúng tôi. Chúng tôi đã thực hiện công việc soát xét theo Chuẩn mực Việt Nam về hợp đồng dịch vụ soát xét số 2410 - Soát xét thông tin tài chính giữa niên độ do kiểm toán viên độc lập của đơn vị thực hiện.
+
+Công việc soát xét báo cáo tài chính hợp nhất giữa niên độ bao gồm việc thực hiện các cuộc phỏng vấn, chủ yếu là phỏng vấn những người chịu trách nhiệm về các vấn đề tài chính kế toán, và thực hiện thủ tục phân tích và các thủ tục soát xét khác. Một cuộc soát xét về cơ bản có phạm vi hẹp hơn một cuộc kiểm toán được thực hiện theo các chuẩn mực kiểm toán Việt Nam và do vậy không cho phép chúng tôi đạt được sự đảm bảo rằng chúng tôi sẽ nhận biết được tất cả các vấn đề trọng yếu có thể được phát hiện trong một cuộc kiểm toán. Theo đó, chúng tôi không đưa ra ý kiến kiểm toán.
+
+[^0]
+[^0]:    Tên Deloitte được dùng để chỉ một hoặc nhiều thành viên của Deloitte Touche Tohmatsu Limited ("DTTL" hay "Deloitte Toàn cầu"), và mạng lưới các hãng thành viên trên toàn cầu (gọi chung là Tố chức Deloitte). DTTL và mỗi thành viên trực thuộc là một pháp nhân nâng li ật và độc lập về mặt pháp lý, không bị ràng buộc lẫn nhau đối với các bên thứ ba. DTTL và mỗi thành viên trực thuộc chỉ chịu trách nhiệm cho hành vi và thiếu sót của mình, chứ không phải chịu trách nhiệm lẫn nhau. DTTL không cung cấp dịch vụ cho các khách hàng. Vui lòng xem lại www.deloitte.com/about để biết thêm thông tin chi tiết.
+    Deloitte Châu Á Thái Bình Dương là một hãng thành viên của Deloitte Toàn cầu. Các thành viên và các đơn vị trực thuộc của Deloitte Châu Á Thái Bình Dương cung cấp dịch vụ cho khách hàng tại hơn 100 thành phố trong khu vực, bao gồm Auckland, Bangkok, Bắc Kinh, Bengalu lu, Hà Nội, Hồng Kông, Jakarta, Kuala Lumpur, Manila, Melbourne, Mumbai, New Delhi, Osaka, Seoul, Thượng Hải, Singapore, Sydney, Đài Bắc và Tokyo. Tại các nước thành viên, các hoạt động kinh doanh được thực hiện độc lập bởi các pháp nhân nâng biệt.
+
+    Deloitte Việt Nam
+    Tại Việt Nam, dịch vụ chuyên ngành được cung cấp bởi từng pháp nhân nâng biệt, và chỉ in ảnh của pháp nhân đó, được gọi chung là Deloitte Việt Nam.
+    Tài liệu này chỉ chứa đựng những thông tin chung, do vậy, không một hãng DTTL, hay bất kỳ một hãng thành viên hay công ty con và các nhân viên của họ được xem là, trong phạm vi nội dung của tài liệu này, cung cấp dịch vụ hay đưa ra những ý kiến, tư vấn về chuyên môn cho người đọc. Trước khi đưa ra bất kỳ một quyết định hay hành động nào có thể ảnh hưởng tới tình hình tài chính hoặc hoạt động kinh doanh, người đọc nên tham khảo ý kiến chuyên gia tự u in.
+    Không có tuyên bố, bảo đảm hoặc cam kết nào (rõ ràng hay ngu ý) được đưa ra về tình chính xác hoặc tính đầy đủ của thông tin trong tài liệu này, và không một hãng thành viên nào thuộc. Mạng lưới các công ty Deloitte chịu trách nhiệm đối với bất kỳ thiệt hại, tốn thất xảy ra trực tiếp hay gián tiếp do kết quả của việc người đọc sử dụng, công bố, phát tán ra bên ngoài hoặc dựa vào tài liệu này để hành động, không hành động hoặc ra bất kỳ quyết định nào.
+
+--- TRANG 5 ---
+# Deloitte 
+
+## BÁO CÁO SOÁT XÉT <br> BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ (Tiếp theo)
+
+## Kết luận của Kiểm toán viên
+
+Căn cứ trên kết quả soát xét của chúng tôi, chúng tôi không thấy có vấn đề gì khiến chúng tôi cho rằng báo cáo tài chính hợp nhất giữa niên độ kèm theo không phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Tập đoàn tại ngày 30 tháng 6 năm 2025, và kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Tập đoàn cho kỳ hoạt động 6 tháng kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ.
+
+## Vấn đề khác
+
+Báo cáo tài chính hợp nhất của Tập đoàn cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 đã được kiểm toán bởi một công ty kiểm toán độc lập khác với báo cáo kiểm toán đề ngày 24 tháng 3 năm 2025 đưa ra ý kiến chấp nhận toàn phần. Báo cáo tài chính hợp nhất giữa niên độ của Tập đoàn cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2024 đã được soát xét bởi một công ty kiểm toán độc lập khác với báo cáo soát xét đề ngày 29 tháng 8 năm 2024 đưa ra kết luận chấp nhận toàn phần.
+![img-0.jpeg](img-0.jpeg)
+
+Phạm Nam Phong
+Phó Tổng Giám đốc
+Giấy chứng nhận đăng ký hành nghề
+kiểm toán số 0929-2024-001-1
+
+## CÔNG TY TNHH KIỂM TOÁN DELOITTE VIỆT NAM
+
+Ngày 29 tháng 8 năm 2025
+Hà Nội, CHXHCN Việt Nam
+
+--- TRANG 6 ---
+# BẢNG CĂN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIÊN ĐỘ
+
+Tại ngày 30 tháng 6 năm 2025
+
+Đơn vị: VND
+
+|  TÀI SẢN | Mã số | Thuyết
+minh | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- | --- | --- |
+|  A. TÀI SẢN NGẮN HẠN | 100 |  | 97.613.904.938.535 | 86.674.276.272.995  |
+|  I. Tiền và các khoản tương đương tiền | 110 | 4 | 10.688.024.277.258 | 6.887.646.139.852  |
+|  1. Tiền | 111 |  | 3.313.840.111.274 | 2.919.531.945.908  |
+|  2. Các khoản tương đương tiền | 112 |  | 7.374.184.165.984 | 3.968.114.193.944  |
+|  II. Đầu tư tài chính ngắn hạn | 120 | 5 | 17.584.027.436.423 | 18.974.716.730.905  |
+|  1. Đầu tư nắm giữ đến ngày đáo hạn | 123 |  | 17.584.027.436.423 | 18.974.716.730.905  |
+|  III. Các khoản phải thu ngắn hạn | 130 |  | 12.334.925.649.801 | 7.647.800.286.988  |
+|  1. Phải thu ngắn hạn của khách hàng | 131 | 6 | 8.196.017.496.272 | 4.352.135.419.872  |
+|  2. Trả trước cho người bán ngắn hạn | 132 | 7 | 2.755.989.948.090 | 2.118.824.427.004  |
+|  3. Phải thu về cho vay ngắn hạn | 135 |  | 97.061.616.439 | 87.461.616.439  |
+|  4. Phải thu ngắn hạn khác | 136 | 8 | 1.443.182.617.677 | 1.248.992.845.378  |
+|  5. Dự phòng phải thu ngắn hạn khó đòi | 137 |  | (157.971.873.885) | (159.993.736.285)  |
+|  6. Tài sản thiểu chờ xử lý | 139 |  | 645.845 .208 | 379.714 .580  |
+|  IV. Hàng tồn kho | 140 | 9 | 48.853.408.114.115 | 46.091.222.189.472  |
+|  1. Hàng tồn kho | 141 |  | 48.900.263.257.832 | 46.192.292.081.813  |
+|  2. Dự phòng giảm giá hàng tồn kho | 149 |  | (46.855.143.717) | (101.069.892.341)  |
+|  V. Tài sản ngắn hạn khác | 150 |  | 8.153.519.460.938 | 7.072.890.925.778  |
+|  1. Chi phí trả trước ngắn hạn | 151 | 10 | 504.036.542.519 | 426.149.499.088  |
+|  2. Thuế giá trị gia tăng được khẩu trừ | 152 |  | 7.643.786.214.753 | 6.636.666.459.154  |
+|  3. Thuế và các khoản khác phải thu Nhà nước | 153 | 19 | 5.696.703.666 | 10.074.967.536  |
+
+--- TRANG 7 ---
+# BẢNG CĂN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+Tại ngày 30 tháng 6 năm 2025
+
+Đơn vị: VND
+
+|  TÀI SẢN | Mã số | Thuyết
+minh | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- | --- | --- |
+|  B. TÀI SẢN DÀI HẠN | 200 |  | 144.610 .625 .980 .515 | 137.815 .431 .280 .986  |
+|  I. Các khoản phải thu dài hạn | 210 |  | 900.453 .913 .211 | 923.400 .123 .614  |
+|  1. Trả trước cho người bán dài hạn | 212 | 7 | 73.400 .097 .764 | 82.805 .287 .792  |
+|  2. Phải thu dài hạn khác | 216 | 8 | 827.053 .815 .447 | 840.594 .835 .822  |
+|  II. Tài sản cố định | 220 |  | 65.302 .976 .358 .571 | 67.428 .366 .953 .514  |
+|  1. Tài sản cố định hữu hình | 221 | 11 | 65.120 .521 .330 .076 | 67.244 .150 .975 .048  |
+|  - Nguyên giá | 222 |  | 109.249 .187 .040 .644 | 108.146 .566 .348 .954  |
+|  - Giá trị hao mòn lũy kế | 223 |  | (44.128.665.710.568) | (40.902.415.373.906)  |
+|  2. Tài sản cố định vô hình | 227 | 12 | 182.455 .028 .495 | 184.215 .978 .466  |
+|  - Nguyên giá | 228 |  | 380.435 .441 .707 | 367.057 .604 .707  |
+|  - Giá trị hao mòn lũy kế | 229 |  | (197.980.413.212) | (182.841.626.241)  |
+|  III. Bất động sản đầu tư | 230 | 13 | 544.375 .244 .149 | 559.598 .463 .093  |
+|  - Nguyên giá | 231 |  | 862.878 .515 .615 | 860.549 .015 .615  |
+|  - Giá trị hao mòn lũy kế | 232 |  | (318.503.271.466) | (300.950.552.522)  |
+|  IV. Tài sản dở dang dài hạn | 240 |  | 72.821 .558 .354 .667 | 63.750 .717 .325 .406  |
+|  1. Chi phí sản xuất, kinh doanh dở dang | 241 |  | 117.828 .507 .706 | 94.859 .885 .024  |
+|  dài hạn |  |  |  |   |
+|  2. Chi phí xây dựng cơ bản dở dang | 242 | 14 | 72.703 .729 .846 .961 | 63.655 .857 .440 .382  |
+|  V. Đầu tư tài chính dài hạn | 250 |  | - | 136.500 .000 .000  |
+|  1. Đầu tư nắm giữ đến ngày đáo hạn | 255 | 5 | - | 136.500 .000 .000  |
+|  VI. Tài sản dài hạn khác | 260 |  | 5.041 .262 .109 .917 | 5.016 .848 .415 .359  |
+|  1. Chi phí trả trước dài hạn | 261 | 10 | 4.338 .725 .174 .159 | 4.269 .141 .694 .868  |
+|  2. Tài sản thuế thu nhập hoãn lại | 262 | 15 | 253.928 .897 .455 | 254.671 .208 .385  |
+|  3. Thiết bị, vật tư, phụ tùng thay thế | 263 |  | 391.044 .882 .232 | 429.422 .385 .383  |
+|  dài hạn |  |  |  |   |
+|  4. Lợi thế thương mại | 269 | 16 | 57.563 .156 .071 | 63.613 .126 .723  |
+|  TỔNG CỘNG TÀI SẢN (270=100+200) | 270 |  | 242.224 .530 .919 .050 | 224.489 .707 .553 .981  |
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này
+
+--- TRANG 8 ---
+# BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+*Tại ngày 30 tháng 6 năm 2025*
+
+|   |  |  |  |  | Đơn vị: VND  |
+| --- | --- | --- | --- | --- | --- |
+|  Nguồn Vốn | Mã số | Thuyết
+minh | Số cuối kỳ | Số đầu kỳ
+(Trình bày lại) |   |
+|  C. Nợ Phải Trả | 300 |  | 119.865.026.005.768 | 109.842.249.570.282 |   |
+|  I. Nợ ngắn hạn | 310 |  | 86.427.453.449.629 | 75.225.243.262.689 |   |
+|  1. Phải trả người bán ngắn hạn | 311 | 17 | 15.136.410.953.706 | 14.046.841.160.127 |   |
+|  2. Người mua trả tiền trước ngắn hạn | 312 | 18 | 306.667.783.670 | 739.178.306.553 |   |
+|  3. Thuế và các khoản phải nộp Nhà nước | 313 | 19 | 1.381.630.142.757 | 1.743.411.429.415 |   |
+|  4. Phải trả người lao động | 314 |  | 272.364.201.644 | 890.893.543.298 |   |
+|  5. Chi phí phải trả ngắn hạn | 315 | 20 | 1.119.741.083.109 | 682.112.072.502 |   |
+|  6. Doanh thu chưa thực hiện ngắn hạn | 318 |  | 34.948.909.558 | 11.060.479.431 |   |
+|  7. Phải trả ngắn hạn khác | 319 | 21 | 305.807.445.331 | 188.076.845.190 |   |
+|  8. Vay ngắn hạn | 320 | 22 | 66.692.028.477.152 | 55.882.686.213.459 |   |
+|  9. Dự phòng phải trả ngắn hạn | 321 | 23 | 15.105.856.400 | 13.672.830.889 |   |
+|  10. Quỹ khen thưởng, phúc lợi | 322 | 24 | 1.162.748.596.302 | 1.027.310.381.825 |   |
+|  II. Nợ dài hạn | 330 |  | 33.437.572.556.139 | 34.617.006.307.593 |   |
+|  1. Phải trả người bán dài hạn | 331 | 17 | 5.283.480.679.370 | 6.283.630.279.040 |   |
+|  2. Chi phí phải trả dài hạn | 333 | 20 | 673.108.219.760 | 1.089.692.237.207 |   |
+|  3. Phải trả dài hạn khác | 337 | 21 | 13.956.239.004 | 12.476.505.170 |   |
+|  4. Vay dài hạn | 338 | 22 | 27.312.288.660.990 | 27.080.443.256.096 |   |
+|  5. Thuế thu nhập hoãn lại phải trả | 341 |  | 29.665.463.669 | 29.268.483.140 |   |
+|  6. Dự phòng phải trả dài hạn | 342 | 23 | 125.073.293.346 | 121.495.546.940 |   |
+|  D. Vốn Chủ Sở Hữu | 400 |  | 122.359.504.913.282 | 114.647.457.983.699 |   |
+|  I. Vốn chủ sở hữu | 410 | 25 | 122.359.504.913.282 | 114.647.457.983.699 |   |
+|  1. Vốn góp của chủ sở hữu | 411 |  | 63.962.502.000.000 | 63.962.502.000.000 |   |
+|  - Cổ phiếu phổ thông có quyền | 411a |  | 63.962.502.000.000 | 63.962.502.000.000 |   |
+|  biểu quyết |  |  |  |  |   |
+|  2. Quỹ đầu tư phát triển | 418 |  | 1.394.841.242.128 | 794.841.242.128 |   |
+|  3. Lợi nhuận sau thuế chưa phân phối | 421 |  | 56.176.646.414.996 | 49.599.124.109.203 |   |
+|  - Lợi nhuận sau thuế chưa phân phối | 421a |  | 48.575.874.508.844 | 37.624.250.548.129 |   |
+|  đến cuối năm trước |  |  |  |  |   |
+|  - Lợi nhuận sau thuế chưa phân phối kỳ | 421b |  | 7.600.771.906.152 | 11.974.873.561.074 |   |
+|  này/năm nay |  |  |  |  |   |
+|  4. Lợi ích của cổ đông không kiểm soát | 429 |  | 825.515.256.158 | 290.990.632.368 |   |
+|  Tổng Cộng Nguồn Vốn
+(440=300+400) | 440 |  | 242.224.530.919.050 | 224.489.707.553.981 |   |
+|  Trần Xuân Mai
+Người lập biểu | Phạm Thị Kim Oanh
+Kế toán trưởng |  |  | Nguyễn Việt Thắng
+Tổng Giám đốc |   |
+|   |  |  | Ngày 29 tháng 8 năm 2025 |  |   |
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này
+
+--- TRANG 9 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+MẪU SỐ B 02a-DN/HN Khu Công nghiệp Phố Nối A, xã Nguyễn Văn Linh, tỉnh Hưng Yên, Việt Nam
+
+Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+## BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT GIỮA NIÊN ĐỘ
+
+Cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025
+
+|  CHÍ TIÊU | Mã số | Thuyết minh | Ký này | Ký trước  |
+| --- | --- | --- | --- | --- |
+|  Doanh thu bán hàng và cung cấp dịch vụ | 01 | 28 | 74.236.821.348.459 | 71.028.837.789.013  |
+|  Các khoản giảm trừ doanh thu | 02 | 28 | 704.627.683.672 | 620.968.369.842  |
+|  Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02) | 10 |  | 73.532.193.664.787 | 70.407.869.419.171  |
+|  Giá vốn hàng bán | 11 | 29 | 61.518.317.253.946 | 61.006.405.968.929  |
+|  Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11) | 20 |  | 12.013.876.410.841 | 9.401.463.450.242  |
+|  Doanh thu hoạt động tài chính | 21 | 31 | 936.240.968.547 | 1.397.015.470.725  |
+|  Chi phí tài chính | 22 | 32 | 1.950.031.741.727 | 2.125.705.197.819  |
+|  - Trong đó: Chi phí lãi vay | 23 |  | 1.066.136.992.112 | 1.199.753.348.133  |
+|  Chi phí bán hàng | 25 | 33 | 1.563.187.626.015 | 1.386.888.438.053  |
+|  Chi phí quản lý doanh nghiệp | 26 | 33 | 669.529.668.454 | 706.696.394.353  |
+|  Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)-(25+26)) | 30 |  | 8.767.368.343.192 | 6.579.188.890.742  |
+|  Thu nhập khác | 31 | 34 | 112.550.311.903 | 713.551.983.251  |
+|  Chi phí khác | 32 | 35 | 67.769.812.412 | 298.299.847.355  |
+|  Lợi nhuận khác (40=31-32) | 40 |  | 44.780.499.491 | 415.252.135.896  |
+|  Tổng lợi nhuận kế toán trước thuế (50=30+40) | 50 |  | 8.812.148.842.683 | 6.994.441.026.638  |
+|  Chi phí thuế thu nhập doanh nghiệp hiện hành | 51 | 36 | 1.196.680.029.608 | 834.772.380.127  |
+|  Chi phí/(thu nhập) thuế thu nhập doanh nghiệp hoãn lại | 52 |  | 1.139.291.459 | (29.088.674.506)  |
+|  Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52) | 60 |  | 7.614.329.521.616 | 6.188.757.321.017  |
+|  Lợi nhuận sau thuế của Công ty mẹ | 61 |  | 7.600.771.906.152 | 6.189.851.834.853  |
+|  Lợi nhuận/(Lỗ) sau thuế của cổ đông không kiểm soát | 62 |  | 13.557.615.464 | (1.094.513.836)  |
+|  Lãi cơ bản trên cổ phiếu | 70 | 37 | 960 | 776  |
+
+Trần Xuân Mai Người lập biểu
+
+Phạm Thị Kim Oanh Kế toán trưởng
+
+Nguyễn Việt Thắng Tổng Giám đốc
+
+Ngày 29 tháng 8 năm 2025
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này
+
+--- TRANG 10 ---
+# BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIỆN ĐỘ
+
+Cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025
+
+Đơn vị: VND
+
+|  CHÍ TIÊU | Mã số | Kỳ này | Kỳ trước  |
+| --- | --- | --- | --- |
+|  **I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH** |  |  |   |
+|  1. Lợi nhuận trước thuế | 01 | 8.812.148.842.683 | 6.994.441.026.638  |
+|  2. Điều chỉnh cho các khoản: |  |  |   |
+|  Khẩu hao tài sản cố định, bất động sản đầu tư, phân bổ lợi thế thương mại và chi phí thuê đất | 02 | 3.418.850.663.978 | 3.457.507.209.333  |
+|  Các khoản dự phòng | 03 | (48.638.229.807) | 172.692.336.517  |
+|  Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ | 04 | 442.536.787.105 | 152.503.577.089  |
+|  Lãi từ hoạt động đầu tư | 05 | (550.540.349.812) | (1.055.951.278.124)  |
+|  Chi phí lãi vay | 06 | 1.066.136.992.112 | 1.199.753.348.133  |
+|  3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động | 08 | 13.140.494.706.259 | 10.920.946.219.586  |
+|  Thay đổi các khoản phải thu | 09 | (5.970.400.807.965) | (3.168.135.199.944)  |
+|  Thay đổi hàng tồn kho | 10 | (2.852.908.166.555) | (1.039.047.575.147)  |
+|  Thay đổi các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp) | 11 | (590.586.775.100) | (444.000.790.917)  |
+|  Thay đổi chi phí trả trước | 12 | (181.927.211.830) | (403.611.590.740)  |
+|  Tiền lãi vay đã trả | 14 | (1.073.732.784.723) | (1.235.048.376.365)  |
+|  Thuế thu nhập doanh nghiệp đã nộp | 15 | (1.676.151.141.088) | (872.710.726.033)  |
+|  Tiền chi khác cho hoạt động kinh doanh | 17 | (287.625.735.523) | (509.758.611.539)  |
+|  Lưu chuyển tiền thuần từ hoạt động kinh doanh | 20 | 507.162.083.475 | 3.248.633.348.901  |
+|  **II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ** |  |  |   |
+|  1. Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác | 21 | (10.688.184.320.479) | (18.836.381.863.300)  |
+|  2. Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác | 22 | 35.930.784.910 | 1.142.472.552.423  |
+|  3. Tiền chi cho vay, mua công cụ nợ của đơn vị khác | 23 | (14.629.073.195.952) | (15.374.269.439.875)  |
+|  4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác | 24 | 16.146.662.490.434 | 22.103.399.793.411  |
+|  5. Tiền thu hồi đầu tư vốn vào đơn vị khác | 26 | 241.687.184.000 |   |
+|  6. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia | 27 | 624.506.083.401 | 846.575.562.340  |
+|  Lưu chuyển tiền thuần từ hoạt động đầu tư | 30 | (8.268.470.973.686) | (10.118.203.395.001)  |
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này
+
+--- TRANG 11 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+MẪU SỐ B 03a-DN/HN
+
+Mẫu số B 03a-DN/HN
+
+Khu Công nghiệp Phố Nối A, xã Nguyễn Văn Linh, tỉnh Hưng Yên, Việt Nam
+
+Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+
+## BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIỆN ĐỘ (Tiếp theo)
+
+Cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025
+
+|   |  |  | Đơn vị: VND  |
+| --- | --- | --- | --- |
+|  CHÍ TIÊU | Mã số | Ký này | Ký trước  |
+|  III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH |  |  |   |
+|  1. Tiền thu từ nhận vốn góp của cổ đông không kiểm soát | 31 | 525.200.000.000 | 40.000.000.000  |
+|  2. Tiền trả lại vốn góp cho các cổ đông không kiểm soát | 32 | (52.020.000) | (102.420.000)  |
+|  3. Tiền thu từ đi vay | 33 | 79.203.852.177.860 | 86.063.583.337.330  |
+|  4. Tiền trả nợ gốc vay | 34 | (68.162.897.665.036) | (78.455.897.618.789)  |
+|  5. Cổ tức, lợi nhuận đã trả cho chủ sở hữu | 36 | (3.596.799.927) | (1.020.374.096)  |
+|  Lưu chuyển tiền thuần từ hoạt động tài chính | 40 | 11.562.505.692.897 | 7.646.562.924.445  |
+|  Lưu chuyển tiền thuần trong kỳ (50=20+30+40) | 50 | 3.801.196.802.686 | 776.992.878.345  |
+|  Tiền và tương đương tiền đầu kỳ | 60 | 6.887.646.139.852 | 12.252.001.160.884  |
+|  Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ | 61 | (818.665.280) | 3.043.814.054  |
+|  Tiền và tương đương tiền cuối kỳ (70=50+60+61) | 70 | 10.688.024.277.258 | 13.032.037.853.283  |
+
+Trần Xuân Mai Người lập biểu
+
+Phạm Thị Kim Oanh Kế toán trưởng
+
+Nguyễn Việt Thắng Tổng Giám đốc
+
+Ngày 29 tháng 8 năm 2025
+
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất giữa niên độ này
+
+--- TRANG 12 ---
+# THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ 
+
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất giữa niên độ kèm theo
+
+## 1. THÔNG TIN KHÁI QUÁT
+
+## Hình thức sở hữu vốn
+
+Công ty Cổ phần Tập đoàn Hòa Phát (gọi tắt là "Công ty") tiền thân là Công ty Cổ phần Thép Hòa Phát được thành lập theo Luật Doanh nghiệp của Việt Nam và hoạt động theo Giấy Chứng nhận Đăng ký Kinh doanh lần đầu số 0503000008 do Sở Tài chính tỉnh Hưng Yên (trước đây là Sở Kế hoạch và Đầu tư tỉnh Hưng Yên) cấp ngày 26 tháng 10 năm 2001. Công ty Cổ phần Thép Hòa Phát đã chuyển đổi thành Công ty Cổ phần Tập đoàn Hòa Phát theo Giấy Chứng nhận Đăng ký Kinh doanh thay đổi lần thứ 8 cấp ngày 9 tháng 01 năm 2007.
+
+Giấy Chứng nhận Đăng ký Doanh nghiệp của Công ty đã được điều chỉnh nhiều lần và lần điều chỉnh gần nhất là Giấy Chứng nhận Đăng ký Doanh nghiệp số 0900189284 ngày 11 tháng 8 năm 2025 do Sở Tài chính tỉnh Hưng Yên cấp.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh từ ngày 15 tháng 11 năm 2007 với mã chứng khoán là HPG.
+
+Tổng số nhân viên của Công ty và các công ty con (gọi chung là "Tập đoàn") tại ngày 30 tháng 6 năm 2025 là 31.926 (tại ngày 31 tháng 12 năm 2024: 32.780).
+
+## Ngành nghề kinh doanh và hoạt động chính
+
+Ngành nghề kinh doanh và hoạt động chính của Tập đoàn là:
+
+- Cho thuê văn phòng;
+- Đầu tư tài chính;
+- Đầu tư và xây dựng đồng bộ hạ tầng, kỹ thuật khu công nghiệp và khu đô thị;
+- Sản xuất thùng, bể chứa và các dụng cụ chứa đựng bằng kim loại;
+- Sản xuất các cấu kiện bằng kim loại;
+- Thăm dò, khai thác khoáng sản;
+- Dịch vụ cho thuê máy móc, thiết bị và phương tiện;
+- Buôn bán ô tô, xe máy, thiết bị phụ tùng, ngành công nghiệp vận tải, khai thác mỏ và phương tiện vận tải;
+- Sản xuất và kinh doanh các loại máy xây dựng và máy khai thác mỏ;
+- Buôn bán đồ điện, điện tử, các thiết bị y tế và quang học;
+- Sản xuất, kinh doanh, lắp ráp, lắp đặt, sửa chữa và bảo hành hàng điện, điện tử, điện lạnh, điện dân dụng và điều hòa không khí;
+- Sản xuất và kinh doanh nguyên vật liệu và các sản phẩm nhựa plastic;
+- Các hoạt động quảng cáo;
+- Xây dựng công nghiệp và dân dụng;
+- Khai thác cát, đá và sỏi;
+- Sản xuất, kinh doanh và lắp ráp các thiết bị xây dựng;
+- Kinh doanh bất động sản (không bao gồm hoạt động tư vấn về giá đất);
+- Tư vấn đầu tư trong và ngoài nước (không bao gồm tư vấn pháp luật);
+- Sản xuất và mua bán kim loại màu các loại, phế liệu kim loại màu;
+
+--- TRANG 13 ---
+- Buôn bán và xuất nhập khẩu thép, vật tư thiết bị luyện và cán thép;
+- Sản xuất cán kéo thép và sản xuất tôn lợp;
+- Khai thác quặng kim loại;
+- Mua bán kim loại, quặng kim loại và sắt thép phế liệu;
+- Luyện gang thép, đúc gang và sắt, thép;
+- Sản xuất ống thép không mạ và có mạ, ống inox;
+- Sản xuất và kinh doanh các loại tôn mạ kẽm, tôn mạ màu và tôn mạ lạnh;
+- Ủŷ́y thác xuất - nhập khẩu;
+- Chăn nuôi lợn;
+- Chăn nuôi bò;
+- Chăn nuôi gia cầm;
+- Chăn nuôi khác;
+- Hoạt động dịch vụ chăn nuôi;
+- Chế biến, bảo quản thịt và các sản phẩm từ thịt;
+- Sản xuất thức ăn gia súc, gia cầm và thủy sản;
+- Sản xuất phân bón và hợp chất ni tơ;
+- Buôn bán máy móc, thiết bị và phụ tùng máy nông nghiệp;
+- Xây dựng công trình đường sắt;
+- Chuẩn bị mặt bằng;
+- Dịch vụ hỗ trợ tổng hợp;
+- Nhà hàng và các dịch vụ ăn uống lưu động;
+- Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng;
+- Dịch vụ phục vụ đồ uống;
+- Vận tải hàng hóa ven biển, đường thủy nội địa và viễn dương;
+- Xuất, nhập khẩu, mua bán, phân phối hàng hóa không thuộc danh mục hàng hóa cấm kinh doanh theo quy định của Pháp luật;
+- Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác;
+- Đầu tư, sản xuất, kinh doanh các sản phẩm điện máy - gia dụng;
+- Sản xuất và kinh doanh thương mại sản phẩm điện lạnh; và
+- Sản xuất tủ đông, tủ mát.
+
+
+# Chu kỳ sản xuất, kinh doanh thông thường 
+
+Chu kỳ sản xuất, kinh doanh thông thường của Tập đoàn được thực hiện trong thời gian không quá 12 tháng.
+
+--- TRANG 14 ---
+# Cấu trúc doanh nghiệp
+
+Tại ngày 30 tháng 6 năm 2025, Tập đoàn có các công ty con với thông tin khái quát như sau:
+
+|  STT | Tên công ty con | Nơi thành lập và hoạt động | Tỷ lệ phần sở Tỷ lệ phần biểu hữu (\%) (*) quyết nắm giữ (\%) (*) |  | Hoạt động chính  |
+| --- | --- | --- | --- | --- | --- |
+|  1 | Công ty Cổ phần Gang thép Hòa Phát (i) | Hà Nội | 99,9988\% | 99,9988\% | Đầu tư, sản xuất, kinh doanh thép xây dựng và các hoạt động phụ trợ.  |
+|  2 | Công ty Cổ phần Sản phẩm thép Hòa Phát (ii) | Hà Nội | 99,9960\% | 99,9960\% | Đầu tư, sản xuất, kinh doanh ống thép, tôn mạ màu và các hoạt động phụ trợ.  |
+|  3 | Công ty Cổ phần Phát triển Nông nghiệp Hòa Phát (iii) | Hưng Yên | 99,9992\% | 99,9992\% | Chăn nuôi gia súc, gia cầm; trồng trọt; các hoạt động dịch vụ trồng trọt, chăn nuôi, sau thu hoạch; sản xuất thức ăn gia súc, gia cầm và thủy sản.  |
+|  4 | Công ty Cổ phần Phát triển Bất động sản Hòa Phát (iv) | Hà Nội | 99,9811\% | 99,9811\% | Đầu tư, xây dựng, kinh doanh bất động sản và các hoạt động phụ trợ.  |
+|  5 | Công ty Cổ phần Điện máy Gia dụng Hòa Phát (v) | Hà Nội | 99,9091\% | 99,9091\% | Đầu tư, sản xuất, kinh doanh các sản phẩm điện máy - gia dụng.  |
+|  6 | Công ty TNHH Thép Hòa Phát Hưng Yên | Hưng Yên | 99,9988\% | 100\% | Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại.  |
+|  7 | Công ty Cổ phần Thép Hòa Phát Hải Dương | Hải Phòng | 99,9971\% | 99,9983\% | Sản xuất thép, gang, khai thác quặng sắt, khai thác và thu gom than non; bán buôn kim loại và quặng kim loại; và sản xuất, mua bán than cốc.  |
+|  8 | Công ty Cổ phần Thép Hòa Phát Dung Quất | Quảng Ngãi | 99,9988\% | 100\% | Sản xuất sắt, thép, gang, khai thác quặng sắt; bán buôn kim loại và quặng kim loại; sản xuất mua bán than cốc và các ngành nghề liên quan khác.  |
+|  9 | Công ty Cổ phần Đầu tư Khoáng sản An Thông | Tuyên Quang | 99,9588\% | 99,9600\% | Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung, trong đó chủ yếu là quặng sắt.  |
+|  10 | Công ty Cổ phần Vận tải biển Hòa Phát | Hải Phòng | 99,6296\% | 99,6308\% | Vận tải hàng hóa ven biển, đường thủy nội địa và viễn dương.  |
+|  11 | Công ty Cổ phần Thép Hòa Phát Phú Yên | Lâm Đồng | 99,9988\% | 100\% | Sản xuất và kinh doanh thép  |
+|  12 | Công ty Cổ phần Cảng Bãi Gốc Phú Yên | Lâm Đồng | 99,9988\% | 100\% | Vận tải hàng hóa ven biển, đường thủy nội địa và viễn dương.  |
+|  13 | Công ty TNHH Ống thép Hòa Phát | Hà Nội | 99,9760\% | 99,9800\% | Sản xuất và kinh doanh thương mại ống thép.  |
+|  14 | Công ty TNHH Tôn Hòa Phát | Hưng Yên | 99,9960\% | 100\% | Sản xuất và kinh doanh các loại tôn mạ kẽm, tôn mạ màu và tôn mạ lạnh.  |
+|  15 | Công ty TNHH Chế tạo kim loại Hòa Phát | Hà Nội | 99,9294\% | 99,9333\% | Sản xuất thiết bị xây dựng; kinh doanh thương mại máy móc và thiết bị xây dựng và khai thác khoáng sản loại nhỏ và vừa.  |
+|  16 | Công ty Cổ phần sản xuất Container Hoà Phát | Hồ Chí Minh | 99,8246\% | 99,8286\% | Sản xuất và kinh doanh Container.  |
+
+--- TRANG 15 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+MẪU SỐ B 09a-DN/HN
+
+|  STT | Tên công ty con | Nơi thành lập và hoạt động | Tỷ lệ phần sở Tỷ lệ phần biểu hữu (\%) (*) quyết nắm giữ (\%) (*) | Hoạt động chính  |
+| --- | --- | --- | --- | --- |
+|  17 | Công ty Cổ phần Ván sàn Hòa Phát (trước đây là Công ty Cổ phần Thương mại và Sản xuất Châu Đức) | Hồ Chí Minh | 99,8960\% | 99,9000\%  |
+|  18 | Công ty TNHH Thương mại Hòa Phát | Hà Nội | 99,9367\% | 99,9375\%  |
+|  19 | Công ty Cổ phần Phát triển Chăn nuôi Hòa Phát | Hưng Yên | 99,9742\% | 99,9750\%  |
+|  20 | Công ty TNHH Thức ăn Chăn nuôi Hòa Phát Hưng Yên | Hưng Yên | 99,9992\% | 100\%  |
+|  21 | Công ty TNHH MTV Gia cầm Hòa Phát Phú Thọ | Phú Thọ | 99,9992\% | 100\%  |
+|  22 | Công ty Cổ phần Xây dựng và Phát triển Đô thị Hòa Phát | Hà Nội | 99,9504\% | 99,9692\% Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật.  |
+|  23 | Công ty Cổ phần Phát triển Bất động sản Hòa Phát Sài Gòn | Hồ Chí Minh | 99,8812\% | 99,9000\%  |
+|  24 | Công ty Cổ phần Phát triển Bất động sản Hòa Phát Hà Nội | Hà Nội | 99,9448\% | 99,9636\%  |
+|  25 | Công ty TNHH Đầu tư Phát triển Thành phố mới | Hồ Chí Minh | 99,9811\% | 100\%  |
+|  26 | Công ty Cổ phần Phát triển Hạ tầng Khu Công nghiệp Hòa Tâm | Đắk Lắk | 99,9611\% | 99,9800\%  |
+|  27 | Công ty Cổ phần Phát triển Khu Đô thị xanh (vi) | Hưng Yên | 89,9830\% | 90,0000\%  |
+|  28 | Công ty Cổ phần Điện máy Gia dụng Hòa Phát Hà Nam | Ninh Bình | 99,8425\% | 99,9333\%  |
+|  29 | Công ty TNHH Điện lạnh Hòa Phát | Hưng Yên | 99,8092\% | 99,9000\%  |
+|  30 | Công ty TNHH MTV Hòa Phát Bình Định | Gia Lai | 99,9988\% | 100\%  |
+|  31 | Công ty TNHH Thương mại Dịch vụ Nhơn Trạch | Đồng Nai | 99,9868\% | 99,9880\%  |
+|  32 | Công ty Cổ phần Thương mại Dịch vụ Thép Hòa Phát Long An (vi) | Tây Ninh | 99,9788\% | 99,9800\%  |
+|  33 | Công ty Cổ phần Năng lượng Hòa Phát | Hải Phòng | 99,9238\% | 99,9267\%  |
+|  34 | Công ty Cổ phần Tôn Hòa Phát Dung Quất | Quảng Ngãi | 99,9886\% | 99,9900\%  |
+|  35 | Công ty Cổ phần Ống thép Hòa Phát Dung Quất | Quảng Ngãi | 99,9846\% | 99,9900\%  |
+|  36 | Công ty Cổ phần Hợp kim sắt Hòa Phát Dung Quất | Quảng Ngãi | 99,9887\% | 99,9900\%  |
+|  37 | Công ty Cổ phần Cảng Tổng hợp Hòa Phát | Quảng Ngãi | 99,9988\% | 100\%  |
+|  38 | Công ty TNHH Harmonia | Quảng Ngãi | 99,9988\% | 100\%  |
+
+Hoạt động chính Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác Chân nuôi trâu, bò; hoạt động dịch vụ trồng trọt, chân nuôi và sau thu hoạch. Chân nuôi, cung cấp heo giống, heo thịt. Sản xuất, buôn bán thức ăn và nguyên liệu làm thức ăn gia súc, gia cầm và thủy sản. Chân nuôi gia cầm. Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật. 99,9000\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. 99,9692\% Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật. 99,9000\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. 99,9636\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. 100\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. 99,9800\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. 99,9333\% Đầu tư, sản xuất, kinh doanh các sản phẩm điện máy, gia dụng. Sản xuất và kinh doanh thương mại sản phẩm điện lạnh. Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại. Kho bãi và lưu giữ hàng hóa; bốc xếp hàng hóa. Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại. 99,9267\% Sản xuất và bán buôn than cốc, khai thác và thu gom than cứng; sản xuất sản phẩm Sản xuất sắt, thép, gang. Sản xuất sắt, thép, gang. Sản xuất sắt, thép, gang. Sản xuất sắt, thép, gang. Dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy. Dịch vụ khách sạn.
+
+--- TRANG 16 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+**MẪU SỐ B 09a-DN/HN**
+
+|  STT | Tên công ty con | Nơi thành lập và hoạt động | Tỷ lệ phần sở/Ụng lý phân biểu hữu (%) (*) quyết nắm giữ (%) (*) | Hoạt động chính  |
+| --- | --- | --- | --- | --- |
+|  39 | Công ty Cổ phần Ray và Thép đặc biệt Hòa Phát Dung Quất (vi) | Quảng Ngãi | 99,8988% | 99,9000%  |
+|  40 | Công ty TNHH Chế tạo thiết bị Hòa Phát Dung Quất (vi) | Quảng Ngãi | 99,9988% | 100%  |
+|  41 | Công ty Cổ phần Khoáng sản Hòa Phát Mitraco | Hà Tĩnh | 98,3795% | 98,4200% Khai thác và sản xuất quặng sắt, bô xít và các kim loại quý hiếm; bán buôn kim loại và quặng kim loại.  |
+|  42 | Công ty TNHH Thép Cán nguội Hòa Phát | Hưng Yên | 99,9760% | 100%  |
+|  43 | Công ty TNHH Ống thép Hòa Phát Đà Nẵng | Đà Nẵng | 99,9535% | 99,9775%  |
+|  44 | Công ty TNHH MTV Ống Thép Hòa Phát Bình Dương | Hồ Chí Minh | 99,9760% | 100%  |
+|  45 | Công ty TNHH MTV Ống Thép Hòa Phát Long An | Tây Ninh | 99,9760% | 100%  |
+|  46 | Công ty Cổ phần Sản phẩm thép Hòa Phát Long An | Tây Ninh | 99,9660% | 99,9900%  |
+|  47 | Công ty TNHH Chế tạo cơ khí Hòa Phát | Hồ Chí Minh | 99,8927% | 99,9167%  |
+|  48 | Công ty TNHH Thép dây Hòa Phát | Hưng Yên | 99,9294% | 100%  |
+|  49 | Công ty TNHH MTV Thép dư ứng lực Hòa Phát | Quảng Ngãi | 99,9294% | 100%  |
+|  50 | Công ty TNHH Phụ kiện cơ khí Hòa Phát | Hồ Chí Minh | 99,8246% | 100%  |
+|  51 | Công ty TNHH Chăn nuôi Hòa Phát Quảng Bình | Quang Trị | 72,6740% | 72,7200%  |
+|  52 | Công ty TNHH Chăn nuôi Việt Hùng | Hưng Yên | 99,9367% | 100%  |
+|  53 | Công ty TNHH Chăn nuôi Đồng Phát | Đồng Nai | 99,9367% | 100%  |
+|  54 | Công ty TNHH MTV Gia cầm Hòa Phát Đồng Nai | Đồng Nai | 99,9367% | 100%  |
+|  55 | Công ty TNHH Chăn nuôi Sơn Đông | Bắc Ninh | 99,9742% | 100%  |
+|  56 | Công ty TNHH Chăn nuôi Lạc Thủy | Phú Thọ | 99,9742% | 100%  |
+|  57 | Công ty TNHH MTV Chăn nuôi Hòa Yên | Lào Cai | 99,9992% | 100%  |
+|  58 | Công ty TNHH Chăn nuôi Hòa Phước | Đồng Nai | 99,9722% | 99,9980%  |
+|  59 | Công ty TNHH Chăn nuôi Thái Thụy | Hưng Yên | 99,9742% | 100%  |
+|  60 | Công ty TNHH Thức ăn Chăn nuôi Hòa Phát Đồng Nai | Đồng Nai | 99,9992% | 100%  |
+|  61 | Công ty TNHH Thức ăn Chăn nuôi Hòa Phát Phú Thọ | Phú Thọ | 99,9992% | 100%  |
+|  62 | Công ty TNHH Phát triển hạ tầng Khu Công nghiệp Hòa Phát Hưng Yên | Hưng Yên | 99,9504% | 100%  |
+|  63 | Công ty TNHH Quản lý Khai thác Khu Công nghiệp Hòa Mạc | Ninh Bình | 99,9504% | 100%  |
+|  64 | Công ty Cổ phần Golden Gain Việt Nam | Hà Nội | 99,9404% | 99,9900%  |
+
+**Hoạt động chính**
+
+Sản xuất sắt, thép, gang Gia công cơ khí, xử lý và tráng phủ kim loại Gia công cơ khí, xử lý và tráng phủ kim loại buôn kim loại và quặng kim loại. Sản xuất sản phẩm thép cán nguội. Sản xuất và kinh doanh thương mại ống thép. Sản xuất và kinh doanh thương mại ống thép. Sản xuất và kinh doanh thương mại ống thép. Sản xuất và kinh doanh thương mại ống thép. Sản xuất và kinh doanh thương mại ống thép. Sản xuất và kinh doanh thương mại ống thép. Sản xuất và kinh doanh thương mại ống thép. Sản xuất, kinh doanh các loại máy xây dựng và khai thác mỏ; sản xuất động cơ, tua bin. Sản xuất sắt, thép, gang. Sản xuất phụ kiện cơ khí. Chăn nuôi gia súc, gia cầm; hoạt động dịch vụ trồng trọt. Chăn nuôi gia súc, gia cầm; hoạt động dịch vụ trồng trọt. Chăn nuôi gia súc, gia cầm; hoạt động dịch vụ trồng trọt. Chăn nuôi gia cầm, chăn nuôi khác. Chăn nuôi lợn, chăn nuôi gia cầm, chăn nuôi khác. Chăn nuôi gia cầm, chăn nuôi khác. Chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi lợn, chăn nuôi
+
+--- TRANG 17 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+MẪU SỐ B 09a-DN/HN
+
+|  STT | Tên công ty con | Nơi thành lập và hoạt động | Tỷ lệ phần sở Tỷ lệ phần biểu hữu (\%) (*) quyết nắm giữ (\%) (*) | Hoạt động chính  |
+| --- | --- | --- | --- | --- |
+|  65 | Công ty Cổ phần Xây dựng Long Việt | Hà Nội | 99,7505\% | 99,8000\%  |
+|  66 | Công ty Cổ phần Phát triển Đô thị Mỹ Hào | Hưng Yên | 99,8504\% | 99,9000\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.  |
+|  67 | Công ty Cổ phần Phát triển Đô thị Hòa Phát Yên Mỹ | Hưng Yên | 99,8504\% | 99,9000\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê, kinh doanh bất động sản.  |
+|  68 | Công ty Cổ phần Phát triển Hạ tầng Khu Công nghiệp Đồng Phúc | Bắc Ninh | 93,0809\% | 93,1271\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.  |
+|  69 | Công ty Cổ phần Phát triển Đô thị mới Phú Thọ | Phú Thọ | 64,9555\% | 65,0000\% Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng đi thuê.  |
+|  70 | Công ty Cổ phần Điện lạnh Hòa Phát Phú Mỹ | Hồ Chí Minh | 99,7094\% | 99,9000\%  |
+|  71 | Công ty Cổ phần Phát triển Hạ tầng Khu Công nghiệp Lý Thường Kiệt | Hưng Yên | 79,9603\% | 80,0000\%  |
+|  72 | Công ty Cổ phần Phát triển Hạ tầng Khu Công nghiệp Hoàng Diệu | Hải Phòng | 79,9603\% | 80,0000\%  |
+|  73 | Công ty Cổ phần Đầu tư \& Dịch vụ Hà Nội | Hà Nội | 95,2104\% | 95,2672\%  |
+|  74 | Công ty Cổ phần Vận tải \& Dịch vụ Thương mại Hà Nội | Hà Nội | 99,8404\% | 99,9000\%  |
+|  75 | Công ty Cổ phần Kinh doanh Dịch vụ và Thương mại Hà Nội | Hà Nội | 99,8404\% | 99,9000\%  |
+|  76 | Công ty TNHH Dịch vụ bảo vệ Hà Nội | Hà Nội | 95,2104\% | 100\%  |
+
+Hoạt động chính
+
+Xây dựng công trình dân dụng, công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà xưởng, văn phòng, đầu tư và xây dựng đồng bộ hạ tầng kỹ thuật, kinh doanh nước sạch, thu gom rác thải, khai thác, xử lý và cung cấp nước. Xây dựng công trình dân dụng, công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà xưởng, văn phòng, đầu tư và xây dựng đồng bộ hạ tầng kỹ thuật, kinh doanh nước sạch, thu gom rác thải, khai thác, xử lý và cung cấp nước. Hoạt động thể thao, giải trí, tennis, cầu lông, bida, bơi, thể dục thể hình, games, bất động sản. Vận tải hàng hóa bằng ô tô, vận tải khách liên tỉnh bằng ô tô, sửa chữa máy móc, thiết bị, dịch vụ lữ hành nội địa, đại lý kinh doanh xăng dầu, dịch vụ đại lý vận tải và dịch vụ trông giữ xe ô tô, văn phòng và kho bãi và bất động sản. Bảo vệ cá nhân
+
+--- TRANG 18 ---
+(i) Ngày 28 tháng 2 năm 2025, Hội đồng Quản trị của Công ty đã thông qua Nghị quyết số 03/NQHP2025 về việc tăng vốn góp thêm 12.200.000.000.000 VND vào Công ty Cổ phần Gang thép Hòa Phát, tiến độ góp tăng vốn không muộn hơn ngày 31 tháng 12 năm 2025. Tại ngày 30 tháng 6 năm 2025, Công ty đã góp 5.110.000.000.000 bằng tiền chuyển khoản. Theo đó, tỷ lệ sở hữu và biểu quyết của Công ty tại Công ty Cổ phần Gang thép Hòa Phát thay đổi từ 99,9987\% lên 99,9988\%.
+(ii) Ngày 28 tháng 02 năm 2025, Hội đồng Quản trị của Công ty đã thông qua Nghị quyết số 04/NQHP2025 về việc tăng vốn góp thêm 420.000.000.000 VND vào Công ty Cổ phần Sản phẩm Thép Hòa Phát. Tại ngày 30 tháng 6 năm 2025, Công ty đã góp đủ số vốn trên bằng tiền chuyển khoản. Theo đó, tỷ lệ sở hữu và biểu quyết của Công ty tại Công ty Cổ phần Sản phẩm Thép Hòa Phát thay đổi từ 99,9958\% lên 99,9960\%.
+(iii) Ngày 05 tháng 5 năm 2025, Hội đồng Quản trị của Công ty đã thông qua Nghị quyết số 08/NQHP2025 về việc thu hồi vốn góp 249.997.980.000 VND tại Công ty Cổ phần Phát triển Nông nghiệp Hòa Phát. Tại ngày 30 tháng 6 năm 2025, Công ty đã nhận đủ số vốn trên bằng tiền chuyển khoản. Theo đó, tỷ lệ sở hữu và biểu quyết của Công ty tại Công ty Cổ phần Phát triển Nông nghiệp Hòa Phát hiện tại là $99,9992 \%$.
+(iv) Ngày 12 tháng 3 năm 2025, Hội đồng Quản trị của Công ty đã thông qua Nghị quyết số 05/NQHP2025 về việc tăng vốn góp thêm 3.800.000.000.000 VND vào Công ty Cổ phần Phát triển Bất động sản Hòa Phát. Tại ngày 30 tháng 6 năm 2025, Công ty đã góp đủ số vốn trên bằng tiền chuyển khoản. Theo đó, tỷ lệ sở hữu và biểu quyết của Công ty tại Công ty Cổ phần Phát triển Bất động sản Hòa Phát thay đổi từ 99,9706\% lên 99,9811\%.
+(v) Ngày 05 tháng 5 năm 2025, Hội đồng Quản trị của Công ty đã thông qua Nghị quyết số 09/NQHP2025 về việc tăng vốn góp thêm 200.000.000.000 VND vào Công ty Cổ phần Điện máy gia dụng Hòa Phát, tiến độ góp tăng vốn không muộn hơn ngày 30 tháng 9 năm 2025. Tại ngày 30 tháng 6 năm 2025, Công ty đã góp 100.000.000.000 VND bằng tiền chuyển khoản. Theo đó, tỷ lệ sở hữu và biểu quyết của Công ty tại Công ty Cổ phần Điện máy gia dụng Hòa Phát thay đổi từ 99,9090\% lên $99,9091 \%$.
+(vi) Các công ty được góp vốn thành lập trong kỳ theo các Nghị quyết Hội đồng Quản trị của các công ty con trong kỳ.
+(*) Tỷ lệ quyền biểu quyết nắm giữ và Tỷ lệ phần sở hữu bao gồm tỷ lệ nắm giữ trực tiếp và gián tiếp tại Tập đoàn.
+
+Thuyết minh về khả năng so sánh thông tin trên báo cáo tài chính hợp nhất giữa niên độ
+Số liệu so sánh trên bảng cân đối kế toán hợp nhất giữa niên độ và các thuyết minh tương ứng là số liệu của báo cáo tài chính hợp nhất đã kiểm toán cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024.
+
+Số liệu so sánh trên báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ, báo cáo lưu chuyển tiền tệ hợp nhất giữa niên độ và các thuyết minh tương ứng là số liệu của báo cáo tài chính hợp nhất giữa niên độ đã soát xét cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2024.
+
+--- TRANG 19 ---
+Một số số liệu của kỳ báo cáo trước được phân loại lại để phù hợp với việc so sánh với số liệu của kỳ này, cụ thể như sau:
+
+|  Chỉ tiêu | Mã số | Số đầu kỳ
+(Số đã báo cáo) | Số phân loại lại | Số đầu kỳ
+(Phân loại lại)  |
+| --- | --- | --- | --- | --- |
+|   |  | VND | VND | VND  |
+|  Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2024 |  |  |  |   |
+|  Chi phí phải trả dài hạn | 333 | 1.143 .692 .237 .207 | $(54.000 .000 .000)$ | 1.089 .692 .237 .207  |
+|  Dự phòng phải trả dài hạn | 342 | 67.495 .546 .940 | 54.000 .000 .000 | 121.495 .546 .940  |
+
+1. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ VÀ KỲ KẾ TOÁN
+
+# Cơ sở lập báo cáo tài chính hợp nhất giữa niên độ
+
+Báo cáo tài chính hợp nhất giữa niên độ kèm theo được trình bày bằng Đồng Việt Nam (VND), theo nguyên tắc giá gốc và phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ.
+
+Báo cáo tài chính hợp nhất giữa niên độ được lập trên cơ sở hợp nhất số liệu báo cáo tài chính riêng giữa niên độ của Công ty và báo cáo tài chính giữa niên độ của các công ty con của Công ty.
+
+Báo cáo tài chính hợp nhất giữa niên độ kèm theo không nhằm phản ánh tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+
+## Kỳ kế toán
+
+Kỳ kế toán năm của Tập đoàn bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 . Báo cáo tài chính hợp nhất giữa niên độ này được lập cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025. 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+Sau đây là các chính sách kế toán chủ yếu được Tập đoàn áp dụng trong việc lập báo cáo tài chính hợp nhất giữa niên độ:
+
+## Ước tính kế toán
+
+Việc lập báo cáo tài chính hợp nhất giữa niên độ tuân thủ theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập báo cáo tài chính hợp nhất giữa niên độ cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt kỳ hoạt động. Mặc dù các ước tính kế toán được lập bằng tất cả sự hiểu biết của Ban Tổng Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+--- TRANG 20 ---
+# Cơ sở hợp nhất báo cáo tài chính hợp nhất giữa niên độ 
+
+Báo cáo tài chính hợp nhất giữa niên độ bao gồm báo cáo tài chính riêng giữa niên độ của Công ty và báo cáo tài chính giữa niên độ của các công ty do Tập đoàn kiểm soát (công ty con) được lập cho kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025. Việc kiểm soát này đạt được khi Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty nhận đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
+
+Kết quả hoạt động kinh doanh của các công ty con được mua lại hoặc bán đi trong kỳ được trình bày trong Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ từ ngày mua hoặc cho đến ngày bán các khoản đầu tư ở công ty con đó.
+
+Trong trường hợp cần thiết, báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp dụng tại Công ty và các công ty con là giống nhau.
+
+Tất cả các nghiệp vụ và số dư giữa Công ty và công ty con được loại bỏ khi hợp nhất báo cáo tài chính giữa niên độ.
+
+Lợi ích của cổ đông không kiểm soát bao gồm giá trị các lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu và phần lợi ích của cổ đông không kiểm soát trong sự biến động của tổng vốn chủ sở hữu kể từ ngày hợp nhất kinh doanh. Các khoản lỗ phát sinh tại công ty con phải được phân bổ tương ứng với phần sở hữu của cổ đông không kiểm soát, kể cả trường hợp số lỗ đó lớn hơn phần sở hữu của cổ đông không kiểm soát trong tài sản thuần của công ty con.
+
+## Lợi thế thương mại
+
+Lợi thế thương mại trên báo cáo tài chính hợp nhất là phần phụ trội giữa mức giá phí hợp nhất kinh doanh so với phần lợi của Công ty trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiềm tàng của công ty con, công ty liên kết, hoặc cơ sở kinh doanh đồng kiểm soát tại ngày thực hiện nghiệp vụ đầu tư. Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu dụng ước tính của lợi thế thương mại đó là 10 năm.
+
+Lợi thế thương mại từ việc mua các công ty con được trình bày riêng như một loại tài sản trên Bảng cân đối kế toán hợp nhất giữa niên độ.
+
+Khi bán công ty con, công ty liên kết hoặc cơ sở kinh doanh đồng kiểm soát, giá trị còn lại của khoản lợi thế thương mại chưa khấu hao hết được tính vào khoản lãi/lỗ do nghiệp vụ nhượng bán công ty tương ứng.
+
+## Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, các khoản tiền gửi ngân hàng không kỳ hạn, tiền đang chuyển, các khoản đầu tư ngắn hạn (không quá 3 tháng), có khả năng thanh khoản cao, dễ dàng chuyển đổi thành tiền và ít rủi ro liên quan đến việc biến động giá trị.
+
+## Các khoản đầu tư tài chính
+
+## Các khoản đầu tư nắm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn bao gồm các khoản đầu tư mà Tập đoàn có ý định và khả năng giữ đến ngày đáo hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn nắm giữ đến ngày đáo hạn với mục đích thu lãi hàng kỳ.
+
+--- TRANG 21 ---
+Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ trên cơ sở dự thu.
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được xác định theo giá gốc trừ đi dự phòng tổn thất đầu tư nắm giữ đến ngày đáo hạn.
+
+Dự phòng tổn thất đầu tư nắm giữ đến ngày đáo hạn được trích lập theo các quy định kế toán hiện hành
+
+# Các khoản cho vay 
+
+Các khoản cho vay được xác định theo giá gốc trừ đi các khoản dự phòng phải thu khó đòi. Dự phòng phải thu khó đòi các khoản cho vay của Tập đoàn được trích lập theo các quy định kế toán hiện hành.
+
+## Nợ phải thu
+
+Nợ phải thu là số tiền có thể thu hồi của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi được trích lập cho những khoản nợ phải thu đã quá hạn thanh toán, hoặc các khoản nợ phải thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+
+## Hàng tồn kho
+
+Hàng tồn kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hàng tồn kho bao gồm chi phí nguyên vật liệu trực tiếp, chi phí lao động trực tiếp và chi phí sản xuất chung, nếu có, để có được hàng tồn kho ở địa điểm và trạng thái hiện tại. Giá xuất kho của hàng tồn kho được xác định theo phương pháp bình quân gia quyền. Giá trị thuần có thể thực hiện được được xác định bằng giá bán ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cùng chi phí tiếp thị, bán hàng và phân phối phát sinh. Tập đoàn hạch toán hàng tồn kho theo phương pháp kê khai thường xuyên.
+
+Dự phòng giảm giá hàng tồn kho của Tập đoàn được trích lập theo các quy định kế toán hiện hành. Theo đó, Tập đoàn được phép trích lập dự phòng giảm giá hàng tồn kho lỗi thời, hỏng, kém phẩm chất và trong trường hợp giá gốc của hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc kỳ kế toán.
+
+## Tài sản cố định hữu hình và khấu hao
+
+Tài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thái sã̃n sàng sử dụng.
+
+Nguyên giá tài sản cố định hữu hình do tự làm, tự xây dựng bao gồm chi phí xây dựng, chi phí sản xuất thực tế phát sinh cộng chi phí lắp đặt và chạy thử.
+
+Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:
+
+--- TRANG 22 ---
+|   | Số năm  |
+| --- | --- |
+|  Nhà xưởng và vật kiến trúc | $05-50$  |
+|  Máy móc và thiết bị | $01-25$  |
+|  Phương tiện vận tải và thiết bị truyền dẫn | $01-30$  |
+|  Thiết bị văn phòng | $02-12$  |
+|  Vật nuôi | $03-05$  |
+|  Tài sản cố định khác | $02-12$  |
+
+Các khoản lãi, lỗ phát sinh khi thanh lý, bán tài sản là chênh lệch giữa thu nhập thuần do thanh lý tài sản và giá trị còn lại của tài sản và được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+
+# Tài sản cố định vô hình và khấu hao
+
+Tài sản cố định vô hình thể hiện giá trị quyền sử dụng đất và phần mềm máy tính được trình bày theo nguyên giá trừ giá trị hao mòn lũy kể.
+
+Quyền sử dụng đất được phân bổ theo phương pháp đường thẳng dựa trên thời gian sử dụng lô đất. Tài sản cố định vô hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:
+
+Số năm
+
+Quyền sử dụng đất $10-50$ Phần mềm máy tính $03-08$
+
+## Bất động sản đầu tư
+
+Bất động sản đầu tư bao gồm quyền sử dụng đất và nhà xưởng do Tập đoàn nắm giữ nhằm mục đích thu lợi từ việc cho thuê. Bất động sản đầu tư cho thuê được trình bày theo nguyên giá trừ giá trị hao mòn lũy kể. Nguyên giá của bất động sản đầu tư được mua bao gồm giá mua và các chi phí liên quan trực tiếp như phí dịch vụ tư vấn về luật pháp liên quan, thuế trước bạ và chi phí giao dịch liên quan khác. Nguyên giá bất động sản đầu tư tự xây là giá trị quyết toán công trình hoặc các chi phí liên quan trực tiếp của bất động sản đầu tư.
+
+Quyền sử dụng đất vô thời hạn không được khấu hao. Nhà cửa cho thuê được khấu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính từ $3-49$ năm.
+
+## Thuê tài sản
+
+## Công ty là bên cho thuê
+
+Doanh thu cho thuê hoạt động được ghi nhận theo phương pháp đường thẳng trong suốt thời gian cho thuê. Chi phí trực tiếp ban đầu phát sinh trong quá trình đàm phán ký hợp đồng thuê hoạt động được ghi nhận phân bổ dần vào chi phí trong suốt thời hạn cho thuê phù hợp với việc ghi nhận doanh thu cho thuê hoạt động.
+
+## Công ty là bên đi thuê
+
+Một khoản thuê được xem là thuê hoạt động khi bên cho thuê vẫn được hưởng phần lớn các quyền lợi và phải chịu rủi ro về quyền sở hữu tài sản. Chi phí thuê hoạt động được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh theo phương pháp đường thẳng trong suốt thời gian thuê. Các khoản tiền nhận được hoặc phải thu nhằm tạo điều kiện ký kết hợp đồng thuê hoạt động cũng được ghi nhận theo phương pháp đường thẳng trong suốt thời gian thuê.
+
+--- TRANG 23 ---
+# Chi phí xây dựng cơ bản dở dang 
+
+Các tài sản đang trong quá trình xây dựng phục vụ mục đích sản xuất, cho thuê, quản trị hoặc cho bất kỳ mục đích nào khác được ghi nhận theo giá gốc bao gồm các chi phí cần thiết để hình thành tài sản phù hợp với chính sách kế toán của Tập đoàn. Việc tính khấu hao của các tài sản này được áp dụng giống như với các tài sản khác, bắt đầu từ khi tài sản ở vào trạng thái sẵn sàng sử dụng.
+
+## Các khoản trả trước
+
+Chi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán. Chi phí trả trước chủ yếu bao gồm công cụ, dụng cụ đã xuất dùng, chi phí bảo dưỡng, sửa chữa tài sản, chi phí đại tu, sửa chữa lớn tài sản, tiền thuê đất trả trước, chi phí giải phóng mặt bằng và các khoản chi phí trả trước khác.
+
+Công cụ và dụng cụ đã xuất dùng bao gồm các tài sản Tập đoàn nắm giữ để sử dụng trong quá trình hoạt động kinh doanh bình thường, là những tư liệu lao động không có đủ các tiêu chuẩn về giá trị và thời gian sử dụng quy định đối với tài sản cố định. Nguyên giá của công cụ và dụng cụ được phân bổ theo phương pháp đường thẳng trong thời gian tối đa là 3 năm.
+
+Chi phí đại tu, sửa chữa lớn tài sản bao gồm các chi phí chính phát sinh định kỳ trong thời gian sử dụng của tài sản. Các chi phí này được ghi nhận ban đầu theo nguyên giá và được phân bổ vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ trong thời gian từ 2 đến 3 năm.
+
+Chi phí thuê đất trả trước bao gồm tiền thuê đất trả trước, kể cả các khoản liên quan đến đất thuê mà Tập đoàn đã nhận được giấy chứng nhận quyền sử dụng đất nhưng không đủ điều kiện ghi nhận tài sản cố định vô hình theo các quy định hiện hành, và các chi phí phát sinh khác liên quan đến việc bảo đảm cho việc sử dụng đất thuê. Các chi phí này được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ theo phương pháp đường thẳng dựa trên thời hạn của hợp đồng thuê đất.
+
+Chi phí giải phóng mặt bằng phản ánh chi phí bồi thường giải phóng mặt bằng do Tập đoàn chi trả. Các chi phí này được ghi nhận theo giá gốc và phân bổ theo phương pháp đường thẳng dựa trên thời hạn thuê đất.
+
+Các khoản chi phí trả trước khác được coi là có khả năng đem lại lợi ích kinh tế trong tương lai cho Công ty. Các chi phí này được vốn hóa dưới hình thức các khoản trả trước và được phân bổ vào Báo cáo kết quả hoạt động kinh doanh, sử dụng phương pháp đường thẳng theo các quy định kế toán hiện hành.
+
+## Các khoản dự phòng phải trả
+
+Các khoản dự phòng phải trả được ghi nhận khi Tập đoàn có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xảy ra, và Tập đoàn có khả năng phải thanh toán nghĩa vụ này. Các khoản dự phòng được xác định trên cơ sở ước tính của Ban Tổng Giám đốc về các khoản chi phí cần thiết để thanh toán nghĩa vụ nợ này tại ngày kết thúc kỳ hoạt động.
+
+## Doanh thu chưa thực hiện
+
+Doanh thu chưa thực hiện là khoản doanh thu nhận trước liên quan đến một hay nhiều kỳ kế toán cho hàng hóa hay dịch vụ chưa được cung cấp hoặc chuyển giao. Tập đoàn ghi nhận các khoản doanh thu chưa thực hiện tương ứng với phần nghĩa vụ mà Tập đoàn sẽ phải thực hiện trong tương lai. Khi các điều kiện ghi nhận doanh thu được thỏa mãn, doanh thu chưa thực hiện sẽ được ghi nhận vào Báo cáo kết quả kinh doanh trong kỳ tương ứng với phần thỏa mãn điều kiện ghi nhận doanh thu đó.
+
+--- TRANG 24 ---
+# Phân chia lợi nhuận 
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+Công ty phân phối lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Công ty theo đề nghị của Hội đồng quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên.
+
+## Quỹ khen thưởng, phúc lợi
+
+Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên Bảng cân đối kế toán hợp nhất giữa niên độ.
+
+## Ngoại tệ
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được chuyển đổi theo tỷ giá tại ngày phát sinh nghiệp vụ. Số dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc kỳ kế toán được chuyển đổi theo tỷ giá của Ngân hàng Thương mại nơi Tập đoàn thường xuyên có giao dịch tại ngày này. Chênh lệch tỷ giá phát sinh được hạch toán vào Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+
+## Ghi nhận doanh thu
+
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+(a) Tập đoàn đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+(b) Tập đoàn không còn nắm giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+(c) Doanh thu được xác định tương đối chắc chắn;
+(d) Tập đoàn sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+(e) Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+Doanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách đáng tin cậy. Trường hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều kỳ thi doanh thu được ghi nhận trong kỳ theo kết quả phần công việc đã hoàn thành tại ngày của Bảng cân đối kế toán hợp nhất giữa niên độ của kỳ đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả bốn (4) điều kiện sau:
+(a) Doanh thu được xác định tương đối chắc chắn;
+(b) Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+(c) Xác định được phần công việc đã hoàn thành tại ngày của Bảng cân đối kế toán hợp nhất giữa niên độ; và
+(d) Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+Trường hợp thời gian cho thuê chiếm trên $90 \%$ thời gian sử dụng hữu ích của tài sản, Công ty ghi nhận doanh thu một lần đối với toàn bộ số tiền cho thuê nhận trước theo các điều kiện sau:
+(a) Bên đi thuê không có quyền hủy ngang hợp đồng thuê và Công ty không có nghĩa vụ phải trả lại số tiền đã nhận trước trong mọi trường hợp và dưới mọi hình thức;
+(b) Số tiền nhận trước từ việc cho thuê không nhỏ hơn $90 \%$ tổng số tiền cho thuê dự kiến thu được theo hợp đồng trong suốt thời hạn cho thuê và bên đi thuê phải thanh toán toàn bộ số tiền thuê trong vòng 12 tháng kể từ thời điểm khởi đầu thuê tài sản;
+(c) Rủi ro và lợi ích gắn liền với quyền sở hữu tài sản thuê đã chuyển giao cho bên đi thuê; và
+(d) Giá vốn của hoạt động cho thuê được ước tính tương đối đầy đủ.
+
+--- TRANG 25 ---
+Lãi tiền gửi được ghi nhận trên cơ sở dồn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng.
+
+# Các khoản giảm trừ doanh thu 
+
+Các khoản giảm trừ doanh thu bao gồm chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại.
+
+Các khoản giảm trừ doanh thu phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa, dịch vụ được điều chỉnh giảm doanh thu của kỳ phát sinh. Trường hợp sản phẩm, hàng hóa dịch vụ đã tiêu thụ trong kỳ báo cáo nhưng đến kỳ sau mới phát sinh chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại, Tập đoàn ghi giảm doanh thu ghi nhận trong kỳ báo cáo nếu các khoản giảm trừ doanh thu này phát sinh trước thời điểm phát hành báo cáo tài chính.
+
+## Chi phí đi vay
+
+Chi phí đi vay được ghi nhận vào chi phí sản xuất, kinh doanh trong kỳ khi phát sinh, trừ khi được vốn hoá theo quy định của Chuẩn mực kế toán Việt Nam số 16 "Chi phí đi vay". Theo đó, chi phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu nhập phát sinh từ việc đầu tư tạm thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan. Đối với khoản vay riêng phục vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa kể cả khi thời gian xây dựng dưới 12 tháng.
+
+## Thuế
+
+Thuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.
+Số thuế phải trả hiện tại được tính dựa trên thu nhập chịu thuế trong kỳ. Thu nhập chịu thuế khác với lợi nhuận trước thuế được trình bày trên Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ vì thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang) và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không được khấu trừ.
+
+Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch giữa giá trị ghi sổ và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên báo cáo tài chính hợp nhất giữa niên độ và được ghi nhận theo phương pháp Bảng cân đối kế toán. Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời còn tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.
+
+Thuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ và chỉ ghi vào vốn chủ sở hữu khi khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu.
+
+Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Tập đoàn có quyền hợp pháp để bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Tập đoàn có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.
+
+--- TRANG 26 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+Việc xác định thuế thu nhập của Tập đoàn căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+## 4. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Tiền mặt | 18.663.020.974 | 13.803.222.637  |
+|  Tiền gửi ngân hàng không kỳ hạn | 3.294.365.200.076 | 2.905.697.500.571  |
+|  Tiền đang chuyển | 811.890 .224 | 31.222 .700  |
+|  Các khoản tương đương tiền (i) | 7.374.184.165.984 | 3.968.114.193.944  |
+|   | 10.688.024.277.258 | 6.887.646.139.852  |
+
+(i) Thể hiện khoản tiền gửi bằng Đồng Việt Nam tại các ngân hàng thương mại có kỳ hạn gốc dưới 3 tháng, với lãi suất từ $1,8 \% /$ năm đến $5,5 \% /$ năm (tại ngày 31 tháng 12 năm 2024: từ $1,6 \% /$ năm đến $5,5 \% /$ năm).
+
+Tại ngày 30 tháng 6 năm 2025, một số khoản tương đương tiền với giá trị ghi sổ là 105 tỷ VND đã được sử dụng làm tài sản thế chấp cho các khoản vay tại ngân hàng (ngày 31 tháng 12 năm 2024: 88,7 tỷ VND).
+
+## 5. ĐẦU TƯ TÀI CHÍNH
+
+|   | Số cuối kỳ |  | Số đầu kỳ  |
+| --- | --- | --- | --- |
+|   | VND |  | VND  |
+|  Giá gốc | Giá trị ghi sổ | Giá gốc | Giá trị ghi sổ  |
+
+Đầu tư nắm giữ đến 17.584.027.436.423 17.584.027.436.423 19.111.216.730.905 19.111.216.730.905 ngày đáo hạn a. Ngân hạn
+
+- Tiền gửi có kỳ hạn 17.584.027.436.423 17.584.027.436.423 18.974.716.730.905 18.974.716.730.905 (i) b. Dài hạn
+- Tiền gửi có kỳ hạn
+- 136.500 .000 .000 136.500 .000 .000 (i) Thể hiện các khoản tiền gửi bằng Đồng Việt Nam tại các ngân hàng thương mại có kỳ hạn gốc trên 3 tháng và kỳ hạn còn lại dưới 12 tháng, với lãi suất từ $2,9 \% /$ năm đến $6,4 \% /$ năm (tại ngày 31 tháng 12 năm 2024: từ $1,9 \% /$ năm đến $6,7 \% /$ năm).
+
+Tại ngày 30 tháng 6 năm 2025, một số hợp đồng tiền gửi có kỳ hạn với giá trị ghi sổ là 4.822 tỷ VND đã được sử dụng làm tài sản thế chấp cho các khoản vay tại ngân hàng (tại ngày 31 tháng 12 năm 2024: 5.568 tỷ VND).
+
+--- TRANG 27 ---
+1. PHẢI THU NGÂN HẠN CỦA KHÁCH HÀNG
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Marcegaglia Carbon Steel | 995.787 .219 .838 | 482.424 .804 .232  |
+|  Công ty Cổ phần Thép Minh Phú - Hải Dương | 932.052 .429 .825 | -  |
+|  Công ty Cổ phần Tập đoàn Hoa Sen | 632.725 .292 .606 | 218.586 .863 .055  |
+|  Hoa Phat Trading International Pte. Ltd | 47.300 .861 .605 | 558.734 .592 .040  |
+|  Các khách hàng khác | 5.588 .151 .692 .398 | 3.092 .389 .160 .545  |
+|   | 8.196 .017 .496 .272 | 4.352 .135 .419 .872  |
+
+Tại ngày 30 tháng 6 năm 2025, một số khoản phải thu khách hàng ngắn hạn với giá trị ghi sổ là 1.730 tỷ VND đã được sử dụng để thế chấp cho các khoản vay tại ngân hàng (ngày 31 tháng 12 năm 2024: 1.161 tỷ VND). 7. TRẢ TRƯỚC CHO NGƯỜI BÁN
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  a. Trả trước cho người bán ngắn hạn |  |   |
+|  Hoa Phat Trading International Pte. Ltd | 270.773 .679 .171 | 44.786 .287 .582  |
+|  Northern Territory Iron One Pty Ltd | 161.638 .090 .079 | 161.638 .090 .079  |
+|  Primetals Technologies USA LLC | 108.431 .846 .250 | -  |
+|  Các nhà cung cấp khác | 2.215 .146 .332 .590 | 1.912 .400 .049 .343  |
+|   | 2.755 .989 .948 .090 | 2.118 .824 .427 .004  |
+|  b. Trả trước cho người bán dài hạn |  |   |
+|  SMS Concast AG | 31.618 .750 .000 | 31.618 .750 .000  |
+|  Danieli Co., Ltd | 20.108 .000 .000 | 20.108 .000 .000  |
+|  Các nhà cung cấp khác | 21.673 .347 .764 | 31.078 .537 .792  |
+|   | 73.400 .097 .764 | 82.805 .287 .792  |
+
+1. PHẢI THU KHÁC
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  a. Ngắn hạn |  |   |
+|  Lãi tiền gửi | 328.262 .189 .370 | 409.591 .377 .404  |
+|  Tiền bồi thường giải phóng mặt bằng (i) | 308.232 .293 .389 | 125.679 .466 .785  |
+|  Ký cược, ký quỹ | 465.047 .639 .739 | 350.168 .193 .245  |
+|  Thuế nhập khẩu nộp trước | 93.934 .381 .752 | 176.331 .460 .189  |
+|  Phải thu khác | 247.706 .113 .427 | 187.222 .347 .755  |
+|   | 1.443 .182 .617 .677 | 1.248 .992 .845 .378  |
+|  b. Dài hạn |  |   |
+|  Ký cược, ký quỹ dài hạn | 827.053 .815 .447 | 840.594 .835 .822  |
+|   | 827.053 .815 .447 | 840.594 .835 .822  |
+
+(i) Đây là khoản tiền hỗ trợ bồi thường cho người dân liên quan tới việc thu hồi đất để thực hiện các dự án Khu đô thị và Khu công nghiệp theo các phương án đã được phê duyệt bởi Ủy ban Nhân dân có đất được thu hồi trên địa bàn tỉnh Hưng Yên.
+
+--- TRANG 28 ---
+# 9. HÀNG TỒN KHO
+
+|   | Sổ cuối kỳ |  | Sổ đầu kỳ |   |
+| --- | --- | --- | --- | --- |
+|   | VND |  | VND |   |
+|   | Giá gốc | Dự phòng | Giá gốc | Dự phòng  |
+|  Hàng mua đang đi đường | 6.262 .580 .149 .844 | - | 5.559 .003 .181 .956 | -  |
+|  Nguyên liệu, vật liệu | 24.025.466.833.563 | (374.939.967) | 20.324.528.389.776 | (17.265.822.207)  |
+|  Công cụ, dụng cụ | 3.302.992.305.297 | (3.208.159.471) | 3.326.224.899.798 | (3.462.076.448)  |
+|  Chi phí sản xuất, kinh doanh dở dang (i) | 4.227.339.404.140 | (1.391.437.136) | 4.048.570.091.614 | (9.717.188.881)  |
+|  Thành phẩm | 9.944.561.550.952 | (26.228.640.862) | 12.155.686.194.056 | (62.049.506.084)  |
+|  Hàng hoá | 932.026.143.927 | (15.651.966.281) | 673.704.904.662 | (8.575.298.721)  |
+|  Hàng gửi bán | 205.296.870.109 | - | 104.574.419.951 | -  |
+|   | 48.900.263.257.832 | (46.855.143.717) | 46.192.292.081.813 | (101.069.892.341)  |
+
+(i) Trong số dư chi phí sản xuất kinh doanh dở dang tại ngày 30 tháng 6 năm 2025 có 1.718 tỷ VND là chi phí liên quan đến Dự án đầu tư xây dựng hạ tầng kỹ thuật Phân khu A - Khu đô thị Bắc QLS thuộc Khu đô thị Phố Nổi tỉnh Hưng Yên ("Dự án Bắc QLS") do Tập đoàn thực hiện. Ngoài ra, Công ty cũng đang ghi nhận 4,5 tỷ VND trên khoản mục "Phải thu ngắn hạn khác" về bồi thường giải phóng mặt bằng mà Tập đoàn đã thực hiện nhưng đang chờ xác nhận của cơ quan Nhà nước có thẩm quyền liên quan đến Dự án này (tại ngày 31 tháng 12 năm 2024: 4,5 tỷ VND) (Thuyết minh 8) và 23 tỷ VND trên khoản mục Chi phí xây dựng cơ bản dở dang liên quan đến chi phí xây dựng khu nhà hàng, bể bơi tại lô đất TMDV-7 phân khu A thuộc Dự án Bắc QLS (tại ngày 31 tháng 12 năm 2024: 23 tỷ VND) (Thuyết minh 14). Trong kỳ, Công ty Cổ phần phát triển Khu Đô thị xanh - Công ty con của Tập đoàn đã được Ủy ban Nhân dân tỉnh Hưng Yên phê duyệt kết quả lựa chọn nhà đầu tư cho dự án Bắc QLS theo Quyết định số 1618/QĐ-UBND ngày 27 tháng 6 năm 2025.
+
+Trong kỳ, Tập đoàn đã hoàn nhập dự phòng giảm giá hàng tồn kho với số tiền là 54.214.748.624 VND (6 tháng đầu năm 2024 Tập đoàn đã trích lập 167.020.034.935 VND) do thay đổi giá trị hàng tồn kho chậm luân chuyển trong kỳ và giá trị thuần có thể thực hiện được của hàng tồn kho tại ngày 30 tháng 6 năm 2025 thay đổi so với giá trị thuần có thể thực hiện được khi tính toán trích lập đầu kỳ.
+
+Tại ngày 30 tháng 6 năm 2025, một số hàng tồn kho với giá trị ghi sổ là 36.978 tỷ VND đã được Tập đoàn sử dụng để thế chấp cho các khoản vay tại ngân hàng (tại ngày 31 tháng 12 năm 2024: 29.769 tỷ VND).
+
+--- TRANG 29 ---
+# 10. CHI PHÍ TRẢ TRƯỚC
+
+|   | Sổ cuối kỳ | Sổ đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  a. Ngắn hạn |  |   |
+|  Công cụ và dụng cụ xuất dùng | 68.528 .726 .372 | 61.555 .286 .150  |
+|  Chi phí bảo dưỡng, sửa chữa tài sản | 193.574 .448 .865 | 193.317 .149 .178  |
+|  Chi phí khác | 241.933 .367 .282 | 171.277 .063 .760  |
+|   | 504.036 .542 .519 | 426.149 .499 .088  |
+|  b. Dài hạn |  |   |
+|  Công cụ, dụng cụ xuất dùng | 134.801 .625 .183 | 138.684 .894 .554  |
+|  Chi phí đại tu, sửa chữa lớn | 733.479 .805 .728 | 681.796 .724 .167  |
+|  Tiền thuê đất trả trước (i) | 2.868 .283 .808 .671 | 2.903 .677 .853 .222  |
+|  Chi phí giải phóng mặt bằng | 302.706 .904 .646 | 307.850 .737 .886  |
+|  Chi phí trả trước khác | 299.453 .029 .931 | 237.131 .485 .039  |
+|   | 4.338 .725 .174 .159 | 4.269 .141 .694 .868  |
+
+(i) Tại ngày 30 tháng 6 năm 2025, một số quyền sử dụng đất thuê có giá trị còn lại của tiền thuê đất trả trước là 561 tỷ VND được sử dụng là tài sản thể chấp cho các khoản vay tại ngân hàng (tại ngày 31 tháng 12 năm 2024: 168 tỷ VND).
+
+--- TRANG 30 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo) MẪU SỐ B 09a-DN/HN 11. TĂNG, GIẢM TÀI SẢN CỔ ĐỊNH HỮU HÌNH
+
+|   | Nhà xưởng và vật kiến trúc | Máy móc và thiết bị | Phương tiện vận tải và thiết bị truyền dẫn | Thiết bị văn phòng | Vật nuôi | Tài sản cố định hữu hình khác | Tổng  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND | VND | VND  |
+|  NGUYÊN GIÁ |  |  |  |  |  |  |   |
+|  Số dư đầu kỳ | 37.604.469.055.561 | 66.263.098.120.964 | 3.681.226.017.096 | 304.810.489.472 | 208.025.132.383 | 84.937.533.478 | 108.146.566.348.954  |
+|  Mua trong kỳ | 960.654.750 | 62.664.584.294 | 40.278.375.477 | 7.319.406.263 | - | 7.612.400.073 | 118.835.420.857  |
+|  Đầu tư xây dựng cơ bản hoàn thành | 398.528.606.459 | 574.851.309.023 | 105.423.487.844 | 42.904.534.402 | 11.740.711.369 | 439.659.300 | 1.133.888.308.397  |
+|  Thanh lý, xóa sổ | (17.246.492.732) | (95.674.959.415) | (34.028.157.782) | (1.366.214.218) | - | - | (148.315.824.147)  |
+|  Giảm khác | - | (1.237.595.895) | (529.296.011) | - | - | (20.321.511) | (1.787.213.417)  |
+|  Số dư cuối kỳ | 37.986.711.824.038 | 66.803.701.458.971 | 3.792.370.426.624 | 353.668.215.919 | 219.765.843.752 | 92.969.271.340 | 109.249.187.040.644  |
+|  GIÁ TRỊ HAO MÒN LŨY KẾ |  |  |  |  |  |  |   |
+|  Số dư đầu kỳ | 9.575.405.070.376 | 29.197.724.259.937 | 1.784.257.968.156 | 228.979.462.266 | 86.691.549.418 | 29.357.063.753 | 40.902.415.373.906  |
+|  Khẩu hao trong kỳ | 866.508.437.678 | 2.246.854.067.172 | 183.353.289.218 | 19.214.150.954 | 25.676.917.659 | 7.717.462.705 | 3.349.324.325.386  |
+|  Thanh lý và xóa sổ | (15.438.528.424) | (72.188.324.439) | (32.293.708.226) | (1.366.214.218) | - | - | (121.286.775.307)  |
+|  Phân loại lại | - | (6.807.042) | - | - | - | 6.807.042 | -  |
+|  Tăng/(giảm) khác | 999.500.000 | (858.119.704) | (1.908.272.202) | - | - | (20.321.511) | (1.787.213.417)  |
+|  Số dư cuối kỳ | 10.427.474.479.630 | 31.371.525.075.924 | 1.933.409.276.946 | 246.827.399.002 | 112.368.467.077 | 37.061.011.989 | 44.128.665.710.568  |
+|  GIÁ TRỊ CÒN LẠI |  |  |  |  |  |  |   |
+|  Tại ngày đầu kỳ | 28.029.063.985.185 | 37.065.373.861.027 | 1.896.968.048.940 | 75.831.027.206 | 121.333.582.965 | 55.580.469.725 | 67.244.150.975.048  |
+|  Tại ngày cuối kỳ | 27.559.237.344.408 | 35.432.176.383.047 | 1.858.961.149.678 | 106.840.816.917 | 107.397.376.675 | 55.908.259.351 | 65.120.521.330.076  |
+
+Nguyên giá tài sản cố định hữu hình đã khấu hao hết nhưng vẫn còn sử dụng tại ngày 30 tháng 6 năm 2025 là 11.549 tỷ VND (tại ngày 31 tháng 12 năm 2024: 11.515 tỷ VND).
+
+Như trình bày tại Thuyết minh số 22, Tập đoàn đã thế chấp một số tài sản cố định với giá trị còn lại tại ngày 30 tháng 06 năm 2025 là 50.643 tỷ VND (tại ngày 31 tháng 12 năm 2024: 52.683 tỷ VND) để đảm bảo cho các khoản tiền vay ngân hàng.
+
+--- TRANG 31 ---
+1. TẦNG, GIẢM TÀI SẢN CỔ ĐỊNH VÔ HÌNH
+
+|   | Quyền
+sử dụng đất | Phần mềm
+máy tính | Tài sản khác | Tống  |
+| --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND  |
+|  NGUYÊN GIÁ |  |  |  |   |
+|  Số dư đầu kỳ | 178.394.670.071 | 182.466.424.209 | 6.196.510.427 | 367.057.604.707  |
+|  Tăng trong kỳ | - | 630.000 .000 | - | 630.000 .000  |
+|  Đầu tư xây dựng cơ bản hoàn thành | - | 13.779.569.000 | - | 13.779.569.000  |
+|  Thanh lý, xóa sổ | - | (1.031.732.000) | - | (1.031.732.000)  |
+|  Số dư cuối kỳ | 178.394.670.071 | 195.844.261.209 | 6.196.510.427 | 380.435.441.707  |
+|  GIÁ TRỊ HAO MÒN LÚY KẾ |  |  |  |   |
+|  Số dư đầu kỳ | 33.046.972.633 | 145.369.808.997 | 4.424.844.611 | 182.841.626.241  |
+|  Khẩu hao trong kỳ | 1.321.287.960 | 14.764.191.049 | 85.039.962 | 16.170.518.971  |
+|  Thanh lý, xóa sổ | - | (1.031.732.000) | - | (1.031.732.000)  |
+|  Số dư cuối kỳ | 34.368.260.593 | 159.102.268.046 | 4.509.884.573 | 197.980.413.212  |
+|  GIÁ TRỊ CÒN LẠI |  |  |  |   |
+|  Tại ngày đầu kỳ | 145.347.697.438 | 37.096.615.212 | 1.771.665.816 | 184.215.978.466  |
+|  Tại ngày cuối kỳ | 144.026.409.478 | 36.741.993.163 | 1.686.625.854 | 182.455.028.495  |
+
+Nguyên giá tài sản cố định vô hình đã khấu hao hết nhưng vẫn còn sử dụng tại ngày 30 tháng 6 năm 2025 là 111 tỷ VND (tại ngày 31 tháng 12 năm 2024: 53 tỷ VND). 13. BẤT ĐỘNG SẢN ĐẦU TƯ
+
+|   | Quyền
+sử dụng đất | Nhà cửa | Tống  |
+| --- | --- | --- | --- |
+|   | VND | VND | VND  |
+|  NGUYÊN GIÁ |  |  |   |
+|  Số dư đầu kỳ | 55.702 .700 .965 | 804.846.314.650 | 860.549.015.615  |
+|  Tăng trong kỳ | - | 2.329 .500 .000 | 2.329 .500 .000  |
+|  Số dư cuối kỳ | 55.702 .700 .965 | 807.175.814.650 | 862.878 .515 .615  |
+|  GIÁ TRỊ HAO MÒN LÚY KẾ |  |  |   |
+|  Số dư đầu kỳ | - | 300.950 .552 .522 | 300.950 .552 .522  |
+|  Trích khẩu hao trong kỳ | - | 17.552 .718 .944 | 17.552 .718 .944  |
+|  Số dư cuối kỳ | - | 318.503.271.466 | 318.503.271.466  |
+|  GIÁ TRỊ CÒN LẠI |  |  |   |
+|  Tại ngày đầu kỳ | 55.702 .700 .965 | 503.895 .762 .128 | 559.598 .463 .093  |
+|  Tại ngày cuối kỳ | 55.702 .700 .965 | 488.672 .543 .184 | 544.375 .244 .149  |
+
+Bất động sản đầu tư của Tập đoàn bao gồm:
+
+- Quyền sử dụng đất và nhà xưởng cho thuê tại Khu Công nghiệp Phố Nối A, xã Yên Mỹ, tỉnh Hưng Yên, Việt Nam; Khu Công nghiệp Hòa Mạc, thị xã Duy Tiên, tỉnh Ninh Bình.
+- Quyền sử dụng đất và diện tích cho thuê thương mại bao gồm tầng hầm thuộc Dự án Khu phức hợp Mandarin Garden 1 tại Khu đô thị Đông Nam Trần Duy Hưng, phường Yên Hòa, Hà Nội và khu Chung cư tại 70 Nguyễn Đức Cảnh, phường Hoàng Mai, Hà Nội và văn phòng cho thuê tại 257 Giải Phóng, phường Hai Bà Trưng, Hà Nội.
+
+--- TRANG 32 ---
+Bất động sản đầu tư là quyền sử dụng đất có thời hạn không xác định nên Tập đoàn không thực hiện trích khẩu hao.
+
+Tập đoàn đã thế chấp bất động sản đầu tư với giá trị còn lại tại ngày 30 tháng 6 năm 2025 là khoảng 5,5 tỷ VND để đảm bảo cho khoản tiền vay ngân hàng (tại ngày 31 tháng 12 năm 2024: 8,1 tỷ VND).
+
+Theo quy định tại Chuẩn mực kế toán Việt Nam số 05 - Bất động sản đầu tư, giá trị hợp lý của bất động sản đầu tư tại ngày 30 tháng 6 năm 2025 cần được trình bày. Tại ngày 30 tháng 6 năm 2025, Tập đoàn chưa trình bày giá trị hợp lý của bất động sản trên Thuyết minh báo cáo tài chính hợp nhất giữa niên độ này do chưa có quy định chi tiết tại chuẩn mực và quy định kế toán Việt Nam.
+
+Nguyên giá của bất động sản đầu tư tại ngày 30 tháng 6 năm 2025 bao gồm các bất động sản đã khẩu hao hết nhưng vẫn còn cho thuê với giá trị là 50,7 tỷ VND (tại ngày 31 tháng 12 năm 2024: 39,7 tỷ VND).
+
+# 14. CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Dự án Khu liên hợp Gang thép tại Dung Quất | 68.854 .561 .277 .865 | 60.108 .146 .801 .210  |
+|  Dự án Khu liên hợp Gang thép tại Hải Dương | 607.769 .120 .652 | 142.921 .041 .291  |
+|  Dự án nhà máy Container | 2.056 .179 .674 .233 | 2.232 .011 .190 .346  |
+|  Dự án ván sàn | 340.502 .342 .956 | 165.134 .902 .977  |
+|  Dự án Nông nghiệp | 299.566 .829 .826 | 326.243 .686 .515  |
+|  Dự án nhà máy Ống thép | 95.742 .070 .084 | 585.094 .789 .234  |
+|  Dự án Điện máy Gia dụng | 35.236 .477 .318 | 26.610 .898 .013  |
+|  Các công trình khác | 414.172 .054 .027 | 69.694 .130 .796  |
+|   | 72.703 .729 .846 .961 | 63.655 .857 .440 .382  |
+
+Tập đoàn đã thế chấp một số dự án với giá trị tại ngày 30 tháng 6 năm 2025 là khoảng 67.732 tỷ VND để đảm bảo cho các khoản tiền vay tại ngân hàng (tại ngày 31 tháng 12 năm 2024: 59.892 tỷ VND).
+
+Trong kỳ, tổng chi phí lãi vay đã được vốn hóa vào chi phí xây dựng cơ bản dở dang là 1.261 tỷ VND (kỳ trước: 489,4 tỷ VND).
+
+## 15. TÀI SẢN THUẾ THU NHẬP HOÃN LẠI
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Tài sản thuế thu nhập hoãn lại liên quan đến khoản chi phí phải trả | 52.516 .380 .352 | 42.204 .094 .372  |
+|  Tài sản thuế thu nhập hoãn lại liên quan đến khoản lợi nhuận chưa thực hiện đối với giao dịch nội bộ | 193.676 .370 .432 | 207.295 .316 .292  |
+|  Tài sản thuế thu nhập hoãn lại liên quan đến các khoản khác | 7.736 .146 .671 | 5.171 .797 .721  |
+|  Tài sản thuế thu nhập hoãn lại | 253.928 .897 .455 | 254.671 .208 .385  |
+
+--- TRANG 33 ---
+# 16. LỢI THẾ THƯƠNG MẠI
+
+|   | Lợi thế thương mại  |
+| --- | --- |
+|  NGUYÊN GIÁ | VND  |
+|  Số dư đầu kỳ và cuối kỳ | 121.195.363.677  |
+|  HAO MÒN |   |
+|  Số dư đầu kỳ | 57.582.236.954  |
+|  Phân bố trong kỳ | 6.049.970.652  |
+|  Số dư cuối kỳ | 63.632.207.606  |
+|  GIÁ TRỊ CÒN LẠI |   |
+|  Tại ngày đầu kỳ | 63.613.126.723  |
+|  Tại ngày cuối kỳ | 57.563.156.071  |
+
+# 17. PHÁI TRẢ NGƯỜI BÁN NGẮN HẠN
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|   | Giá trị/5ố có khả năng trả nợ | Giá trị/5ố có khả năng trả nợ  |
+|  a. Ngắn hạn |  |   |
+|  Zhongye Changtian International Engineering Co., Ltd | 592.677.864.000 | 571.750.285.857  |
+|  Cisdi Engineering Co., Ltd | 552.125.620.743 | 561.928.104.090  |
+|  Samarco Mineracao S.A. | 485.037.552.224 | 12.913.162.770.180  |
+|  Các nhà cung cấp khác | 13.506.569.916.739 | 14.046.841.160.127  |
+|  b. Dài hạn |  |   |
+|  WISDR1 Engineering & Research Incorporation Limited | 1.823.188.277.134 | 1.626.202.425.706  |
+|  Primetals Technologies Japan, Ltd. | 695.589.328.120 | 1.633.084.418.815  |
+|  Primetals Technologies Austria Gmbh | 561.434.416.224 | 399.160.556.513  |
+|  Các nhà cung cấp khác | 2.203.268.657.892 | 2.625.182.878.006  |
+|   | 5.283.480.679.370 | 6.283.630.279.040  |
+
+# 18. NGƯỜI MUA TRẢ TIỀN TRƯỚC NGẮN HẠN
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Công ty TNHH Tổ hợp Cơ khí Thaco | 4.638.514.056 | -  |
+|  Công ty TNHH Global Link Thăng Long | 3.631.739.540 | 4.501.326.817  |
+|  Công ty TNHH Phương Tùng Bách | 3.574.283.429 | 2.301.103.628  |
+|  Singapore Cogeneration Steel Pte Ltd | 92.870.820 | 113.025.859.200  |
+|  Các khách hàng khác | 294.730.375.825 | 619.350.016.908  |
+|   | 306.667.783.670 | 739.178.306.553  |
+
+--- TRANG 34 ---
+# 19. THUẾ VÀ CÁC KHOẢN PHẢI THU/PHẢI NỘP NHÀ NƯỚC
+
+|   | Số phải thu đầu kỳ | Số phải trả đầu kỳ | Số phải thu/ nộp trong kỳ | Số đã thực nộp trong kỳ | Số phải thu cuối kỳ | Số phải trả cuối kỳ  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND | VND  |
+|  Thuế giá trị gia tăng | 4.429.786.628 | 30.512.129.784 | 360.325.792.304 | 256.425.663.200 | 425.650.100 | 130.408.122.360  |
+|  Thuế giá trị gia tăng hàng nhập khẩu | 478.701.807 | - | 4.386.852.598.520 | 4.365.164.672.799 | 478.701.807 | 21.687.925.721  |
+|  Thuế tiêu thụ đặc biệt | - | 1.643.290.559 | 220.810.604.054 | 211.794.090.943 | - | 10.659.803.670  |
+|  Thuế xuất nhập khẩu | 8.288.807 | - | 249.982.269.079 | 249.982.269.079 | 8.288.807 | -  |
+|  Thuế thu nhập doanh nghiệp | 4.402.005.044 | 1.664.410.805.595 | 1.196.680.029.608 | 1.676.151.141.088 | 4.197.914.812 | 1.184.735.603.883  |
+|  Thuế thu nhập cá nhân | 306.041.067 | 10.166.130.374 | 137.282.257.989 | 140.732.630.591 | 107.765.660 | 6.517.482.365  |
+|  Thuế tài nguyên | - | 1.944.272.434 | 23.683.740.778 | 22.015.960.240 | - | 3.612.052.972  |
+|  Tiền thuê đất | 417.290.259 | 1.325.567 | 8.077.899.535 | 4.435.601.402 | 397.383.159 | 3.623.716.600  |
+|  Thuế nhà thầu | 26.597.988 | 33.499.775.057 | 113.647.583.191 | 128.871.330.671 | 24.861.985 | 18.274.291.574  |
+|  Các loại thuế khác | 6.255.936 | 1.233.700.045 | 48.057.518.387 | 47.229.956.220 | 56.137.336 | 2.111.143.612  |
+|   | 10.074.967.536 | 1.743.411.429.415 | 6.745.400.293.445 | 7.102.803.316.233 | 5.696.703.666 | 1.381.630.142.757  |
+
+--- TRANG 35 ---
+# 20. CHI PHÍ PHÁI TRẢ
+
+|   | Sổ cuối kỳ | Sổ đầu kỳ  |
+| --- | --- | --- |
+|   | VND | (Trình bày lại)  |
+|   |  | VND  |
+|  a. Ngắn hạn |  |   |
+|  Lãi vay phải trả | 299.756.042.051 | 284.756.230.119  |
+|  Tiền điện | 43.203.430.441 | 66.595.912.596  |
+|  Chi phí khuyến mại | 383.105.424.873 | 188.258.389.011  |
+|  Lương và thưởng | 230.358.516.484 | 3.968.326.004  |
+|  Chi phí phải trả cho nhà thầu | 74.002.477.476 | 21.179.331.823  |
+|  Chi phí phải trả khác | 89.315.191.784 | 117.353.882.949  |
+|   | 1.119.741.083.109 | 682.112.072.502  |
+|  b. Dài hạn |  |   |
+|  Chi phí trích trước tạm tính giá vốn đất | 673.108.219.760 | 1.089.692.237.207  |
+|  khu công nghiệp | 673.108.219.760 | 1.089.692.237.207  |
+
+# 21. PHÁI TRẢ KHÁC
+
+|   | Sổ cuối kỳ | Sổ đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  a. Ngắn hạn |  |   |
+|  Kinh phí công đoàn, bảo hiểm xã hội và bảo hiểm y tế | 10.269.503.519 | 4.582.516.447  |
+|  Chiết khẩu thương mại, hỗ trợ khách hàng | 63.800.203.533 | 21.587.116.182  |
+|  Nhận đặt cọc thực hiện hợp đồng | 81.327.978.703 | 34.406.553.527  |
+|  Cổ tức phải trả | 4.063.111.879 | 3.659.064.785  |
+|  Các khoản phải trả khác | 146.346.647.697 | 123.841.594.249  |
+|   | 305.807.445.331 | 188.076.845.190  |
+|  b. Dài hạn |  |   |
+|  Cổ tức phải trả | 1.332.287.366 | 1.332.287.366  |
+|  Các khoản phải trả khác | 12.623.951.638 | 11.144.217.804  |
+|   | 13.956.239.004 | 12.476.505.170  |
+
+--- TRANG 36 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+MẪU SỐ B 09a-DN/HN 22. VAY a. Vay ngắn hạn
+
+|   | Sổ đầu kỳ |  |  | Trong kỳ |  | Sổ cuối kỳ  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | Giá trị | VND
+Số có khả năng trả nợ | Tăng | Giảm | Giá trị | VND
+Số có khả năng trả nợ  |
+|  Vay ngắn hạn (i) | 52.583.846.906.046 | 52.583.846.906.046 | 81.784.041.395.923 | 74.300.349.303.229 | 60.067.538.998.740 | 60.067.538.998.740  |
+|  Nợ dài hạn đến hạn trả | 3.298.839.307.413 | 3.298.839.307.413 | 4.508.770.529.789 | 1.183.120.358.790 | 6.624.489.478.412 | 6.624.489.478.412  |
+|   | 55.882.686.213.459 | 55.882.686.213.459 | 86.292.811.925.712 | 75.483.469.662.019 | 66.692.028.477.152 | 66.692.028.477.152  |
+
+(i) Sổ dư vay ngắn hạn tại ngày 30 tháng 6 năm 2025 bao gồm các khoản vay bằng VND và các khoản vay bằng USD với giá trị tương ứng là 59.329 tỷ VND và 828 tỷ VND (tại ngày 31 tháng 12 năm 2024: 50.087 tỷ VND và 2.496 tỷ VND). Các khoản vay bằng VND chịu lãi suất từ 3,75 đến 4,8\%/năm (tại ngày 31 tháng 12 năm 2024: từ $3,25 \%$ đến $5 \% / n a ̃ m$ ). Các khoản vay bằng USD chịu lãi suất từ $3,8 \% / n a ̃ m$ đến $4,2 \% / n a ̃ m$ (tại ngày 31 tháng 12 năm 2024: từ $3,4 \% / n a ̃ m$ đến $4 \% / n a ̃ m$ ).
+
+Tại ngày 30 tháng 6 năm 2025, các khoản vay ngắn hạn bằng VND và USD với giá trị ghi sổ tương ứng là 49.630 tỷ VND và 828 tỷ VND (tại ngày 31 tháng 12 năm 2024: 44.119 tỷ VND và 2.496 tỷ VND) được bảo đảm bằng một số khoản tương đương tiền (Thuyết minh 4), tiền gửi có kỳ hạn (Thuyết minh 5), phải thu khách hàng ngắn hạn (Thuyết minh 6), hàng tồn kho (Thuyết minh 9), chi phí thuê đất trả trước dài hạn (Thuyết minh 10), tài sản cố định hữu hình (Thuyết minh 11), bất động sản đầu tư (Thuyết minh 13), xây dựng cơ bản dở dang và các tài sản hình thành trong tương lai của một số dự án thuộc Tập đoàn (Thuyết minh 14),. Các khoản vay ngắn hạn còn lại không được bảo đảm.
+
+--- TRANG 37 ---
+CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo) MẪU SỐ B 09a-DN/HN
+
+b. Vay dài hạn
+
+|   | Sổ đầu kỳ VND Giá trị | Sổ có khả năng trả nợ | Tăng | Trong kỳ VND Giảm | Sổ cuối kỳ VND Giá trị | Sổ cuối kỳ VND Giảm  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Vay dài hạn | 30.379.282.563.509 | 30.379.282.563.509 | 4.850.956.599.365 | 1.293.461.023.472 | 33.936.778.139.402 | 33.936.778.139.402  |
+|   | 30.379.282.563.509 | 30.379.282.563.509 | 4.850.956.599.365 | 1.293.461.023.472 | 33.936.778.139.402 | 33.936.778.139.402  |
+|  Trong đó: Sổ phải trả trong vòng 12 tháng Sổ phải trả sau 12 tháng | 3.298.839.307.413 |  |  |  | 6.624.489.478.412 |   |
+|   | 27.080.443.256.096 |  |  |  | 27.312.288.660.990 |   |
+
+36
+
+--- TRANG 38 ---
+#### CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+MẪU SỐ B 09a-DN/HN
+
+Chi tiết các khoản vay dài hạn như sau:
+
+|  Bên cho vay | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh Thành Công | 29.253.078.460.063 | 25.916.746.559.436  |
+|  Ngân hàng TNHH MTV HSBC Việt Nam | 2.269.124.789.004 | 2.661.031.108.243  |
+|  Ngân hàng TMCP Công thương Việt Nam - Chi nhánh Hà Nội | 1.788.525.901.834 | 695.123.649.174  |
+|  Ngân hàng TNHH Woori Việt Nam - chi nhánh Bắc Ninh | 94.696.969.682 | 167.575.757.564  |
+|  Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Hà Thành | 403.585.798.306 | 538.115.798.305  |
+|  Ngân hàng Quốc tế VIB | 118.256.220.513 | -  |
+|  Quỹ bảo vệ môi trường | 9.510.000.000 | 9.814.026.105  |
+|  Ngân hàng TMCP Kỹ thương Việt Nam | - | 390.875.664.682  |
+|   | 33.936.778.139.402 | 30.379.282.563.509  |
+
+Tại ngày 30 tháng 6 năm 2025, các khoản vay dài hạn có lãi suất từ 3,6%/năm đến 7%/năm (tại ngày 31 tháng 12 năm 2024: từ 2,6%/năm đến 7,2%/năm).
+
+Tại ngày 30 tháng 6 năm 2025, các khoản vay dài hạn của Tập đoàn được đảm bảo bởi một số hợp đồng tiền gửi có kỳ hạn (Thuyết minh số 5), một số hàng tồn kho (Thuyết minh số 9), một số tài sản cố định hữu hình (Thuyết minh số 11) và một số dự án xây dựng cơ bản dở dang (Thuyết minh số 14).
+
+#### 23. DỰ PHÒNG PHẢI TRẢ
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | (Trình bày lại)  |
+|   |  | VND  |
+|  a. Ngắn hạn |  |   |
+|  Chi phí bảo hành sản phẩm | 15.105.856.400 | 13.672.830.889  |
+|   | 15.105.856.400 | 13.672.830.889  |
+|  b. Dài hạn |  |   |
+|  Chi phí bảo dưỡng cơ sở hạ tầng | 57.000.000.000 | 54.000.000.000  |
+|  Chi phí bảo hành sản phẩm | 36.675.399.634 | 36.675.399.634  |
+|  Chi phí khôi phục môi trường | 31.397.893.712 | 30.820.147.306  |
+|   | 125.073.293.346 | 121.495.546.940  |
+
+#### 24. QUỸ KHEN THƯỜNG, PHÚC LỢI
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Số dư đầu kỳ | 1.027.310.381.825 | 1.375.476.964.884  |
+|  Trích quỹ trong kỳ | 423.429.725.000 | 386.550.000.000  |
+|  Sử dụng quỹ trong kỳ | (287.991.510.523) | (510.124.386.539)  |
+|  Số dư cuối kỳ | 1.162.748.596.302 | 1.251.902.578.345  |
+
+--- TRANG 39 ---
+# 25. VỐN CHỦ SỞ HỮU
+
+Thay đổi trong vốn chủ sở hữu
+
+|   | Vốn góp của chủ sở hữu VND | Thặng dư vốn cổ phần VND | Quỹ đầu tư phát triển VND | Lợi nhuận sau thuế chưa phân phối VND | Lợi ích cổ đông không kiểm soát VND | Tổng cộng VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Số dư tại ngày 01 tháng 01 năm 2024 | 58.147.857.000.000 | 3.211.560.416.270 | 818.200.313.964 | 40.593.031.662.654 | 65.769.846.491 | 102.836.419.239.379  |
+|  Góp vốn của cổ đông không kiểm soát | - | - | - | - | 40.000.000.000 | 40.000.000.000  |
+|  Trả lại vốn góp cho cổ đông thiếu số | - | - | - | - | (102.420.000) | (102.420.000)  |
+|  Lợi nhuận/(lỗ) trong kỳ | - | - | - | 6.189.851.834.853 | (1.094.513.836) | 6.188.757.321.017  |
+|  Trả cổ tức bằng cổ phiếu | 5.814.645.000.000 | (3.211.560.416.270) | - | (2.603.084.583.730) | - | -  |
+|  Trích quỹ khen thưởng, phúc lợi | - | - | - | (386.520.064.408) | (29.935.592) | (386.550.000.000)  |
+|  Công ty con trả cổ tức cho cổ đông không kiểm soát | - | - | - | - | (1.959.246.365) | (1.959.246.365)  |
+|  Số dư tại ngày 30 tháng 6 năm 2024 | 63.962.502.000.000 | - | 818.200.313.964 | 43.793.278.849.369 | 102.583.730.698 | 108.676.564.894.031  |
+|  Số dư tại ngày 01 tháng 01 năm 2025 | 63.962.502.000.000 | - | 794.841.242.128 | 49.599.124.109.203 | 290.990.632.368 | 114.647.457.983.699  |
+|  Góp vốn của cổ đông không kiểm soát | - | - | - | - | 525.200.000.000 | 525.200.000.000  |
+|  Trả lại vốn góp cho cổ đông thiếu số | - | - | - | - | (52.020.000) | (52.020.000)  |
+|  Lợi nhuận trong kỳ | - | - | - | 7.600.771.906.152 | 13.557.615.464 | 7.614.329.521.616  |
+|  Trích quỹ khen thưởng, phúc lợi, quỹ khen thưởng Ban điều hành, thù lao Hội đồng Quản trị và Ban Kiểm soát (i) | - | - | - | (423.429.725.000) | - | (423.429.725.000)  |
+|  Trích quỹ đầu tư phát triển (i) | - | - | 600.000.000.000 | (600.000.000.000) | - | -  |
+|  Công ty con trả cổ tức cho cổ đông không kiểm soát | - | - | - | - | (4.000.847.021) | (4.000.847.021)  |
+|  Thay đổi tỷ lệ sở hữu | - | - | - | 180.124.641 | (180.124.653) | (12)  |
+|  Số dư tại ngày 30 tháng 6 năm 2025 | 63.962.502.000.000 | - | 1.394.841.242.128 | 56.176.646.414.996 | 825.515.256.158 | 122.359.504.913.282  |
+
+(i) Theo Nghị quyết của Đại hội đồng cổ đông số 01/NQ-ĐHĐCĐ. 2025 ngày 17 tháng 4 năm 2025, Công ty đã thực hiện trích Quỹ khen thưởng, phúc lợi; Quỹ khen thưởng Ban điều hành, thù lao Hội đồng Quản trị và Ban kiểm soát và Quỹ đầu tư phát triển từ lợi nhuận sau thuế năm 2024.
+
+--- TRANG 40 ---
+# Vốn điều lệ
+
+Tại ngày 30 tháng 6 năm 2025, theo Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 37 ngày 18 tháng 12 năm 2024, vốn điều lệ của Công ty là 63.962.502.000.000 VND tương ứng với 6.396.250.200 cổ phiếu, đã được các cổ đông góp đủ như sau:
+
+|   | Theo Giấy chứng nhận Đăng ký Doanh nghiệp sửa đổi |  | Vốn đã góp |  |  |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  |  | Số cuối kỳ |  |  | Số đầu kỳ  |
+|   | VND | $\%$ | VND | $\%$ | VND | $\%$  |
+|  Ông Trần Đình Long | 16.500.000.000.000 | 25,80 | 16.500.000.000.000 | 25,80 | 16.500.000.000.000 | 25,80  |
+|  Bà Vũ Thị Hiền | 4.400.000.000.000 | 6,88 | 4.400.000.000.000 | 6,88 | 4.400.000.000.000 | 6,88  |
+|  Các cổ đông khác | 43.062.502.000.000 | 67,32 | 43.062.502.000.000 | 67,32 | 43.062.502.000.000 | 67,32  |
+|   | 63.962.502.000.000 | 100,00 | 63.962.502.000.000 | 100,00 | 63.962.502.000.000 | 100,00  |
+
+## Cổ phiếu
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|  Số lượng cổ phiếu đã bán ra công chúng | 6.396 .250 .200 | 6.396 .250 .200  |
+|  Cổ phiếu phổ thông | 6.396 .250 .200 | 6.396 .250 .200  |
+|  Số lượng cổ phiếu đang lưu hành | 6.396 .250 .200 | 6.396 .250 .200  |
+|  Cổ phiếu phổ thông | 6.396 .250 .200 | 6.396 .250 .200  |
+
+Cổ phiếu phổ thông có mệnh giá 10.000 VND/cổ phiếu.
+
+## Cổ tức
+
+Theo Nghị quyết số 01/NQ-ĐHĐCĐ. 2025 ngày 17 tháng 4 năm 2025 của Đại hội đồng Cổ đông và Nghị quyết số 10/NQHP-2025 ngày 05 tháng 5 năm 2025 của Hội đồng Quản trị, Công ty đã thông qua phương án chi trả cổ tức năm 2024 bằng cổ phiếu cho các cổ đông hiện hữu từ nguồn lợi nhuận sau thuế chưa phân phối theo tỷ lệ $20 \%$ (cổ đông sở hữu 10 cổ phiếu thường được nhận 2 cổ phiếu phát hành thêm). Ngày 27 tháng 6 năm 2025, Công ty đã chốt danh sách cổ đông để trả cổ tức bằng việc phát hành cổ phiếu. Ngày 18 tháng 7 năm 2025, Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh đã chấp thuận cho Công ty được thay đổi niêm yết liên quan đến việc phát hành cổ phiếu để trả cổ tức này. Theo đó, số lượng chứng khoán niêm yết tăng thêm 1.279.215.655 cổ phiếu (từ 6.396.250.200 cổ phiếu lên 7.675.465.855 cổ phiếu) kể từ ngày được chấp thuận này. Theo Giấy chứng nhận Đăng ký Doanh nghiệp thay đổi lần thứ 38 số 0900189284 ngày 11 tháng 8 năm 2025 được cấp bởi Sở Tài chính tỉnh Hưng Yên, vốn điều lệ của Công ty là 76.754.658.500.000 VND, tổng số cổ phiếu là 7.675 .465 .855 với mệnh giá 10.000 VND/cổ phiếu.
+
+--- TRANG 41 ---
+# 26. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIÊN ĐỘ
+
+Ngoại tệ các loại
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|  Đô la Mỹ ("USD") | 22.539 .262 | 14.517 .852  |
+|  Đồng Euro ("EUR") | 4.473 | 3.496  |
+|  Đô la Úc ("AUD") | 7.400 | 7.400  |
+|  Rupee Ấn Độ ("INR") | 131.820 | 131.820  |
+|  Nhân dân tệ ("CNY") | 11.805 | 12.559  |
+|  Đô la Singapore ("SGD") | 2.247 | 1.104  |
+|  Đồng Yên Nhật ("JPY") | 130.000 | 130.000  |
+|  Ringgit Malaysia ("MYR") | 3.621 | 3.621  |
+
+Cam kết thuê hoạt động
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Từ 1 năm trở xuống | 107.815 .470 .055 | 349.352 .274 .001  |
+|  Trên 1 năm đến 5 năm | 417.501 .968 .888 | 796.790 .846 .988  |
+|  Trên 5 năm | 885.924 .164 .959 | 1.098 .534 .313 .766  |
+|  Cộng | 1.411 .241 .603 .902 | 2.244 .677 .434 .755  |
+
+Nợ khó đòi đã xử lý
+
+|   | Số cuối kỳ | Số đầu kỳ  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Nguyễn Văn Khoa | 1.228 .440 .000 | -  |
+|  Hợp tác Xã Hà Phong | 439.461 .000 | -  |
+|  Các khách hàng khác | 919.708 .300 | -  |
+|   | 2.587 .609 .300 | -  |
+
+--- TRANG 42 ---
+27. BỘ PHẬN THEO LĨNH VỰC KINH DOANH VÀ BỘ PHẬN THEO KHU VỰC ĐỊA LÝ
+
+Bộ phận theo lĩnh vực kinh doanh là một bộ phận có thể phân biệt được của Tập đoàn tham gia vào quá trình sản xuất hoặc cung cấp sản phẩm, dịch vụ riêng lẻ, một nhóm các sản phẩm hoặc các dịch vụ có liên quan mà bộ phận này có rủi ro và lợi ích kinh tế khác với các bộ phận kinh doanh khác. Tập đoàn có các bộ phận theo lĩnh vực kinh doanh như sau:
+
+- Sản xuất và kinh doanh thép
+- Nông nghiệp
+- Bất động sản
+
+Bộ phận theo khu vực địa lý là một bộ phận có thể phân biệt được của Tập đoàn tham gia vào quá trình sản xuất hoặc cung cấp sản phẩm, dịch vụ trong phạm vi một môi trường kinh tế cụ thể mà bộ phận này có rủi ro và lợi ích kinh tế khác với các bộ phận kinh doanh trong các môi trường kinh tế khác. Tập đoàn xác định các bộ phận theo khu vực địa lý dựa trên vị trí của khách hàng là địa điểm của thị trường và khách hàng của doanh nghiệp, bao gồm Việt Nam, Châu Á (ngoại trừ Việt Nam), Châu Âu, Châu Mỹ, Châu Phi và Châu Úc.
+
+Tập đoàn chọn các bộ phận theo lĩnh vực kinh doanh là bộ phận báo cáo chính yếu vì rủi ro và tỷ suất sinh lời của Tập đoàn bị tác động chủ yếu bởi những khác biệt về sản phẩm và dịch vụ mà Tập đoàn sản xuất ra. Các bộ phận theo khu vực địa lý là bộ phận báo cáo thứ yếu.
+
+Giá áp dụng cho các giao dịch giữa các bộ phận được xác định trên cơ sở tương tự như với các bên thứ ba. Doanh thu, chi phí và kết quả kinh doanh của các bộ phận bao gồm các giao dịch giữa các bộ phận. Các giao dịch này được loại trừ khi lập báo cáo tài chính hợp nhất giữa niên độ.
+
+--- TRANG 43 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+Báo cáo bộ phận chính yếu: Theo lĩnh vực kinh doanh
+
+Thông tin về tài sản và các khoản nợ phải trả bộ phận tại ngày 30 tháng 6 năm 2025:
+
+|   | Sản xuất và kinh doanh
+thép | Nông nghiệp | Bất động sản | Loại trừ | Hợp nhất  |
+| --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND  |
+|  Tài sản bộ phận | 231.841 .849 .734 .858 | 4.947 .183 .299 .938 | 14.104 .633 .436 .433 | (8.669.135.552.179) | 242.224 .530 .919 .050  |
+|  Nợ phải trả bộ phận | 124.257 .497 .785 .644 | 1.916 .106 .608 .325 | 1.689 .735 .734 .318 | (7.998.314.122.519) | 119.865 .026 .005 .768  |
+
+Thông tin về tài sản và các khoản nợ phải trả bộ phận tại ngày 31 tháng 12 năm 2024:
+
+|   | Sản xuất và kinh doanh
+thép | Nông nghiệp | Bất động sản | Loại trừ | Hợp nhất  |
+| --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND  |
+|  Tài sản bộ phận | 212.863 .820 .372 .850 | 4.676 .230 .709 .727 | 10.277 .751 .461 .567 | (3.328.094.990.163) | 224.489 .707 .553 .981  |
+|  Nợ phải trả bộ phận | 108.382 .514 .439 .382 | 1.436 .230 .385 .044 | 2.582 .836 .295 .586 | (2.559.331.549.730) | 109.842 .249 .570 .282  |
+
+--- TRANG 44 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+## THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+### MẪU SỐ B 09a-DN/HN
+
+Thông tin về doanh thu, lợi nhuận và chi phí bộ phận cho kỳ kế toán kết thúc ngày 30 tháng 6 năm 2025:
+
+|   | Sản xuất và kinh doanh
+thép | Nông nghiệp | Bất động sản | Loại trừ | Hợp nhất  |
+| --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND  |
+|  **Doanh thu thuần**
+Doanh thu thuần từ bán hàng ra bên ngoài | 68.963.554.356.794 | 4.227.093.986.196 | 341.545.321.797 | - | 73.532.193.664.787  |
+|  **Doanh thu thuần từ bán hàng cho các bộ phận khác** | 6.176.236.145.480 | 931.231.654 | 41.192.077.683 | (6.218.359.454.817) | -  |
+|  **Tổng doanh thu thuần của bộ phận** | 75.139.790.502.274 | 4.228.025.217.850 | 382.737.399.480 | (6.218.359.454.817) | 73.532.193.664.787  |
+|  **Kết quả hoạt động kinh doanh**
+Lợi nhuận thuần trước thuế của bộ phận | 12.637.761.641.908 | 1.024.802.386.948 | 502.367.280.018 | (5.352.782.466.191) | 8.812.148.842.683  |
+|  (Chi phí) thuế thu nhập doanh nghiệp | (985.202.373.106) | (85.554.942.513) | (105.290.150.261) | (21.771.855.187) | (1.197.819.321.067)  |
+|  **Lợi nhuận thuần sau thuế** | 11.652.559.268.802 | 939.247.444.435 | 397.077.129.757 | (5.374.554.321.378) | 7.614.329.521.616  |
+|  **Các thông tin bộ phận khác**
+Tổng chi phí đã phát sinh để mua tài sản cố định | 10.242.103.214.366 | 84.003.101.326 | 145.310.540.331 | 118.161.371.019 | 10.589.578.227.042  |
+|  Khẩu hao và chi phí phân bổ | 3.159.123.075.662 | 41.508.230.823 | 37.162.522.586 | (4.973.324.075) | 3.232.820.504.996  |
+
+![img-1.jpeg](img-1.jpeg)
+
+--- TRANG 45 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+MẪU SỐ B 09a-DN/HN
+
+Thông tin về doanh thu, lợi nhuận và chi phí bộ phận cho kỳ kế toán kết thúc ngày 30 tháng 6 năm 2024:
+
+|   | Sản xuất và kinh doanh
+thép | Nông nghiệp | Bất động sản | Loại trừ | Hợp nhất  |
+| --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND  |
+|  Doanh thu thuần |  |  |  |  |   |
+|  Doanh thu thuần từ bán hàng ra bên ngoài | 66.516.384.616.467 | 3.058.306.692.064 | 833.178.110.640 | - | 70.407.869.419.171  |
+|  Doanh thu thuần từ bán hàng cho các bộ phận khác | 7.460.245.158.457 | 693.036.500 | 24.612.568.155 | (7.485.550.763.112) | -  |
+|  Tổng doanh thu thuần của bộ phận | 73.976.629.774.924 | 3.058.999.728.564 | 857.790.678.795 | (7.485.550.763.112) | 70.407.869.419.171  |
+|  Kết quả hoạt động kinh doanh |  |  |  |  |   |
+|  Lợi nhuận thuần trước thuế của bộ phận | 11.275.401.831.294 | 447.428.732.475 | 422.874.596.318 | (5.151.264.133.449) | 6.994.441.026.638  |
+|  (Chi phí) thuế thu nhập doanh nghiệp | (686.607.201.787) | (39.425.368.826) | (87.508.259.864) | 7.857.124.856 | (805.683.705.621)  |
+|  Lợi nhuận thuần sau thuế | 10.588.794.629.507 | 408.003.363.649 | 335.366.336.454 | (5.143.407.008.593) | 6.188.757.321.017  |
+|  Các thông tin bộ phận khác |  |  |  |  |   |
+|  Tổng chi phí đã phát sinh để mua tài sản cố định | 18.649.385.415.780 | 168.067.084.094 | 15.828.411.665 | 3.100.951.761 | 18.836.381.863.300  |
+|  Khẩu hao và chi phí phân bố | 3.200.887.453.419 | 221.639.063.767 | 30.587.354.505 | (25.061.639.992) | 3.428.052.231.699  |
+
+--- TRANG 46 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+Báo cáo bộ phận chính yếu: Theo khu vực địa lý
+
+Thông tin về doanh thu bộ phận cho kỳ kế toán kết thúc ngày 30 tháng 6 năm 2025:
+
+|   | Việt Nam | Châu Á (ngoại trừ Việt Nam) | Châu Âu | Châu Mỹ | Châu Phi | Châu Úc | Hợp nhất  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND | VND | VND  |
+|  Doanh thu thuần của bộ phận | 60.001 .718 .222 .871 | 7.301 .678 .145 .748 | 2.591 .065 .754 .907 | 2.782 .629 .085 .714 | 314.650 .703 .803 | 540.451 .751 .744 | 73.532 .193 .664 .787  |
+
+Thông tin về doanh thu bộ phận cho kỳ kế toán kết thúc ngày 30 tháng 6 năm 2024:
+
+|   | Việt Nam | Châu Á (ngoại trừ Việt Nam) | Châu Âu | Châu Mỹ | Châu Phi | Châu Úc | Hợp nhất  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | VND | VND | VND | VND | VND | VND | VND  |
+|  Doanh thu thuần của bộ phận | 45.921 .728 .177 .254 | 15.881 .159 .896 .674 | 5.590 .177 .666 .243 | 2.496 .049 .135 .073 | 61.628 .292 .483 | 457.126 .251 .444 | 70.407 .869 .419 .171  |
+
+--- TRANG 47 ---
+1. DOANH THU
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Tổng doanh thu bán hàng và cung cấp dịch vụ |  |   |
+|  Doanh thu bán hàng | 73.638 .882 .683 .138 | 69.897 .458 .440 .133  |
+|  Doanh thu cung cấp dịch vụ | 358.400 .484 .119 | 342.469 .036 .148  |
+|  Doanh thu cho thuê lại đất thuê | 184.888 .736 .282 | 711.808 .299 .231  |
+|  Doanh thu cho thuê bất động sản đầu tư | 51.642 .475 .155 | 74.916 .406 .142  |
+|  Doanh thu khác | 3.006 .969 .765 | 2.185 .607 .359  |
+|   | 74.236 .821 .348 .459 | 71.028 .837 .789 .013  |
+|  Các khoản giảm trừ doanh thu |  |   |
+|  Chiết khẩu thương mại | (673.892.702.303) | (597.385.254.845)  |
+|  Giảm giá hàng bán | (101.366.192) | (98.061.465)  |
+|  Hàng bán bị trả lại | (30.633.615.177) | (23.485.053.532)  |
+|   | (704.627.683.672) | (620.968.369.842)  |
+|  Doanh thu thuần | 73.532 .193 .664 .787 | 70.407 .869 .419 .171  |
+|  29. | GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP |   |
+|   | Kỳ này | Kỳ trước  |
+|   | VND | VND  |
+|  Giá vốn thành phẩm và hàng hóa đã bán | 61.438 .578 .358 .933 | 60.154 .794 .112 .534  |
+|  Giá vốn của dịch vụ đã cung cấp | 224.515 .811 .598 | 306.986 .058 .924  |
+|  Giá vốn cho thuê lại đất thuê | (119.486.222.170) | 336.583 .854 .997  |
+|  Giá vốn cho thuê bất động sản đầu tư | 24.874 .600 .254 | 38.464 .317 .745  |
+|  (Hoàn nhập)/trích lập dự phòng giảm giá hàng tồn kho | (54.214.748.624) | 167.020 .034 .935  |
+|  Giá vốn khác | 4.049 .453 .955 | 2.557 .589 .794  |
+|   | 61.518 .317 .253 .946 | 61.006 .405 .968 .929  |
+|  30. | CHI PHÍ SẢN XUẤT, KINH DOANH THEO YẾU TỐ |   |
+|   | Kỳ này | Kỳ trước  |
+|   | VND | VND  |
+|  Chi phí nguyên liệu, vật liệu trong chi phí sản xuất và mua hàng hóa để bán lại | 49.206 .644 .568 .451 | 51.260 .064 .213 .625  |
+|  Chi phí nhân công | 2.567 .969 .273 .703 | 2.433 .300 .845 .106  |
+|  Chi phí khẩu hao tài sản cố định | 3.418 .850 .663 .978 | 3.451 .457 .238 .681  |
+|  Chi phí dịch vụ mua ngoài | 5.209 .048 .950 .359 | 5.746 .769 .321 .082  |
+|  Chi phí khác bằng tiền | 1.698 .178 .073 .451 | 2.509 .455 .108 .928  |
+|   | 62.100 .691 .529 .942 | 65.401 .046 .727 .422  |
+|  31. | DOANH THU HOẠT ĐỘNG TÀI CHÍNH |   |
+|   | Kỳ này | Kỳ trước  |
+|   | VND | VND  |
+|  Lãi tiền gửi và cho vay | 542.688 .853 .844 | 694.517 .345 .989  |
+|  Lãi chênh lệch tỷ giá | 392.431 .922 .046 | 696.355 .905 .835  |
+|  Doanh thu hoạt động tài chính khác | 1.120 .192 .657 | 6.142 .218 .901  |
+|   | 936.240 .968 .547 | 1.397 .015 .470 .725  |
+
+--- TRANG 48 ---
+# 32. CHI PHÍ TÀI CHÍNH
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Chi phí đi vay | 1.066 .136 .992 .112 | 1.199 .753 .348 .133  |
+|  Lỗ chênh lệch tỷ giá | 860.472 .074 .149 | 909.479 .116 .644  |
+|  Chi phí tài chính khác | 23.422 .675 .466 | 16.472 .733 .042  |
+|   | 1.950 .031 .741 .727 | 2.125 .705 .197 .819  |
+
+1. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Các khoản chi phí bán hàng phát sinh trong kỳ |  |   |
+|  Chi phí nhân viên bán hàng | 122.655 .129 .897 | 96.981 .353 .586  |
+|  Chi phí khẩu hao tài sản cố định | 57.372 .103 .796 | 27.789 .936 .942  |
+|  Chi phí bảo hành | 18.901 .343 .745 | 20.569 .071 .526  |
+|  Chi phí vận chuyển | 379.782 .304 .118 | 297.727 .945 .963  |
+|  Chi phí quảng cáo | 71.441 .640 .802 | 73.704 .726 .655  |
+|  Chi phí khuyến mại, hỗ trợ bán hàng | 549.360 .863 .860 | 223.565 .400 .521  |
+|  Chi phí xuất khẩu | 295.493 .528 .540 | 411.277 .529 .283  |
+|  Chi phí dịch vụ mua ngoài và chi phí bán hàng khác | 68.180 .711 .257 | 235.272 .473 .577  |
+|   | 1.563 .187 .626 .015 | 1.386 .888 .438 .053  |
+|  Các khoản chi phí quản lý doanh nghiệp phát sinh trong kỳ |  |   |
+|  Chi phí nhân viên quản lý | 207.858 .916 .399 | 207.305 .885 .924  |
+|  Chi phí khẩu hao tài sản cố định | 36.121 .059 .987 | 60.447 .833 .378  |
+|  Chi phí phân bổ lợi thế thương mại | 6.049 .970 .652 | 6.049 .970 .652  |
+|  Chi phí dịch vụ mua ngoài và chi phí quản lý khác | 419.499 .721 .416 | 432.892 .704 .399  |
+|   | 669.529 .668 .454 | 706.696 .394 .353  |
+
+1. THU NHẬP KHÁC
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Lãi thanh lý tài sản | 11.291 .455 .386 | 365.291 .404 .164  |
+|  Thu nhập từ bán điện, nước và dịch vụ | 959.595 .656 | 274.546 .561 .954  |
+|  Tiền bồi thường nhận được từ các đơn vị khác | 28.049 .855 .537 | 59.336 .723 .933  |
+|  Thu nhập khác | 72.249 .405 .324 | 14.377 .293 .200  |
+|   | 112.550 .311 .903 | 713.551 .983 .251  |
+
+1. CHI PHÍ KHÁC
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Lỗ thanh lý tài sản cố định và xây dựng cơ bản dở dang | 3.439 .959 .418 | 3.857 .472 .029  |
+|  Giả vốn bán điện, nước và cung cấp dịch vụ | 252.662 .966 | 258.648 .723 .054  |
+|  Chi phí khác | 64.077 .190 .028 | 35.793 .652 .272  |
+|   | 67.769 .812 .412 | 298.299 .847 .355  |
+
+--- TRANG 49 ---
+36. CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Chi phí thuế thu nhập doanh nghiệp hiện hành |  |   |
+|  Chi phí thuế thu nhập doanh nghiệp tính trên thu nhập chịu thuế kỳ hiện hành | 1.190 .117 .669 .812 | 824.541 .148 .019  |
+|  Điều chỉnh chi phí thuế thu nhập doanh nghiệp của các năm trước vào chi phí thuế thu nhập hiện hành kỳ này | 6.562 .359 .796 | 10.231 .232 .108  |
+|  Tổng chi phí thuế thu nhập doanh nghiệp hiện hành | 1.196 .680 .029 .608 | 834.772 .380 .127  |
+
+Theo các điều khoản trong Luật thuế thu nhập hiện hành, Công ty có nghĩa vụ phải nộp Ngân sách Nhà nước thuế thu nhập bằng $20 \%$ trên lợi nhuận tính thuế.
+
+Các công ty con của Tập đoàn có nghĩa vụ phải nộp Ngân sách Nhà nước thuế thu nhập theo mức thuế suất và hưởng các ưu đãi thuế theo quy định trong các giấy Chứng nhận Đầu tư và các quy định thuế hiện hành. 37. LÃI CƠ BẢN TRÊN CỔ PHIẾU
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   |  | (Trình bày lại)  |
+|  Lợi nhuận kế toán sau thuế thu nhập doanh nghiệp của Công ty mẹ (VND) Các khoản điều chỉnh tăng hoặc giảm lợi nhuận kế toán để xác định lợi nhuận hoặc lỗ phân bố cho cổ đông sở hữu cổ phiếu phổ thông: - Trích Quỹ Khen thưởng, phúc lợi (VND) (i) | 7.600 .771 .906 .152 | 6.189 .851 .834 .853  |
+|  Lợi nhuận phân bố cho cổ đông sở hữu cổ phiếu phổ thông (VND) Số bình quân gia quyền của cổ phiếu phổ thông đang lưu hành (cổ phiếu) | (234.103.774.709) | (235.000.000.000)  |
+|   | 7.366 .668 .131 .443 | 5.954 .851 .834 .853  |
+|  Lãi cơ bản trên cổ phiếu (VND/cổ phiếu) (ii) | 7.675 .465 .855 | 7.675 .465 .855  |
+|   | 960 | 776  |
+
+(i) Tại ngày 30 tháng 6 năm 2025, Công ty chưa ước tính được một cách đáng tin cậy số lợi nhuận năm 2025 có thể được phân bổ vào Quỹ khen thưởng phúc lợi, Quỹ khen thưởng Ban điều hành, và thù lao Hội đồng Quản trị và Ban Kiểm soát. Để phục vụ mục đích trình bày chỉ tiêu Lãi cơ bản trên cổ phiếu năm nay, các quỹ này được tạm tính theo tỷ lệ là $3,08 \%$ lợi nhuận sau thuế chưa phân phối của Công ty mẹ - bằng với tỷ lệ phân bổ vào các quỹ kỳ trước. (ii) Số liệu Lãi cơ bản trên cổ phiếu cho kỳ kế toán kết thúc ngày 30 tháng 6 năm 2024 được trình bày lại do ảnh hưởng của việc phát hành cổ phiếu trả cổ tức cho năm 2025 theo hướng dẫn của Chuẩn mực kế toán Việt Nam số 30 "Lãi trên cổ phiếu" và Thông tư số 200/2014/TT-BTC do Bộ Tài chính ban hành ngày 22 tháng 12 năm 2014, cụ thể như sau:
+
+--- TRANG 50 ---
+# CÔNG TY CỔ PHẦN TẬP ĐOÀN HÒA PHÁT THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (Tiếp theo)
+
+MẪU SỐ B 09a-DN/HN
+
+|   | Số điều chỉnh so với số đã báo cáo | Số trình bày lại  |
+| --- | --- | --- |
+|  Lợi nhuận sau thuế thu nhập doanh nghiệp (VND) | 6.189.851.834.853 | -6.189.851.834.853  |
+|  - Trích Quỹ khen thưởng phúc lợi, Quỹ khen thưởng Ban điều hành, Thủ lao Hội đồng Quản trị và Ban Kiểm soát (VND) | (309.000.000.000) | 74.000.000.000 (235.000.000.000)  |
+|  Lợi nhuận phân bổ cho cổ đông sở hữu cổ phiếu phổ thông (VND) | 5.880.851.834.853 | 74.000.000.0005.954.851.834.853  |
+|  Cổ phiếu phổ thông đang lưu hành bình quân trong kỳ (cổ phiếu) | 6.396.250.200 | 1.279.215.655  |
+|  Lãi cơ bản trên cổ phiếu (VND) | 919 | 58  |
+
+Số lượng cổ phiếu phổ thông đang lưu hành bình quân được trình bày trong kỳ như sau:
+
+|   | Kỳ này | Kỳ trước (trình bày lại)  |
+| --- | --- | --- |
+|  Cổ phiếu phổ thông đang lưu hành đầu kỳ | cổ phiếu | cổ phiếu  |
+|  Ảnh hưởng của việc trả cổ tức bằng cổ phiếu trong kỳ hoạt động 6 tháng kết thúc ngày 30 tháng 6 năm 2025 | 6.396.250.200 | 1.279.215.655  |
+|  Cổ phiếu phổ thông đang lưu hành bình quân trong kỳ | 7.675.465.855 | 7.675.465.855  |
+
+Trong kỳ, Tập đoàn không có cổ phiếu phổ thông tiềm năng và do đó không trình bày lãi suy giảm trên cổ phiếu.
+
+## 38. CÁC KHOẢN CAM KẾT
+
+### Cam kết thuê hoạt động
+
+Tại ngày kết thúc kỳ hoạt động, Tập đoàn ký hợp đồng thuê đất, thuê nhà xưởng và văn phòng với Nhà nước và các công ty khác nhằm mục đích phục vụ hoạt động sản xuất kinh doanh. Theo các hợp đồng này, Tập đoàn phải trả tiền thuê cho đến ngày đào hạn hợp đồng theo các quy định hiện hành.
+
+### Cam kết vốn
+
+#### Đầu tư Dự án
+
+Tập đoàn cam kết vốn trong tương lai để thực hiện đầu tư Dự án khu liên hợp gang thép Dung Quất và các dự án khác. Số tiền tương ứng với các cẩu phần đã ký hợp đồng nhưng chưa triển khai tại ngày 30 tháng 6 năm 2025 là khoảng 11.448 tỷ VND (tại ngày 31 tháng 12 năm 2024: khoảng 18.748 tỷ VND).
+
+--- TRANG 51 ---
+39. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN
+
+Thù lao, lương và thưởng của Ban Tổng Giám đốc, Hội đồng Quản trị, Ban Kiểm soát và các cán bộ quản lý chủ chốt khác được hưởng trong kỳ như sau:
+
+|   | Kỳ này | Kỳ trước  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Thù lao Thành viên của Hội đồng Quản trị | 83.160 .000 .000 | 106.252 .000 .000  |
+|  Lương và thưởng của Ban Tổng Giám đốc | 28.214 .888 .000 | 2.763 .894 .000  |
+|  Thù lao, lương và thưởng của Ban Kiểm soát | 2.152 .788 .419 | 1.967 .834 .151  |
+|  Lương và thưởng của Cán bộ quản lý chủ chốt khác | 1.242 .697 .041 | 997.214 .424  |
+|   | 114.770 .373 .460 | 111.980 .942 .575  |
+
+1. SỰ KIỆN SAU NGÀY KẾT THÚC KỲ KẾ TOÁN
+
+Ngày 18 tháng 7 năm 2025, Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh đã chấp thuận cho Công ty được thay đổi niêm yết liên quan đến việc phát hành cổ phiếu để trả cổ tức theo Nghị quyết số 01/NQĐHĐCĐ. 2025 ngày 17 tháng 4 năm 2025 của Đại hội đồng Cổ đông và Nghị quyết số 10/NQHP-2025 ngày 05 tháng 5 năm 2025 của Hội đồng Quản trị. Theo đó, số lượng chứng khoán niêm yết tăng thêm 1.279.215.655 cổ phiếu (từ 6.396.250.200 cổ phiếu lên 7.675 .465 .855 cổ phiếu) kể từ ngày được chấp thuận này. Ngày 11 tháng 8 năm 2025, Công ty được Sở Tài chính tỉnh Hưng Yên cấp Giấy chứng nhận Đăng ký Doanh nghiệp số 0900189284 thay đổi lần thứ 38 với vốn điều lệ là 76.754.658.500.000 VND, tổng số cổ phiếu là 7.675 .465 .855 với mệnh giá 10.000 VND/cổ phiếu.
+
+Trần Xuân Mai Người lập biểu
+
+Pham Thị Kim Oanh Kế toán trưởng
+
+Nguyễn Việt Thắng Tổng Giám đốc
+
+Ngày 29 tháng 8 năm 2025
+
+--- TRANG 52 ---
+![img-2.jpeg](img-2.jpeg)
+
+Văn phòng Hà Nội
+
+Tầng 12, Tòa nhà Diamond Park Plaza, Số 16 Láng Hạ, Phường Giảng Võ, Thành phố Hà Nội, Việt Nam
+Điện thoại: +84 24 7107 0000
+
+Website: www.deloitte.com/vn
+Email: deloittevietnam@deloitte.com
+
+© Deloitte Vietnam
+
+Văn phòng Tp. Hồ Chí Minh
+
+Tầng 18, Tòa nhà Times Square, Số 57-69F Đồng Khởi, Phường Sài Gòn, Thành phố Hồ Chí Minh, Việt Nam
+Điện thoại: +84 28 7101 4555

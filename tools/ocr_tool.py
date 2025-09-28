@@ -10,7 +10,6 @@ from pydantic import BaseModel, Field
 from crewai.tools import BaseTool
 from mistralai import Mistral
 
-# Hàm serialize giữ nguyên
 def serialize(obj: Any) -> Any:
     import dataclasses
     if obj is None or isinstance(obj, (str, bool, int, float)): return obj
@@ -86,15 +85,12 @@ class MistralOCRTool(BaseTool):
 
             raw_response = serialize(ocr_resp)
 
-            # --- BẮT ĐẦU PHẦN NÂNG CẤP LOGIC XỬ LÝ JSON ---
             print("[OCR Tool] Đang xử lý phản hồi từ API...")
             
-            # Để gỡ lỗi, in ra một phần của JSON trả về
             print("[OCR Tool] Snippet phản hồi thô từ API:")
             print(json.dumps(raw_response, indent=2, ensure_ascii=False)[:1000]) # In 1000 ký tự đầu
 
             pages_data = []
-            # Thử nhiều key có thể chứa danh sách các trang
             if isinstance(raw_response, dict):
                 possible_page_keys = ["pages", "page", "pages_data"]
                 for key in possible_page_keys:
@@ -110,13 +106,11 @@ class MistralOCRTool(BaseTool):
                     text = ""
                     page_number = i
                     if isinstance(p_data, dict):
-                        # Thử nhiều key có thể chứa văn bản
                         possible_text_keys = ["text", "plain_text", "markdown", "content"]
                         for key in possible_text_keys:
                             if key in p_data and p_data[key]:
                                 text = p_data[key]
                                 break
-                        # Thử nhiều key có thể chứa số trang
                         possible_page_num_keys = ["page_number", "page", "index"]
                         for key in possible_page_num_keys:
                             if key in p_data:
@@ -127,7 +121,6 @@ class MistralOCRTool(BaseTool):
                     
                     extracted_pages.append({"page_number": page_number, "text": text})
             
-            # Fallback: Nếu không tìm thấy cấu trúc trang, thử tìm text ở cấp cao nhất
             if not extracted_pages and isinstance(raw_response, dict):
                 top_level_text = raw_response.get("text")
                 if top_level_text:
@@ -139,7 +132,6 @@ class MistralOCRTool(BaseTool):
             all_text = "\n\n".join(
                 [f"--- TRANG {p['page_number']} ---\n{p['text']}" for p in extracted_pages]
             )
-            # --- KẾT THÚC PHẦN NÂNG CẤP ---
 
             txt_path = Path(str(output_prefix) + ".ocr_text.txt")
             with open(txt_path, "w", encoding="utf-8") as f:
